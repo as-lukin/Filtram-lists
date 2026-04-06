@@ -1,6 +1,6 @@
 # DNS Blocklist: Gambling & Betting — AdGuard
-# Updated: 2026-04-05 05:07 UTC
-# Total: 69,078
+# Updated: 2026-04-06 05:17 UTC
+# Total: 69,084
 
 ||*.0-casino.info^
 ||*.000-online-casino.biz^
@@ -12495,6 +12495,7 @@
 ||*.forsportspicks.com^
 ||*.fortotalrewards.net^
 ||*.fortsaskinfo.pages.dev^
+||*.fortun365top.com^
 ||*.fortuna-casino.click^
 ||*.fortuna-casino.sk^
 ||*.fortuna-casino.top^
@@ -27672,6 +27673,7 @@
 ||*.sevenslots-casino.xyz^
 ||*.sexy-livecasino.co^
 ||*.sexy-livecasino2024.online^
+||*.sexybaccarats.co^
 ||*.sexycamcasino.com^
 ||*.sexycasino.one^
 ||*.sexycasino.plus^
@@ -32575,6 +32577,7 @@
 ||*.wasiat138.org^
 ||*.wasiat138login.co^
 ||*.wasiat138slot.org^
+||*.wasserundsalz.de.com^
 ||*.wati81459.com^
 ||*.watiyocasinoufabet.shop^
 ||*.waveluxurycasino.net^
