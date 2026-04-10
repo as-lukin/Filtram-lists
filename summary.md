@@ -1,5 +1,5 @@
 <!-- STATS_START -->
-> 🕒 Last updated: **2026-04-09 05:05 UTC**  |  🔒 Total unique domains: **4,937,640**
+> 🕒 Last updated: **2026-04-10 05:18 UTC**  |  🔒 Total unique domains: **4,950,036**
 
 | Category | Entries |
 |----------|---------|
@@ -7,9 +7,9 @@
 | Messengers | 140 |
 | Adult Content | 1,315,466 |
 | Gambling & Betting | 69,084 |
-| Ads & Advertising | 1,886,482 |
+| Ads & Advertising | 1,899,656 |
 | Trackers & Analytics | 534 |
 | Cryptocurrency | 47,734 |
-| Phishing & Malware | 1,939,996 |
-| **Total (ALL)** | **4,937,640** |
+| Phishing & Malware | 1,939,900 |
+| **Total (ALL)** | **4,950,036** |
 <!-- STATS_END -->
