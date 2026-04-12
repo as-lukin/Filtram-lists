@@ -1,0 +1,14 @@
+# ==============================================================
+# DNS Blocklist: Tumblr
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 6
+# Description: social | group_id=135
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.assets.tumblr.com
+*.media.tumblr.com
+*.tumblr.com
+assets.tumblr.com
+media.tumblr.com
+tumblr.com

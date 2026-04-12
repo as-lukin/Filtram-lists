@@ -1,0 +1,9 @@
+! Title: LinkedIn
+! Updated: 2026-04-12 05:20 UTC
+! Format: AdGuard Home / AdGuard DNS
+! Total rules: 8
+
+||*.licdn.com^
+||*.linked.in^
+||*.linkedin.com^
+||*.lnkd.in^

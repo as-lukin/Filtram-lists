@@ -1,0 +1,18 @@
+# ==============================================================
+# DNS Blocklist: Skype
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 10
+# Description: messenger | group_id=106
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.skype.com
+*.skype.net
+*.skypeassets.com
+*.skypecdn.net
+*.skypesbusiness.com
+skype.com
+skype.net
+skypeassets.com
+skypecdn.net
+skypesbusiness.com

@@ -1,0 +1,24 @@
+# ==============================================================
+# DNS Blocklist: Reddit
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 16
+# Description: social | group_id=131
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.redd.it
+*.reddit.app.link
+*.reddit.com
+*.redditinc.com
+*.redditmail.com
+*.redditmedia.com
+*.redditstatic.com
+*.reddituploads.com
+redd.it
+reddit.app.link
+reddit.com
+redditinc.com
+redditmail.com
+redditmedia.com
+redditstatic.com
+reddituploads.com

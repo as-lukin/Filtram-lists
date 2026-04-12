@@ -1,0 +1,20 @@
+# ==============================================================
+# DNS Blocklist: Signal
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 12
+# Description: messenger | group_id=104
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.cdn.signal.org
+*.signal.group
+*.signal.org
+*.storage.signal.org
+*.updates.signal.org
+*.whispersystems.org
+cdn.signal.org
+signal.group
+signal.org
+storage.signal.org
+updates.signal.org
+whispersystems.org

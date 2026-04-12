@@ -1,0 +1,15 @@
+! Title: Telegram
+! Updated: 2026-04-12 05:20 UTC
+! Format: AdGuard Home / AdGuard DNS
+! Total rules: 20
+
+||*.cdn4.telesco.pe^
+||*.cdn5.telesco.pe^
+||*.core.telegram.org^
+||*.t.me^
+||*.telegra.ph^
+||*.telegram.dog^
+||*.telegram.me^
+||*.telegram.org^
+||*.telesco.pe^
+||*.tg.dev^

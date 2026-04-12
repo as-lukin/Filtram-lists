@@ -1,0 +1,24 @@
+# ==============================================================
+# DNS Blocklist: ВКонтакте
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 16
+# Description: social | group_id=121
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.userapi.com
+*.vk-cdn.net
+*.vk.cc
+*.vk.com
+*.vk.me
+*.vk.ru
+*.vkimg.net
+*.vkontakte.ru
+userapi.com
+vk-cdn.net
+vk.cc
+vk.com
+vk.me
+vk.ru
+vkimg.net
+vkontakte.ru

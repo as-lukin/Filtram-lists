@@ -1,0 +1,11 @@
+! Title: Viber
+! Updated: 2026-04-12 05:20 UTC
+! Format: AdGuard Home / AdGuard DNS
+! Total rules: 12
+
+||*.api.viber.com^
+||*.content.viber.com^
+||*.dlattr.viber.com^
+||*.ps.viber.com^
+||*.vb.me^
+||*.viber.com^

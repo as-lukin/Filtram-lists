@@ -1,0 +1,12 @@
+# ==============================================================
+# DNS Blocklist: Threads
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 4
+# Description: social | group_id=136
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.threads.com
+*.threads.net
+threads.com
+threads.net

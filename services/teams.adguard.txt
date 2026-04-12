@@ -1,0 +1,10 @@
+! Title: Microsoft Teams
+! Updated: 2026-04-12 05:20 UTC
+! Format: AdGuard Home / AdGuard DNS
+! Total rules: 10
+
+||*.sfbassets.com^
+||*.statics.teams.cdn.office.net^
+||*.teams.cdn.office.net^
+||*.teams.live.com^
+||*.teams.microsoft.com^

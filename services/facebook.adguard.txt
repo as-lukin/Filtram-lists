@@ -1,0 +1,14 @@
+! Title: Facebook
+! Updated: 2026-04-12 05:20 UTC
+! Format: AdGuard Home / AdGuard DNS
+! Total rules: 18
+
+||*.facebook.com^
+||*.facebook.net^
+||*.fb.com^
+||*.fb.me^
+||*.fb.watch^
+||*.fbcdn.net^
+||*.fbpigeon.com^
+||*.fbsbx.com^
+||*.fbworkplace.com^

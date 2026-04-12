@@ -1,0 +1,20 @@
+# ==============================================================
+# DNS Blocklist: WeChat
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 12
+# Description: messenger | group_id=110
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.qlogo.cn
+*.qpic.cn
+*.wechat.com
+*.wechatpay.com
+*.weixin.qq.com
+*.wx.qq.com
+qlogo.cn
+qpic.cn
+wechat.com
+wechatpay.com
+weixin.qq.com
+wx.qq.com

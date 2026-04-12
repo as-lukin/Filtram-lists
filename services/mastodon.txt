@@ -1,0 +1,20 @@
+# ==============================================================
+# DNS Blocklist: Mastodon
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 12
+# Description: social | group_id=134
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.fosstodon.org
+*.hachyderm.io
+*.infosec.exchange
+*.masto.ai
+*.mastodon.online
+*.mastodon.social
+fosstodon.org
+hachyderm.io
+infosec.exchange
+masto.ai
+mastodon.online
+mastodon.social

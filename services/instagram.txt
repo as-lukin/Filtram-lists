@@ -1,0 +1,20 @@
+# ==============================================================
+# DNS Blocklist: Instagram
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 12
+# Description: social | group_id=123
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.cdninstagram.com
+*.ig.me
+*.igsonar.com
+*.instagr.am
+*.instagram-brand.com
+*.instagram.com
+cdninstagram.com
+ig.me
+igsonar.com
+instagr.am
+instagram-brand.com
+instagram.com

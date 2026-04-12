@@ -1,0 +1,22 @@
+# ==============================================================
+# DNS Blocklist: Slack
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 14
+# Description: messenger | group_id=108
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.slack-edge.com
+*.slack-files.com
+*.slack-imgs.com
+*.slack-msgs.com
+*.slack-redir.net
+*.slack.com
+*.slackb.com
+slack-edge.com
+slack-files.com
+slack-imgs.com
+slack-msgs.com
+slack-redir.net
+slack.com
+slackb.com

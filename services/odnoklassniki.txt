@@ -1,0 +1,14 @@
+# ==============================================================
+# DNS Blocklist: Одноклассники
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 6
+# Description: social | group_id=122
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.mycdn.me
+*.odnoklassniki.ru
+*.ok.ru
+mycdn.me
+odnoklassniki.ru
+ok.ru

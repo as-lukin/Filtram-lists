@@ -1,0 +1,26 @@
+# ==============================================================
+# DNS Blocklist: YouTube
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 18
+# Description: social | group_id=127
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.googlevideo.com
+*.youtu.be
+*.youtube-nocookie.com
+*.youtube.com
+*.youtubei.googleapis.com
+*.youtubekids.com
+*.yt.be
+*.yt3.ggpht.com
+*.ytimg.com
+googlevideo.com
+youtu.be
+youtube-nocookie.com
+youtube.com
+youtubei.googleapis.com
+youtubekids.com
+yt.be
+yt3.ggpht.com
+ytimg.com

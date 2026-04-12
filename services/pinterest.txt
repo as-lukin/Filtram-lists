@@ -1,0 +1,26 @@
+# ==============================================================
+# DNS Blocklist: Pinterest
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 18
+# Description: social | group_id=129
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.pin.it
+*.pinimg.com
+*.pinterest.ca
+*.pinterest.co.uk
+*.pinterest.com
+*.pinterest.de
+*.pinterest.fr
+*.pinterest.jp
+*.pinterest.ru
+pin.it
+pinimg.com
+pinterest.ca
+pinterest.co.uk
+pinterest.com
+pinterest.de
+pinterest.fr
+pinterest.jp
+pinterest.ru

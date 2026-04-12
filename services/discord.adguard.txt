@@ -1,0 +1,13 @@
+! Title: Discord
+! Updated: 2026-04-12 05:20 UTC
+! Format: AdGuard Home / AdGuard DNS
+! Total rules: 16
+
+||*.dis.gd^
+||*.discord.co^
+||*.discord.com^
+||*.discord.gg^
+||*.discord.media^
+||*.discordapp.com^
+||*.discordapp.net^
+||*.discordstatus.com^

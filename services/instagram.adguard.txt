@@ -1,0 +1,11 @@
+! Title: Instagram
+! Updated: 2026-04-12 05:20 UTC
+! Format: AdGuard Home / AdGuard DNS
+! Total rules: 12
+
+||*.cdninstagram.com^
+||*.ig.me^
+||*.igsonar.com^
+||*.instagr.am^
+||*.instagram-brand.com^
+||*.instagram.com^

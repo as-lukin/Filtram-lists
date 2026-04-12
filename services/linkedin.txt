@@ -1,0 +1,16 @@
+# ==============================================================
+# DNS Blocklist: LinkedIn
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 8
+# Description: social | group_id=132
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.licdn.com
+*.linked.in
+*.linkedin.com
+*.lnkd.in
+licdn.com
+linked.in
+linkedin.com
+lnkd.in

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12 05:17 UTC",
+  "updated": "2026-04-12 05:20 UTC",
   "total": 4977652,
   "categories": {
     "social": 3366,
@@ -10,5 +10,35 @@
     "tracking": 534,
     "crypto": 47734,
     "phishing": 1940402
+  },
+  "services": {
+    "telegram": 20,
+    "whatsapp": 10,
+    "viber": 12,
+    "signal": 12,
+    "discord": 16,
+    "skype": 10,
+    "teams": 10,
+    "slack": 14,
+    "line": 12,
+    "wechat": 12,
+    "kakaotalk": 10,
+    "zoom": 12,
+    "vk": 16,
+    "odnoklassniki": 6,
+    "instagram": 12,
+    "tiktok": 34,
+    "facebook": 18,
+    "twitter": 12,
+    "youtube": 18,
+    "twitch": 12,
+    "pinterest": 18,
+    "snapchat": 14,
+    "reddit": 16,
+    "linkedin": 8,
+    "bluesky": 10,
+    "mastodon": 12,
+    "tumblr": 6,
+    "threads": 4
   }
 }

@@ -1,0 +1,11 @@
+! Title: Twitch
+! Updated: 2026-04-12 05:20 UTC
+! Format: AdGuard Home / AdGuard DNS
+! Total rules: 12
+
+||*.ext-twitch.tv^
+||*.jtvnw.net^
+||*.static.twitchsvc.net^
+||*.twitch.tv^
+||*.twitchapps.com^
+||*.twitchsvc.net^

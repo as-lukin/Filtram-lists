@@ -1,0 +1,22 @@
+! Title: TikTok
+! Updated: 2026-04-12 05:20 UTC
+! Format: AdGuard Home / AdGuard DNS
+! Total rules: 34
+
+||*.bytedance.com^
+||*.bytefcdn-oversea.com^
+||*.byteimg.com^
+||*.byteoversea.com^
+||*.bytescm.com^
+||*.capcut.com^
+||*.capcut.net^
+||*.douyin.com^
+||*.ibytedtos.com^
+||*.musical.ly^
+||*.sgsnssdk.com^
+||*.snssdk.com^
+||*.tiktok.com^
+||*.tiktokcdn-us.com^
+||*.tiktokcdn.com^
+||*.tiktokeu.com^
+||*.tiktokv.com^

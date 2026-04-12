@@ -1,0 +1,20 @@
+# ==============================================================
+# DNS Blocklist: Zoom
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 12
+# Description: messenger | group_id=112
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.zmcdn.com
+*.zoom.com
+*.zoom.com.cn
+*.zoom.us
+*.zoomdev.us
+*.zoomgov.com
+zmcdn.com
+zoom.com
+zoom.com.cn
+zoom.us
+zoomdev.us
+zoomgov.com

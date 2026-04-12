@@ -1,0 +1,20 @@
+# ==============================================================
+# DNS Blocklist: Twitter / X
+# Updated: 2026-04-12 05:20 UTC
+# Format: wildcard (*.domain.tld)
+# Total entries: 12
+# Description: social | group_id=126
+# Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
+# ==============================================================
+*.t.co
+*.twimg.com
+*.twitpic.com
+*.twitter.com
+*.twttr.com
+*.x.com
+t.co
+twimg.com
+twitpic.com
+twitter.com
+twttr.com
+x.com

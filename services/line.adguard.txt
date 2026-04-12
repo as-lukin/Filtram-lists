@@ -1,0 +1,11 @@
+! Title: LINE
+! Updated: 2026-04-12 05:20 UTC
+! Format: AdGuard Home / AdGuard DNS
+! Total rules: 12
+
+||*.line-apps.com^
+||*.line-scdn.net^
+||*.line.me^
+||*.line.naver.jp^
+||*.linecdn.net^
+||*.obs.line-apps.com^
