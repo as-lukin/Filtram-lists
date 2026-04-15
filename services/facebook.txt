@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Facebook
-# Updated: 2026-04-14 05:17 UTC
+# Updated: 2026-04-15 05:17 UTC
 # Format: wildcard (*.domain.tld)
 # Total entries: 18
 # Description: social | group_id=125
