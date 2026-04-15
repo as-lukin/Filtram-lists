@@ -1,28 +1,11 @@
 # ==============================================================
 # DNS Blocklist: TikTok
-# Updated: 2026-04-15 05:17 UTC
-# Format: wildcard (*.domain.tld)
-# Total entries: 34
+# Updated: 2026-04-15 19:05 UTC
+# Format: plain domain (one per line — suffix matching applied by consumers)
+# Total entries: 17
 # Description: social | group_id=124
 # Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
 # ==============================================================
-*.bytedance.com
-*.bytefcdn-oversea.com
-*.byteimg.com
-*.byteoversea.com
-*.bytescm.com
-*.capcut.com
-*.capcut.net
-*.douyin.com
-*.ibytedtos.com
-*.musical.ly
-*.sgsnssdk.com
-*.snssdk.com
-*.tiktok.com
-*.tiktokcdn-us.com
-*.tiktokcdn.com
-*.tiktokeu.com
-*.tiktokv.com
 bytedance.com
 bytefcdn-oversea.com
 byteimg.com

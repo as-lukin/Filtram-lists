@@ -1,8 +1,8 @@
 ! Title: Tumblr
-! Updated: 2026-04-15 05:17 UTC
+! Updated: 2026-04-15 19:05 UTC
 ! Format: AdGuard Home / AdGuard DNS
-! Total rules: 6
+! Total rules: 3
 
-||*.assets.tumblr.com^
-||*.media.tumblr.com^
-||*.tumblr.com^
+||assets.tumblr.com^
+||media.tumblr.com^
+||tumblr.com^

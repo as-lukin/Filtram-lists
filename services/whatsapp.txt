@@ -1,16 +1,11 @@
 # ==============================================================
 # DNS Blocklist: WhatsApp
-# Updated: 2026-04-15 05:17 UTC
-# Format: wildcard (*.domain.tld)
-# Total entries: 10
+# Updated: 2026-04-15 19:05 UTC
+# Format: plain domain (one per line — suffix matching applied by consumers)
+# Total entries: 5
 # Description: messenger | group_id=102
 # Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
 # ==============================================================
-*.wa.me
-*.whatsapp-cdn.net
-*.whatsapp.com
-*.whatsapp.net
-*.whatsappcareers.com
 wa.me
 whatsapp-cdn.net
 whatsapp.com

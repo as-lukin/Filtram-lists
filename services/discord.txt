@@ -1,19 +1,11 @@
 # ==============================================================
 # DNS Blocklist: Discord
-# Updated: 2026-04-15 05:17 UTC
-# Format: wildcard (*.domain.tld)
-# Total entries: 16
+# Updated: 2026-04-15 19:05 UTC
+# Format: plain domain (one per line — suffix matching applied by consumers)
+# Total entries: 8
 # Description: messenger | group_id=105
 # Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
 # ==============================================================
-*.dis.gd
-*.discord.co
-*.discord.com
-*.discord.gg
-*.discord.media
-*.discordapp.com
-*.discordapp.net
-*.discordstatus.com
 dis.gd
 discord.co
 discord.com

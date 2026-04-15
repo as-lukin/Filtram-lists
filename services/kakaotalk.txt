@@ -1,16 +1,11 @@
 # ==============================================================
 # DNS Blocklist: KakaoTalk
-# Updated: 2026-04-15 05:17 UTC
-# Format: wildcard (*.domain.tld)
-# Total entries: 10
+# Updated: 2026-04-15 19:05 UTC
+# Format: plain domain (one per line — suffix matching applied by consumers)
+# Total entries: 5
 # Description: messenger | group_id=111
 # Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
 # ==============================================================
-*.kakao.com
-*.kakao.io
-*.kakaocdn.net
-*.kakaocorp.com
-*.kakaotalk.com
 kakao.com
 kakao.io
 kakaocdn.net

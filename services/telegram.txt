@@ -1,21 +1,11 @@
 # ==============================================================
 # DNS Blocklist: Telegram
-# Updated: 2026-04-15 05:17 UTC
-# Format: wildcard (*.domain.tld)
-# Total entries: 20
+# Updated: 2026-04-15 19:05 UTC
+# Format: plain domain (one per line — suffix matching applied by consumers)
+# Total entries: 10
 # Description: messenger | group_id=101
 # Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
 # ==============================================================
-*.cdn4.telesco.pe
-*.cdn5.telesco.pe
-*.core.telegram.org
-*.t.me
-*.telegra.ph
-*.telegram.dog
-*.telegram.me
-*.telegram.org
-*.telesco.pe
-*.tg.dev
 cdn4.telesco.pe
 cdn5.telesco.pe
 core.telegram.org

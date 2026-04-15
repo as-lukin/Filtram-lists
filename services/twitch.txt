@@ -1,17 +1,11 @@
 # ==============================================================
 # DNS Blocklist: Twitch
-# Updated: 2026-04-15 05:17 UTC
-# Format: wildcard (*.domain.tld)
-# Total entries: 12
+# Updated: 2026-04-15 19:05 UTC
+# Format: plain domain (one per line — suffix matching applied by consumers)
+# Total entries: 6
 # Description: social | group_id=128
 # Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
 # ==============================================================
-*.ext-twitch.tv
-*.jtvnw.net
-*.static.twitchsvc.net
-*.twitch.tv
-*.twitchapps.com
-*.twitchsvc.net
 ext-twitch.tv
 jtvnw.net
 static.twitchsvc.net

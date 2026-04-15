@@ -1,20 +1,11 @@
 # ==============================================================
 # DNS Blocklist: Facebook
-# Updated: 2026-04-15 05:17 UTC
-# Format: wildcard (*.domain.tld)
-# Total entries: 18
+# Updated: 2026-04-15 19:05 UTC
+# Format: plain domain (one per line — suffix matching applied by consumers)
+# Total entries: 9
 # Description: social | group_id=125
 # Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
 # ==============================================================
-*.facebook.com
-*.facebook.net
-*.fb.com
-*.fb.me
-*.fb.watch
-*.fbcdn.net
-*.fbpigeon.com
-*.fbsbx.com
-*.fbworkplace.com
 facebook.com
 facebook.net
 fb.com

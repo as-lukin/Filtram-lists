@@ -1,17 +1,11 @@
 # ==============================================================
 # DNS Blocklist: LINE
-# Updated: 2026-04-15 05:17 UTC
-# Format: wildcard (*.domain.tld)
-# Total entries: 12
+# Updated: 2026-04-15 19:05 UTC
+# Format: plain domain (one per line — suffix matching applied by consumers)
+# Total entries: 6
 # Description: messenger | group_id=109
 # Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
 # ==============================================================
-*.line-apps.com
-*.line-scdn.net
-*.line.me
-*.line.naver.jp
-*.linecdn.net
-*.obs.line-apps.com
 line-apps.com
 line-scdn.net
 line.me

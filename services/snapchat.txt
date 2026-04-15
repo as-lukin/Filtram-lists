@@ -1,18 +1,11 @@
 # ==============================================================
 # DNS Blocklist: Snapchat
-# Updated: 2026-04-15 05:17 UTC
-# Format: wildcard (*.domain.tld)
-# Total entries: 14
+# Updated: 2026-04-15 19:05 UTC
+# Format: plain domain (one per line — suffix matching applied by consumers)
+# Total entries: 7
 # Description: social | group_id=130
 # Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
 # ==============================================================
-*.bitmoji.com
-*.sc-cdn.net
-*.snap.com
-*.snapchat-brand.com
-*.snapchat.com
-*.snapkit.com
-*.storykit.snapchat.com
 bitmoji.com
 sc-cdn.net
 snap.com

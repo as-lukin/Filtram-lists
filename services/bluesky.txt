@@ -1,16 +1,11 @@
 # ==============================================================
 # DNS Blocklist: Bluesky
-# Updated: 2026-04-15 05:17 UTC
-# Format: wildcard (*.domain.tld)
-# Total entries: 10
+# Updated: 2026-04-15 19:05 UTC
+# Format: plain domain (one per line — suffix matching applied by consumers)
+# Total entries: 5
 # Description: social | group_id=133
 # Compatible with: Pi-hole, AdGuard Home, Unbound, Bind9
 # ==============================================================
-*.atproto.com
-*.blueskyweb.xyz
-*.bsky.app
-*.bsky.network
-*.bsky.social
 atproto.com
 blueskyweb.xyz
 bsky.app
