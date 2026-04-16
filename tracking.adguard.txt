@@ -1,6 +1,6 @@
 # DNS Blocklist: Trackers & Analytics — AdGuard
-# Updated: 2026-04-16 05:24 UTC
-# Total: 267
+# Updated: 2026-04-16 14:16 UTC
+# Total: 266
 
 ||0i0i0i0.com^
 ||1681.engine.mobileapptracking.com^
@@ -123,7 +123,6 @@
 ||getexceptional.com^
 ||ghochv3eng.trafficmanager.net^
 ||go.pardot.com^
-||google-analytics.com^
 ||googleads.g.doubleclick.net^
 ||googletagmanager.com^
 ||graph.accountkit.com^

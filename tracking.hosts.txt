@@ -1,7 +1,7 @@
 # Trackers & Analytics
-# Updated: 2026-04-16 05:24 UTC
+# Updated: 2026-04-16 14:16 UTC
 # Format: hosts (0.0.0.0 domain.com)
-# Total: 267
+# Total: 266
 
 0.0.0.0 0i0i0i0.com
 0.0.0.0 1681.engine.mobileapptracking.com
@@ -124,7 +124,6 @@
 0.0.0.0 getexceptional.com
 0.0.0.0 ghochv3eng.trafficmanager.net
 0.0.0.0 go.pardot.com
-0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googletagmanager.com
 0.0.0.0 graph.accountkit.com
