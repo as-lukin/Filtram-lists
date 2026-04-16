@@ -1,7 +1,7 @@
 # Trackers & Analytics
-# Updated: 2026-04-16 14:16 UTC
+# Updated: 2026-04-16 17:01 UTC
 # Format: hosts (0.0.0.0 domain.com)
-# Total: 266
+# Total: 265
 
 0.0.0.0 0i0i0i0.com
 0.0.0.0 1681.engine.mobileapptracking.com
@@ -140,7 +140,6 @@
 0.0.0.0 i.w.inmobi.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 id.google.de
-0.0.0.0 imgsmail.ru
 0.0.0.0 imrworldwide.com
 0.0.0.0 inmobi.com
 0.0.0.0 inspectlet.com

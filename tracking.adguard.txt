@@ -1,6 +1,6 @@
 # DNS Blocklist: Trackers & Analytics — AdGuard
-# Updated: 2026-04-16 14:16 UTC
-# Total: 266
+# Updated: 2026-04-16 17:01 UTC
+# Total: 265
 
 ||0i0i0i0.com^
 ||1681.engine.mobileapptracking.com^
@@ -139,7 +139,6 @@
 ||i.w.inmobi.com^
 ||iadsdk.apple.com^
 ||id.google.de^
-||imgsmail.ru^
 ||imrworldwide.com^
 ||inmobi.com^
 ||inspectlet.com^
