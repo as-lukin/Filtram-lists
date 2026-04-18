@@ -1,0 +1,22 @@
+# Filtram — tracking allowlist
+# Документация формата — см. allowlists/ads.txt
+
+# === Ozon media/CDN — не является трекером ===
+.ozone.ru
+.ozonusercontent.com
+
+# === Wildberries CDN ===
+.wbstatic.net
+.wbasstatic.net
+
+# === Yandex домашние сервисы (trackers типа metrica оставляем) ===
+yandex.ru
+ya.ru
+
+# === Обязательные для работы устройств ===
+# Apple CRL/OCSP (без них приложения не запускаются)
+ocsp.apple.com
+crl.apple.com
+# Microsoft updates
+update.microsoft.com
+windowsupdate.microsoft.com

@@ -1,0 +1,92 @@
+# Filtram — ads allowlist
+#
+# Эти домены НИКОГДА не должны попадать в финальный ads.txt даже если
+# upstream-источник их туда включил. Строка = один полный домен (exact match).
+# Wildcard-правила записываются как субдомен — при subtract'е генератор
+# удалит и сам домен и все его поддомены (см. Filtram generator workflow).
+#
+# Формат:
+#   domain.example              — один домен (точное совпадение)
+#   .example.com                — wildcard "всё что заканчивается на .example.com"
+#   # комментарий
+#
+# Сортировка не требуется — генератор сам сортирует.
+#
+# Как репортить false-positive:
+#   1. Зайти на filtram.net / открыть Issue в Filtram-lists на GitHub
+#   2. Указать блокируемый домен + куда он ведёт (реальный сервис)
+#   3. Maintainer добавит в нужный allowlist
+#
+# ─────────────────────────────────────────────────────────────────────────
+
+# === Ozon (RU e-commerce) ===
+# MaxMind GeoLite2 классифицирует 185.73.192.0/22 как ZA — MaxMind ошибается,
+# это Ozon RU. Плюс media CDN (edge-mmedia-lb) попадает в ads-списки
+# upstream'ов по имени "mmedia" — false positive.
+.ozone.ru
+.ozonusercontent.com
+.ozon.ru
+edge-mmedia-lb.ozone.ru
+cdn1.ozonusercontent.com
+ir.ozone.ru
+io.ozone.ru
+st.ozone.ru
+cdn1.ozone.ru
+v-1.ozone.ru
+vp-1.ozone.ru
+vr-1.ozone.ru
+vt-1.ozone.ru
+
+# === Yandex (RU) ===
+# Yandex-стек часто попадает в "ads" из-за Metrica/adfox. Сами корневые
+# домены блокировать не надо — только конкретные tracker endpoints
+# должны оставаться в tracking/ads, если они там есть. Whitelist основы:
+yandex.ru
+yandex.net
+ya.ru
+.yastatic.net
+
+# === VK (RU) ===
+vk.com
+vk.ru
+.vkuser.net
+.vk-cdn.net
+
+# === Mail.ru / my.mail ===
+mail.ru
+.mail.ru
+
+# === Avito ===
+.avito.ru
+.avito.st
+
+# === Wildberries ===
+wildberries.ru
+.wildberries.ru
+.wbstatic.net
+.wbasstatic.net
+.wbasstorage.net
+
+# === Sberbank / Сбер-сервисы ===
+sberbank.ru
+.sber.ru
+.sberbank.ru
+
+# === Государственные/финансовые сервисы (не блокируем никогда) ===
+gosuslugi.ru
+.gosuslugi.ru
+.gov.ru
+nalog.ru
+.nalog.ru
+
+# === Telegram CDN (не блокировать — не рекламный трафик) ===
+.cdn-telegram.org
+
+# === Apple services (избегаем false-positive на iOS-device telemetry,
+#     которая не является tracking в обычном смысле) ===
+# НЕ добавляем полностью .apple.com — там есть реальная телеметрия.
+# Только конкретные ломающиеся хосты если появятся репорты.
+
+# === Google core services (редко но бывают false-positive) ===
+# Не добавляем — Google в tracking блокируется намеренно. Если
+# какие-то Google-domains нужны юзеру — он делает allow в своём custom rule.
