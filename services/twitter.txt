@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Twitter / X
-# Updated: 2026-04-21 05:21 UTC
+# Updated: 2026-04-22 05:19 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 6
 # Description: social | group_id=126

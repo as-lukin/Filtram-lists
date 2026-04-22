@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: YouTube
-# Updated: 2026-04-21 05:21 UTC
+# Updated: 2026-04-22 05:19 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 9
 # Description: social | group_id=127
