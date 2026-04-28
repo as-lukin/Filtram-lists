@@ -67,6 +67,26 @@ wildberries.ru
 .wbasstatic.net
 .wbasstorage.net
 
+# === AliExpress (e-commerce) ===
+# Корневые домены AliExpress + субдомены (CDN, click-tracking, app-metrics)
+# попадают в "ads" upstream-листы из-за affiliate-tracking паттернов.
+# Сам AliExpress — легитимный e-commerce (как Ozon/Wildberries), блокировать
+# его целиком — false positive. Третьесторонние редиректы через admitad/cityads
+# (aliexpress.admitad.com, aliexpress-summer.cityads.com) НЕ allowlist'им —
+# это реальные ad networks, лежат на чужих корневых доменах.
+.aliexpress.com
+.aliexpress.ru
+.aliexpress.us
+.aliexpress.fr
+.aliexpress.es
+.aliexpress.it
+.aliexpress.de
+.aliexpress.pl
+.aliexpress.com.br
+.aliexpress.com.au
+.aliexpress.hu
+.alicdn.com
+
 # === Sberbank / Сбер-сервисы ===
 sberbank.ru
 .sber.ru
