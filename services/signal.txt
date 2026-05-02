@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Signal
-# Updated: 2026-05-01 06:01 UTC
+# Updated: 2026-05-02 05:31 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 6
 # Description: messenger | group_id=104
