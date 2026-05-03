@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Одноклассники
-# Updated: 2026-05-02 05:31 UTC
+# Updated: 2026-05-03 05:52 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 3
 # Description: social | group_id=122
