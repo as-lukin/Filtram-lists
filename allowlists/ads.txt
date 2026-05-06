@@ -110,3 +110,12 @@ nalog.ru
 # === Google core services (редко но бывают false-positive) ===
 # Не добавляем — Google в tracking блокируется намеренно. Если
 # какие-то Google-domains нужны юзеру — он делает allow в своём custom rule.
+
+# === Binance CDN ===
+# Binance — крипто-биржа сама по себе блокируется через crypto.txt
+# (правильно). Но её CDN `bnbstatic.com` upstream-источники включают
+# в ads-списки из-за тяжёлой promo-страницы / banner-images. Block CDN
+# целиком ломает рендер сайта (CSS/JS/шрифты не грузятся) — это
+# slip-through из crypto-категории в ads. Юзер toggling crypto уже
+# блокирует binance.com сам по себе; CDN из ads исключаем.
+.bnbstatic.com
