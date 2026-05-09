@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: ВКонтакте
-# Updated: 2026-05-08 05:24 UTC
+# Updated: 2026-05-09 05:42 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 8
 # Description: social | group_id=121
