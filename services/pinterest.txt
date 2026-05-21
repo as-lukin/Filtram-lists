@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Pinterest
-# Updated: 2026-05-20 06:41 UTC
+# Updated: 2026-05-21 06:43 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 9
 # Description: social | group_id=129
