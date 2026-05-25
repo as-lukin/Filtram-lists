@@ -1,7 +1,7 @@
 # Gambling & Betting
-# Updated: 2026-05-24 06:28 UTC
+# Updated: 2026-05-25 07:02 UTC
 # Format: hosts (0.0.0.0 domain.com)
-# Total: 34,542
+# Total: 34,547
 
 0.0.0.0 0-casino.info
 0.0.0.0 000-online-casino.biz
@@ -10037,6 +10037,7 @@
 0.0.0.0 circlebet.com
 0.0.0.0 circus-casino.top
 0.0.0.0 circus-casinos.co.uk
+0.0.0.0 circusbet.fr
 0.0.0.0 circusbet.rs
 0.0.0.0 circusbingo.com
 0.0.0.0 circuscasino.fr
@@ -10675,6 +10676,7 @@
 0.0.0.0 davilcasino.com
 0.0.0.0 dayofshow.com
 0.0.0.0 daznbet-casino.click
+0.0.0.0 daznbet.fr
 0.0.0.0 dbbcasino.com
 0.0.0.0 dbbcasino.net
 0.0.0.0 dbbcasino.org
@@ -22455,6 +22457,7 @@
 0.0.0.0 netbet.co.uk
 0.0.0.0 netbet.com
 0.0.0.0 netbet.de
+0.0.0.0 netbet.fr
 0.0.0.0 netbetcasino.click
 0.0.0.0 netbetcasino.it
 0.0.0.0 netbetcasino.top
@@ -23009,6 +23012,7 @@
 0.0.0.0 olipsbet146.com
 0.0.0.0 olybet.com
 0.0.0.0 olybet.eu
+0.0.0.0 olybet.fr
 0.0.0.0 olybetcasino.top
 0.0.0.0 olympiancasino.com
 0.0.0.0 olympiccasino.top
@@ -31126,6 +31130,7 @@
 0.0.0.0 vaycasino-giris.xyz
 0.0.0.0 vbellagio.com
 0.0.0.0 vbet.com
+0.0.0.0 vbet.fr
 0.0.0.0 vbetcasino.top
 0.0.0.0 vbetcasinoapp.online
 0.0.0.0 vblackjack.net

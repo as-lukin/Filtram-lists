@@ -1,6 +1,6 @@
 # DNS Blocklist: Gambling & Betting — AdGuard
-# Updated: 2026-05-24 06:28 UTC
-# Total: 34,542
+# Updated: 2026-05-25 07:02 UTC
+# Total: 34,547
 
 ||0-casino.info^
 ||000-online-casino.biz^
@@ -10036,6 +10036,7 @@
 ||circlebet.com^
 ||circus-casino.top^
 ||circus-casinos.co.uk^
+||circusbet.fr^
 ||circusbet.rs^
 ||circusbingo.com^
 ||circuscasino.fr^
@@ -10674,6 +10675,7 @@
 ||davilcasino.com^
 ||dayofshow.com^
 ||daznbet-casino.click^
+||daznbet.fr^
 ||dbbcasino.com^
 ||dbbcasino.net^
 ||dbbcasino.org^
@@ -22454,6 +22456,7 @@
 ||netbet.co.uk^
 ||netbet.com^
 ||netbet.de^
+||netbet.fr^
 ||netbetcasino.click^
 ||netbetcasino.it^
 ||netbetcasino.top^
@@ -23008,6 +23011,7 @@
 ||olipsbet146.com^
 ||olybet.com^
 ||olybet.eu^
+||olybet.fr^
 ||olybetcasino.top^
 ||olympiancasino.com^
 ||olympiccasino.top^
@@ -31125,6 +31129,7 @@
 ||vaycasino-giris.xyz^
 ||vbellagio.com^
 ||vbet.com^
+||vbet.fr^
 ||vbetcasino.top^
 ||vbetcasinoapp.online^
 ||vblackjack.net^
