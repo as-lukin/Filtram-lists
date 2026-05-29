@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: WeChat
-# Updated: 2026-05-28 06:45 UTC
+# Updated: 2026-05-29 06:47 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 6
 # Description: messenger | group_id=110
