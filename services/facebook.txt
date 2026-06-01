@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Facebook
-# Updated: 2026-05-31 06:48 UTC
+# Updated: 2026-06-01 08:21 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 9
 # Description: social | group_id=125
