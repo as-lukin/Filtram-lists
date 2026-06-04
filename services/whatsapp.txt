@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: WhatsApp
-# Updated: 2026-06-03 07:32 UTC
+# Updated: 2026-06-04 07:16 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 5
 # Description: messenger | group_id=102
