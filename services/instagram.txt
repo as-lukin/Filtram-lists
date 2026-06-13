@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Instagram
-# Updated: 2026-06-12 07:13 UTC
+# Updated: 2026-06-13 06:48 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 6
 # Description: social | group_id=123
