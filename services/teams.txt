@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Microsoft Teams
-# Updated: 2026-06-13 06:48 UTC
+# Updated: 2026-06-14 07:16 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 5
 # Description: messenger | group_id=107
