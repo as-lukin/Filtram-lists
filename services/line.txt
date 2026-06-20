@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: LINE
-# Updated: 2026-06-19 08:26 UTC
+# Updated: 2026-06-20 06:55 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 6
 # Description: messenger | group_id=109
