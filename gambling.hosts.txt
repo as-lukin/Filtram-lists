@@ -1,7 +1,7 @@
 # Gambling & Betting
-# Updated: 2026-06-21 07:25 UTC
+# Updated: 2026-06-22 08:49 UTC
 # Format: hosts (0.0.0.0 domain.com)
-# Total: 34,547
+# Total: 34,557
 
 0.0.0.0 0-casino.info
 0.0.0.0 000-online-casino.biz
@@ -1122,6 +1122,7 @@
 0.0.0.0 77malinacasino.com
 0.0.0.0 77ph-bet-casino.me
 0.0.0.0 77slots-online.biz
+0.0.0.0 789bingo.com
 0.0.0.0 789casinogame.vip
 0.0.0.0 78casinos.com
 0.0.0.0 791bets10.com
@@ -24931,6 +24932,10 @@
 0.0.0.0 playsugarhouse.com
 0.0.0.0 playtech-casinos.com
 0.0.0.0 playtika.com
+0.0.0.0 playtime.org.ph
+0.0.0.0 playtimeapp.net
+0.0.0.0 playtimecasino.ph
+0.0.0.0 playtimegame.com.ph
 0.0.0.0 playtrustedcasino.com
 0.0.0.0 playwin-casinox391.ru
 0.0.0.0 playwinningpoker.com
@@ -27551,6 +27556,7 @@
 0.0.0.0 scasinowheel.us
 0.0.0.0 scatcasino.info
 0.0.0.0 scatter-joycasino813.ru
+0.0.0.0 scattergamesph.com
 0.0.0.0 scatterhallcasino.top
 0.0.0.0 scatterwincasino.com
 0.0.0.0 schweizcasino.online
@@ -30235,6 +30241,7 @@
 0.0.0.0 top-gambling-spot.com
 0.0.0.0 top-hotelwithcasino.com
 0.0.0.0 top-onlinecasino.co.uk
+0.0.0.0 top-onlinecasino.ph
 0.0.0.0 top-onlinecasinosin.com
 0.0.0.0 top-rival-casinos.com
 0.0.0.0 top-us-casino.com
@@ -31346,6 +31353,7 @@
 0.0.0.0 visacasinos-us.top
 0.0.0.0 visaelectroncasino-us.top
 0.0.0.0 visaelectroncasino.top
+0.0.0.0 visioncasino.net
 0.0.0.0 visitorbet6.com
 0.0.0.0 vistabet.com
 0.0.0.0 vitalbet.com
@@ -33983,6 +33991,7 @@
 0.0.0.0 www.playnow.com
 0.0.0.0 www.playojo.com
 0.0.0.0 www.playolg.ca
+0.0.0.0 www.playtime.ph
 0.0.0.0 www.playzax-top.com
 0.0.0.0 www.plexodds.com
 0.0.0.0 www.pocketvegas.co.uk
@@ -34008,6 +34017,7 @@
 0.0.0.0 www.proline.ca
 0.0.0.0 www.promotions.epic.partners
 0.0.0.0 www.propawin.com
+0.0.0.0 www.ptgaming.ph
 0.0.0.0 www.punchbets.com
 0.0.0.0 www.purepoker.eu
 0.0.0.0 www.queenvegas.com
