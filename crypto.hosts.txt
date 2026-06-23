@@ -1,7 +1,7 @@
 # Cryptocurrency
-# Updated: 2026-06-22 08:49 UTC
+# Updated: 2026-06-23 06:40 UTC
 # Format: hosts (0.0.0.0 domain.com)
-# Total: 23,867
+# Total: 23,838
 
 0.0.0.0 0.r.msn.com
 0.0.0.0 000.0x1f4b0.com
@@ -1885,7 +1885,6 @@
 0.0.0.0 binarce.com
 0.0.0.0 binary-flash.xyz
 0.0.0.0 binarybusiness.de
-0.0.0.0 bingads.microsoft.com
 0.0.0.0 bingdianhuanyuan.cn
 0.0.0.0 binm.cf
 0.0.0.0 binm.ga
@@ -2892,7 +2891,6 @@
 0.0.0.0 chnvilhrmeaw.bid
 0.0.0.0 chock.suprnova.cc
 0.0.0.0 choice.cryptomininggame.com
-0.0.0.0 choice.microsoft.com
 0.0.0.0 choice.microsoft.com.nsatc.net
 0.0.0.0 chqulqxfghdz.com
 0.0.0.0 chr0xy.xyz
@@ -3488,7 +3486,6 @@
 0.0.0.0 creyboif.bid
 0.0.0.0 crk.hashhot.com
 0.0.0.0 crkliqlyabacgt.bid
-0.0.0.0 crl.microsoft.com
 0.0.0.0 crm-eve.b2b.alibaba-inc.com
 0.0.0.0 crm-jurine.com
 0.0.0.0 crnxueioe.bid
@@ -4115,7 +4112,6 @@
 0.0.0.0 devsandbox.z.cash
 0.0.0.0 dexim.space
 0.0.0.0 df.tanx.com
-0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 dfbtmkwdcajsy.bid
 0.0.0.0 dfc1.benbaisteel.com
 0.0.0.0 dfcwecvmjtdj.com
@@ -4179,7 +4175,6 @@
 0.0.0.0 dhxjrqegphza.bid
 0.0.0.0 dhzmxkoq.bid
 0.0.0.0 di.ckpool.org
-0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 dialup3.nanopool.org
 0.0.0.0 diamondback.miner.center
 0.0.0.0 diamondback.xminingpool.com
@@ -7437,7 +7432,6 @@
 0.0.0.0 i.zsw8.cc
 0.0.0.0 i0.btcguild.com
 0.0.0.0 i1.go2yd.com
-0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
 0.0.0.0 i18n.res.ethfans.org
 0.0.0.0 i2p.emercoin.com
@@ -7523,7 +7517,6 @@
 0.0.0.0 iekztyhqfs.bid
 0.0.0.0 ielqcwzwjczpx.bid
 0.0.0.0 ieoexdjxrwtq.com
-0.0.0.0 ieonline.microsoft.com
 0.0.0.0 ieqprskfariw.com
 0.0.0.0 ieuro.suprnova.cc
 0.0.0.0 if.mingxing.qq.com
@@ -11404,7 +11397,6 @@
 0.0.0.0 oc.suprnova.cc
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
-0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 occ.hashhot.com
 0.0.0.0 occ.suprnova.cc
@@ -13229,7 +13221,6 @@
 0.0.0.0 rack.cryptaloot.pro
 0.0.0.0 rack.poolmining.org
 0.0.0.0 rad.live.com
-0.0.0.0 rad.microsoft.com
 0.0.0.0 radbtqjfp.bid
 0.0.0.0 radio.nanopool.org
 0.0.0.0 rafvxnikmn.bid
@@ -13353,7 +13344,6 @@
 0.0.0.0 red1r2.xyz
 0.0.0.0 red8.mtred.com
 0.0.0.0 redhex.my
-0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 redirect.simba.taobao.com
 0.0.0.0 redis.p00l.org
 0.0.0.0 redmine.emercoin.com
@@ -13390,7 +13380,6 @@
 0.0.0.0 report.qcloud.com
 0.0.0.0 report.vip.qq.com
 0.0.0.0 reports.clona.ru
-0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 rertazmgduxp.com
 0.0.0.0 res.adcome.cn
 0.0.0.0 res.aduu.cn
@@ -14462,10 +14451,8 @@
 0.0.0.0 service4refresh.info
 0.0.0.0 servicer.adskeeper.co.uk
 0.0.0.0 services.nanopool.org
-0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 setting.snswin.qq.com
-0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 setup-game.xyz
 0.0.0.0 setup.nanopool.org
 0.0.0.0 sexcoin.miningpoolhub.com
@@ -15024,8 +15011,6 @@
 0.0.0.0 sql.monerominers.net
 0.0.0.0 sql.p00l.org
 0.0.0.0 sql1.nanopool.org
-0.0.0.0 sqm.df.telemetry.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 sqmeqfffehg.bid
 0.0.0.0 sqnezuqjdbhe.com
@@ -15271,8 +15256,6 @@
 0.0.0.0 stats.whalesburg.com
 0.0.0.0 stats.zpool.guru
 0.0.0.0 stats2.btgpool.pro
-0.0.0.0 statsfe1.ws.microsoft.com
-0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statum.bitcoin.cz
 0.0.0.0 staturm.bitcoin.cz
 0.0.0.0 status-api.2miners.com
@@ -15574,7 +15557,6 @@
 0.0.0.0 surge.lightninghash.com
 0.0.0.0 surge.suprnova.cc
 0.0.0.0 survey.miaozhen.com
-0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 susapi.dev.surepush.cn
 0.0.0.0 susapi.lenovomm.com
 0.0.0.0 sushi.com
@@ -15812,7 +15794,6 @@
 0.0.0.0 tecoin.miner.center
 0.0.0.0 tefwraudu.bid
 0.0.0.0 tek.thecoin.pw
-0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telegrambot.pool-moscow.ru
 0.0.0.0 telegrambots.pool.whalesburg.com
@@ -15821,8 +15802,6 @@
 0.0.0.0 telegrambots.whalesburg.com
 0.0.0.0 telegramhooks.staging.pool.whalesburg.com
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telstra.imrworldwide.com
 0.0.0.0 temai.snssdk.com
 0.0.0.0 temai.taobao.com
@@ -17369,9 +17348,6 @@
 0.0.0.0 vomhhsovuu.bid
 0.0.0.0 voot.pool.mn
 0.0.0.0 voot.suprnova.cc
-0.0.0.0 vortex-sandbox.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vot.ehashcoins.org
 0.0.0.0 vot.pool.sexy
 0.0.0.0 vote.cryptobrowser.site
@@ -17633,9 +17609,6 @@
 0.0.0.0 water.suprnova.cc
 0.0.0.0 waterhole.io
 0.0.0.0 watermelon.coinking.io
-0.0.0.0 watson.microsoft.com
-0.0.0.0 watson.ppe.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 0.0.0.0 wattpool.net
 0.0.0.0 watunxckibtvfm.bid
@@ -17770,7 +17743,6 @@
 0.0.0.0 wenqyczxgpoyu.bid
 0.0.0.0 weogkfxrkgyezq.bid
 0.0.0.0 weqpkntrxqzh.com
-0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 west-us.aeonminingpool.com
 0.0.0.0 wetk.suprnova.cc
 0.0.0.0 weyyae.com
@@ -18965,7 +18937,6 @@
 0.0.0.0 www.binancesignin.com
 0.0.0.0 www.binanceus.com
 0.0.0.0 www.binarce.com
-0.0.0.0 www.bingads.microsoft.com
 0.0.0.0 www.bingdianhuanyuan.cn
 0.0.0.0 www.binm.ga
 0.0.0.0 www.binm.tk
