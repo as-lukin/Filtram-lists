@@ -1,6 +1,6 @@
 # DNS Blocklist: Adult Content — AdGuard
-# Updated: 2026-06-27 06:22 UTC
-# Total: 648,184
+# Updated: 2026-06-28 06:53 UTC
+# Total: 648,185
 
 ||0----q.tumblr.com^
 ||0--liamariejohnson--0.nedrobin.net^
@@ -334604,6 +334604,7 @@
 ||mankindvideo.com^
 ||mankipoo.tumblr.com^
 ||mankist.com^
+||manko.fun^
 ||mankoluxsoftware.com^
 ||mankonamename.blog122.fc2.com^
 ||mankuntpervert.tumblr.com^
