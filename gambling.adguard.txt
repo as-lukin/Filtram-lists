@@ -1,6 +1,6 @@
 # DNS Blocklist: Gambling & Betting — AdGuard
-# Updated: 2026-06-28 06:53 UTC
-# Total: 32,263
+# Updated: 2026-06-29 07:22 UTC
+# Total: 32,270
 
 ||0-casino.info^
 ||000-online-casino.biz^
@@ -11935,6 +11935,7 @@
 ||fetchcasino.com^
 ||fevercasino.xyz^
 ||fezbet.com^
+||fezbet4.com^
 ||ff777-casino.com^
 ||ff777casino.ph^
 ||fg777casino.ph^
@@ -22168,6 +22169,7 @@
 ||odawacasinoresort.info^
 ||oddincasino.com^
 ||odds-betting-server.nola.com^
+||odds.am^
 ||oddschecker.com^
 ||oddset.de^
 ||oddsmaker.ag^
@@ -24785,6 +24787,7 @@
 ||pokersite.com^
 ||pokersites.com^
 ||pokersource.com^
+||pokerstars-01.com^
 ||pokerstars-casino.online^
 ||pokerstars-casino.top^
 ||pokerstars.com^
@@ -28259,6 +28262,7 @@
 ||sportazacasino.top^
 ||sportbet.ec^
 ||sportcasinoliker.site^
+||sportfogadas.org^
 ||sportingbet.com^
 ||sportingbet.com.au^
 ||sportingbet.de^
@@ -29159,6 +29163,8 @@
 ||tipp24games.de^
 ||tipp3.at^
 ||tippaz.com^
+||tippmix.hu^
+||tippmixpro.hu^
 ||tips4gambling.com^
 ||tipsportcasino.top^
 ||tipster.space^
@@ -29831,6 +29837,7 @@
 ||unclesamscasino.com^
 ||underdogcasinos.com^
 ||undiantogel.com^
+||unibet-112.com^
 ||unibet-42.com^
 ||unibet-poker.fr^
 ||unibet.co.uk^

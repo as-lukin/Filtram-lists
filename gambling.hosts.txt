@@ -1,7 +1,7 @@
 # Gambling & Betting
-# Updated: 2026-06-28 06:53 UTC
+# Updated: 2026-06-29 07:22 UTC
 # Format: hosts (0.0.0.0 domain.com)
-# Total: 32,263
+# Total: 32,270
 
 0.0.0.0 0-casino.info
 0.0.0.0 000-online-casino.biz
@@ -11936,6 +11936,7 @@
 0.0.0.0 fetchcasino.com
 0.0.0.0 fevercasino.xyz
 0.0.0.0 fezbet.com
+0.0.0.0 fezbet4.com
 0.0.0.0 ff777-casino.com
 0.0.0.0 ff777casino.ph
 0.0.0.0 fg777casino.ph
@@ -22169,6 +22170,7 @@
 0.0.0.0 odawacasinoresort.info
 0.0.0.0 oddincasino.com
 0.0.0.0 odds-betting-server.nola.com
+0.0.0.0 odds.am
 0.0.0.0 oddschecker.com
 0.0.0.0 oddset.de
 0.0.0.0 oddsmaker.ag
@@ -24786,6 +24788,7 @@
 0.0.0.0 pokersite.com
 0.0.0.0 pokersites.com
 0.0.0.0 pokersource.com
+0.0.0.0 pokerstars-01.com
 0.0.0.0 pokerstars-casino.online
 0.0.0.0 pokerstars-casino.top
 0.0.0.0 pokerstars.com
@@ -28260,6 +28263,7 @@
 0.0.0.0 sportazacasino.top
 0.0.0.0 sportbet.ec
 0.0.0.0 sportcasinoliker.site
+0.0.0.0 sportfogadas.org
 0.0.0.0 sportingbet.com
 0.0.0.0 sportingbet.com.au
 0.0.0.0 sportingbet.de
@@ -29160,6 +29164,8 @@
 0.0.0.0 tipp24games.de
 0.0.0.0 tipp3.at
 0.0.0.0 tippaz.com
+0.0.0.0 tippmix.hu
+0.0.0.0 tippmixpro.hu
 0.0.0.0 tips4gambling.com
 0.0.0.0 tipsportcasino.top
 0.0.0.0 tipster.space
@@ -29832,6 +29838,7 @@
 0.0.0.0 unclesamscasino.com
 0.0.0.0 underdogcasinos.com
 0.0.0.0 undiantogel.com
+0.0.0.0 unibet-112.com
 0.0.0.0 unibet-42.com
 0.0.0.0 unibet-poker.fr
 0.0.0.0 unibet.co.uk
