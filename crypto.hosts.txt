@@ -1,7 +1,7 @@
 # Cryptocurrency
-# Updated: 2026-07-03 06:22 UTC
+# Updated: 2026-07-04 06:12 UTC
 # Format: hosts (0.0.0.0 domain.com)
-# Total: 124
+# Total: 123
 
 0.0.0.0 1inch.exchange
 0.0.0.0 1inch.io
@@ -35,7 +35,6 @@
 0.0.0.0 bybit.com
 0.0.0.0 bytick.com
 0.0.0.0 cardano.org
-0.0.0.0 cb-128943.com
 0.0.0.0 cbhq.net
 0.0.0.0 cex.io
 0.0.0.0 chain.link

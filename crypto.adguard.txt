@@ -1,6 +1,6 @@
 # DNS Blocklist: Cryptocurrency — AdGuard
-# Updated: 2026-07-03 06:22 UTC
-# Total: 124
+# Updated: 2026-07-04 06:12 UTC
+# Total: 123
 
 ||1inch.exchange^
 ||1inch.io^
@@ -34,7 +34,6 @@
 ||bybit.com^
 ||bytick.com^
 ||cardano.org^
-||cb-128943.com^
 ||cbhq.net^
 ||cex.io^
 ||chain.link^
