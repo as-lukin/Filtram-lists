@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: TikTok
-# Updated: 2026-07-04 06:12 UTC
+# Updated: 2026-07-05 06:31 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 17
 # Description: social | group_id=124
