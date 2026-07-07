@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Snapchat
-# Updated: 2026-07-06 07:02 UTC
+# Updated: 2026-07-07 06:37 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 7
 # Description: social | group_id=130

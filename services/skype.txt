@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Skype
-# Updated: 2026-07-06 07:02 UTC
+# Updated: 2026-07-07 06:37 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 5
 # Description: messenger | group_id=106
