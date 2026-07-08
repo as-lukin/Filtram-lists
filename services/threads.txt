@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Threads
-# Updated: 2026-07-07 06:37 UTC
+# Updated: 2026-07-08 05:43 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 2
 # Description: social | group_id=136

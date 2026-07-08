@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-07 06:37 UTC",
-  "total": 5147628,
+  "updated": "2026-07-08 05:43 UTC",
+  "total": 5149957,
   "categories": {
     "social": 1683,
     "messengers": 70,
     "adult": 1051166,
     "gambling": 294468,
-    "ads": 1046067,
+    "ads": 1050147,
     "tracking": 265,
     "crypto": 1355,
-    "phishing": 3012534
+    "phishing": 3013181
   },
   "services": {
     "telegram": 10,
