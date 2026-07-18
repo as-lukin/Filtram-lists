@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Telegram
-# Updated: 2026-07-17 05:34 UTC
+# Updated: 2026-07-18 05:17 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 10
 # Description: messenger | group_id=101
