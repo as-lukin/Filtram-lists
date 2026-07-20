@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Bluesky
-# Updated: 2026-07-19 05:43 UTC
+# Updated: 2026-07-20 06:01 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 5
 # Description: social | group_id=133
