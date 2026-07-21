@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Viber
-# Updated: 2026-07-20 06:01 UTC
+# Updated: 2026-07-21 05:42 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 6
 # Description: messenger | group_id=103
