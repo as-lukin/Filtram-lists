@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Slack
-# Updated: 2026-07-26 05:52 UTC
+# Updated: 2026-07-27 06:18 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 7
 # Description: messenger | group_id=108
