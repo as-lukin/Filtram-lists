@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: LinkedIn
-# Updated: 2026-07-31 05:57 UTC
+# Updated: 2026-08-01 05:48 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 4
 # Description: social | group_id=132
