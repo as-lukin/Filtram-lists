@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Discord
-# Updated: 2026-08-23 03:42 UTC
+# Updated: 2026-08-24 03:45 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 8
 # Description: messenger | group_id=105
