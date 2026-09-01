@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Mastodon
-# Updated: 2026-08-31 09:01 UTC
+# Updated: 2026-09-01 08:04 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 6
 # Description: social | group_id=134
