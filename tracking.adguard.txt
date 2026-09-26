@@ -1,18 +1,11 @@
 # DNS Blocklist: Trackers & Analytics — AdGuard
-# Updated: 2026-09-25 08:18 UTC
-# Total: 265
+# Updated: 2026-09-26 08:05 UTC
+# Total: 231
 
-||0i0i0i0.com^
 ||1681.engine.mobileapptracking.com^
 ||2o7.net^
 ||a-graph.facebook.com^
 ||a.applvn.com^
-||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^
-||a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com^
-||a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com^
-||actonservice.com^
-||actonsoftware.com^
-||ad-cloud.jp^
 ||ad.doubleclick.net^
 ||adc3-launch.adcolony.com^
 ||ade.googlesyndication.com^
@@ -26,8 +19,6 @@
 ||ads.twitter.com^
 ||adserver.snapads.com^
 ||adservice.google.de^
-||afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com^
-||affex.org^
 ||airbrake.io^
 ||alog.umeng.com^
 ||alog.umengcloud.com^
@@ -52,7 +43,6 @@
 ||appspot-preview.l.google.com^
 ||apsalar.com^
 ||ase.adserver.snapads.com^
-||at-o.net^
 ||bango.combango.org^
 ||bango.net^
 ||basic-check.disconnect.me^
@@ -72,7 +62,6 @@
 ||chimpstatic.com^
 ||clarity.ms^
 ||click.sendgrid.net^
-||cname.ebis.ne.jp^
 ||config.ioam.de^
 ||connect.tapjoy.com^
 ||consentcdn.cookiebot.com^
@@ -86,17 +75,13 @@
 ||crazyegg.com^
 ||crittercism.com^
 ||custom-blacklisted-tracking-example.com^
-||custom.plausible.io^
 ||d.applvn.com^
-||data.adobedc.net^
 ||data.flurry.com^
 ||datadoghq.com^
 ||datadoghq.eu^
-||ddns.dataunlocker.com^
 ||demdex.net^
 ||dev.appboy.com^
 ||device.zhiliaoapp.com^
-||dnsdelegation.io^
 ||do-not-tracker.org^
 ||e.crashlytics.com^
 ||edge.fullstory.com^
@@ -104,7 +89,6 @@
 ||engine.mobileapptracking.com^
 ||eu.posthog.com^
 ||euc.adserver.snapads.com^
-||eulerian.net^
 ||euw.adserver.snapads.com^
 ||events.appsflyer.com^
 ||events3.adcolony.com^
@@ -121,8 +105,6 @@
 ||gemius.pl^
 ||gemiusaudience.pl^
 ||getexceptional.com^
-||ghochv3eng.trafficmanager.net^
-||go.pardot.com^
 ||googleads.g.doubleclick.net^
 ||googletagmanager.com^
 ||graph.accountkit.com^
@@ -132,7 +114,6 @@
 ||hotjar.com^
 ||hotjar.io^
 ||hs-analytics.net^
-||hs.eloqua.com^
 ||hsforms.com^
 ||https-filtering-check.adtidy.org^
 ||hubspot.com^
@@ -143,8 +124,6 @@
 ||inmobi.com^
 ||inspectlet.com^
 ||jumptap.com^
-||k.keyade.com^
-||k.madmetrics.com^
 ||kissmetrics.com^
 ||klaviyo.com^
 ||klaviyomail.com^
@@ -171,7 +150,6 @@
 ||metrika.yandex.ru^
 ||mixpanel.com^
 ||mktoresp.com^
-||mm.actionlink.jp^
 ||mobile-collector.newrelic.com^
 ||mobileapptracking.com^
 ||mouseflow.com^
@@ -182,7 +160,6 @@
 ||notify.bugsnag.com^
 ||nr-data.net^
 ||o.sentry.io^
-||oghub.io^
 ||omniture.com^
 ||omtrdc.net^
 ||onelink.me^
@@ -207,8 +184,6 @@
 ||samsungacr.com^
 ||samsungqbe.com^
 ||sc-analytics.appspot.com^
-||sc.adobedc.net^
-||sc.omtrdc.net^
 ||scorecardresearch.com^
 ||sdk.hockeyapp.net^
 ||sdktm.w.inmobi.com^
@@ -224,29 +199,23 @@
 ||snowplow.io^
 ||spclient.wg.spotify.com^
 ||ssl.google-analytics.com^
-||starman.fathomdns.com^
 ||stathat.com^
 ||static.hotjar.com^
 ||stats.appsflyer.com^
 ||stats.g.doubleclick.net^
 ||stats.gc.apple.com^
-||storetail.io^
 ||supercell.net^
 ||supersonicads-a.akamaihd.net^
 ||t.appsflyer.com^
-||tagcommander.com^
 ||tagmanager.google.com^
 ||tags.tiqcdn.com^
 ||tapjoy.com^
 ||tealiumiq.com^
 ||telemetry.microsoft.com^
-||thirdparty.bnc.lt^
 ||top.mail.ru^
 ||top100.rambler.ru^
 ||tr.snapchat.com^
 ||trackersimulator.org^
-||tracking.bp01.net^
-||trck.a8.net^
 ||trk.pinterest.com^
 ||uop.umeng.com^
 ||usc.adserver.snapads.com^
@@ -257,12 +226,9 @@
 ||vungle.com^
 ||watson.telemetry.microsoft.com^
 ||wd.adcolony.com^
-||webtrekk.net^
 ||webvisor.com^
-||wizaly.com^
 ||woopra.com^
 ||ws.tapjoyads.com^
-||wt-eu02.net^
 ||www.googleadservices.com^
 ||www.leanplum.com^
 ||xp.apple.com^

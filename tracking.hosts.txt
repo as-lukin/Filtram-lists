@@ -1,19 +1,12 @@
 # Trackers & Analytics
-# Updated: 2026-09-25 08:18 UTC
+# Updated: 2026-09-26 08:05 UTC
 # Format: hosts (0.0.0.0 domain.com)
-# Total: 265
+# Total: 231
 
-0.0.0.0 0i0i0i0.com
 0.0.0.0 1681.engine.mobileapptracking.com
 0.0.0.0 2o7.net
 0.0.0.0 a-graph.facebook.com
 0.0.0.0 a.applvn.com
-0.0.0.0 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
-0.0.0.0 a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
-0.0.0.0 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
-0.0.0.0 actonservice.com
-0.0.0.0 actonsoftware.com
-0.0.0.0 ad-cloud.jp
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 ade.googlesyndication.com
@@ -27,8 +20,6 @@
 0.0.0.0 ads.twitter.com
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adservice.google.de
-0.0.0.0 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
-0.0.0.0 affex.org
 0.0.0.0 airbrake.io
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
@@ -53,7 +44,6 @@
 0.0.0.0 appspot-preview.l.google.com
 0.0.0.0 apsalar.com
 0.0.0.0 ase.adserver.snapads.com
-0.0.0.0 at-o.net
 0.0.0.0 bango.combango.org
 0.0.0.0 bango.net
 0.0.0.0 basic-check.disconnect.me
@@ -73,7 +63,6 @@
 0.0.0.0 chimpstatic.com
 0.0.0.0 clarity.ms
 0.0.0.0 click.sendgrid.net
-0.0.0.0 cname.ebis.ne.jp
 0.0.0.0 config.ioam.de
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 consentcdn.cookiebot.com
@@ -87,17 +76,13 @@
 0.0.0.0 crazyegg.com
 0.0.0.0 crittercism.com
 0.0.0.0 custom-blacklisted-tracking-example.com
-0.0.0.0 custom.plausible.io
 0.0.0.0 d.applvn.com
-0.0.0.0 data.adobedc.net
 0.0.0.0 data.flurry.com
 0.0.0.0 datadoghq.com
 0.0.0.0 datadoghq.eu
-0.0.0.0 ddns.dataunlocker.com
 0.0.0.0 demdex.net
 0.0.0.0 dev.appboy.com
 0.0.0.0 device.zhiliaoapp.com
-0.0.0.0 dnsdelegation.io
 0.0.0.0 do-not-tracker.org
 0.0.0.0 e.crashlytics.com
 0.0.0.0 edge.fullstory.com
@@ -105,7 +90,6 @@
 0.0.0.0 engine.mobileapptracking.com
 0.0.0.0 eu.posthog.com
 0.0.0.0 euc.adserver.snapads.com
-0.0.0.0 eulerian.net
 0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events3.adcolony.com
@@ -122,8 +106,6 @@
 0.0.0.0 gemius.pl
 0.0.0.0 gemiusaudience.pl
 0.0.0.0 getexceptional.com
-0.0.0.0 ghochv3eng.trafficmanager.net
-0.0.0.0 go.pardot.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googletagmanager.com
 0.0.0.0 graph.accountkit.com
@@ -133,7 +115,6 @@
 0.0.0.0 hotjar.com
 0.0.0.0 hotjar.io
 0.0.0.0 hs-analytics.net
-0.0.0.0 hs.eloqua.com
 0.0.0.0 hsforms.com
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 hubspot.com
@@ -144,8 +125,6 @@
 0.0.0.0 inmobi.com
 0.0.0.0 inspectlet.com
 0.0.0.0 jumptap.com
-0.0.0.0 k.keyade.com
-0.0.0.0 k.madmetrics.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 klaviyo.com
 0.0.0.0 klaviyomail.com
@@ -172,7 +151,6 @@
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 mixpanel.com
 0.0.0.0 mktoresp.com
-0.0.0.0 mm.actionlink.jp
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobileapptracking.com
 0.0.0.0 mouseflow.com
@@ -183,7 +161,6 @@
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 nr-data.net
 0.0.0.0 o.sentry.io
-0.0.0.0 oghub.io
 0.0.0.0 omniture.com
 0.0.0.0 omtrdc.net
 0.0.0.0 onelink.me
@@ -208,8 +185,6 @@
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungqbe.com
 0.0.0.0 sc-analytics.appspot.com
-0.0.0.0 sc.adobedc.net
-0.0.0.0 sc.omtrdc.net
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 sdktm.w.inmobi.com
@@ -225,29 +200,23 @@
 0.0.0.0 snowplow.io
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 starman.fathomdns.com
 0.0.0.0 stathat.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.gc.apple.com
-0.0.0.0 storetail.io
 0.0.0.0 supercell.net
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 t.appsflyer.com
-0.0.0.0 tagcommander.com
 0.0.0.0 tagmanager.google.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tapjoy.com
 0.0.0.0 tealiumiq.com
 0.0.0.0 telemetry.microsoft.com
-0.0.0.0 thirdparty.bnc.lt
 0.0.0.0 top.mail.ru
 0.0.0.0 top100.rambler.ru
 0.0.0.0 tr.snapchat.com
 0.0.0.0 trackersimulator.org
-0.0.0.0 tracking.bp01.net
-0.0.0.0 trck.a8.net
 0.0.0.0 trk.pinterest.com
 0.0.0.0 uop.umeng.com
 0.0.0.0 usc.adserver.snapads.com
@@ -258,12 +227,9 @@
 0.0.0.0 vungle.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wd.adcolony.com
-0.0.0.0 webtrekk.net
 0.0.0.0 webvisor.com
-0.0.0.0 wizaly.com
 0.0.0.0 woopra.com
 0.0.0.0 ws.tapjoyads.com
-0.0.0.0 wt-eu02.net
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.leanplum.com
 0.0.0.0 xp.apple.com
