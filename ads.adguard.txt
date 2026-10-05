@@ -1,6 +1,6 @@
 # DNS Blocklist: Ads & Advertising — AdGuard
-# Updated: 2026-10-04 08:57 UTC
-# Total: 657,568
+# Updated: 2026-10-05 09:44 UTC
+# Total: 658,008
 
 ||0--0.info^
 ||0--4.com^
@@ -748,6 +748,7 @@
 ||0131.casino^
 ||013130.com^
 ||0132.casino^
+||0132919hpho5i.skin^
 ||0133.net^
 ||013303.com^
 ||0135.casino^
@@ -1163,6 +1164,7 @@
 ||02nd.com^
 ||02sensor.com^
 ||02t.net^
+||02teste.cc^
 ||02ux.com^
 ||02w.click^
 ||02weqj32.com^
@@ -2279,7 +2281,6 @@
 ||0af2a962b0102942d9a7df351b20be55.com^
 ||0aior18v.xyz^
 ||0akview.duckdns.org^
-||0akw8w.com^
 ||0alha.voluumtrk.com^
 ||0amm.com^
 ||0aokpbwui.com^
@@ -4536,6 +4537,7 @@
 ||1124461-11.chat.api.drift.com^
 ||1124534-34.live.api.drift.com^
 ||1124989-39.chat.api.drift.com^
+||1124coinbase.com^
 ||1124design.com^
 ||1125.casino^
 ||112505-5.chat.api.drift.com^
@@ -12622,6 +12624,7 @@
 ||2labmanagement-wwwowa.uploadsphp.machineapi.alpha-disabled-management.net.zooplus.de^
 ||2labzxtm.net.zooplus.de^
 ||2lafc.voluumtrk.com^
+||2lcdjyf37f.com^
 ||2leep.com^
 ||2lesbians.net^
 ||2lhp5dk3a.de^
@@ -12860,6 +12863,7 @@
 ||2waky.com^
 ||2wdhi.voluumtrk2.com^
 ||2we41ywpey.mentalist.kameleoon.com^
+||2wg8pp90e.com^
 ||2wink.com.au^
 ||2wins.in^
 ||2wiz6.voluumtrk.com^
@@ -13833,7 +13837,6 @@
 ||34c2f22e9503ace.com^
 ||34c72d94d3.com^
 ||34c7655983.com^
-||34c9f78b4ef541baac4a6e84d4f832a7.lol^
 ||34canonpre.duckdns.org^
 ||34casino.buzz^
 ||34cb.com^
@@ -15444,6 +15447,7 @@
 ||3xchase.duckdns.org^
 ||3xeedcdci.com^
 ||3xeo00tqz.com^
+||3xeufcune6f4vciup.cfd^
 ||3xgood.com^
 ||3xit.net^
 ||3xpl.stream^
@@ -17472,6 +17476,7 @@
 ||4myline.com^
 ||4myplanet.org^
 ||4n7i8.voluumtrk.com^
+||4nc4fuji3kjf3tnqiutbc71m7rbtc.rest^
 ||4nc4qc1fo.com^
 ||4neca.duckdns.org^
 ||4necp.voluumtrk.com^
@@ -17634,6 +17639,7 @@
 ||4wnet.com^
 ||4wnetwork.com^
 ||4woi.tlnk.io^
+||4wppcr4tenfwjfl72vm2v.cfd^
 ||4wps.net^
 ||4wxs6oxv5s.kameleoon.eu^
 ||4wym8gups.com^
@@ -17650,6 +17656,7 @@
 ||4y13js.work^
 ||4y5k4.4mkej28ikgux28n.cyou^
 ||4y5t.com^
+||4y88vktypul4c3p47gb7gfz9l2.rest^
 ||4ycp.tlnk.io^
 ||4yduy53ik.com^
 ||4ygglxwy1770.top^
@@ -18942,6 +18949,7 @@
 ||5782800.fls.doubleclick.net^
 ||5786.casino^
 ||578756.gameloft.com^
+||5788185.lat^
 ||57883.net^
 ||578p.casino^
 ||579-yps-960.mktoresp.com^
@@ -21897,6 +21905,7 @@
 ||758.content.swrve.com^
 ||7581909510.lat^
 ||7584027.duckdns.org^
+||758940.xyz^
 ||758c824671f4fc0.com^
 ||7590.measurementapi.com^
 ||7592415.adoric-om.com^
@@ -22455,6 +22464,7 @@
 ||7casino.casino^
 ||7casino.surf^
 ||7cbb237b705ae9361.com^
+||7cbb97f2a8.com^
 ||7cbf2.v.fwmrm.net^
 ||7cc70.com^
 ||7ccl1tc0.de^
@@ -24113,6 +24123,7 @@
 ||8h7j79qxm.com^
 ||8hj500ro4t7.groovepages.com^
 ||8hta97dyuxmhf8soddu.qmxydoasugj4vn6722qibxr8k.uc3hhsah7kgy9j44d.xzbdujn83xowmw02m7si7lq13f7vt.ckbhlo4aow983s9atxzlt7t64j.bdgejehjw.duckdns.org^
+||8hvq8jskh.com^
 ||8hw49hipgurimmzrcv8qh6r1e.cfd^
 ||8hx7k0211.com^
 ||8iav2fuiy.com^
@@ -24291,6 +24302,7 @@
 ||8x88.casino^
 ||8x8ef.voluumtrk.com^
 ||8x919j7l2l.com^
+||8xb3njrjigxhge9q9mp2.cfd^
 ||8xo.casino^
 ||8xv8.com^
 ||8xvh5dzspx.mentalist.kameleoon.com^
@@ -24315,7 +24327,6 @@
 ||8zr.casino^
 ||8zse5d.cyou^
 ||8zytexpyhevjxbicsoohkbpg5ryjc1504901441.nuid.imrworldwide.com^
-||9-9-11.com^
 ||9-events.olark.com^
 ||9.6.87.194.dynamic.dol.ru^
 ||9.ackzany.com^
@@ -25774,7 +25785,6 @@
 ||a-counters.com^
 ||a-da.invideo.io^
 ||a-delivery.rmbl.ws^
-||a-dog.top^
 ||a-engine.hktdc.com^
 ||a-fds.youborafds01.com^
 ||a-hentai.tv^
@@ -25785,6 +25795,7 @@
 ||a-l.duckdns.org^
 ||a-lauda.duckdns.org^
 ||a-lehdet.fi^
+||a-linkedlin.com^
 ||a-medsystems.duckdns.org^
 ||a-mimarte.com^
 ||a-mo.net^
@@ -34459,6 +34470,7 @@
 ||abilaefax.com^
 ||abilenechristian.qualtrics.com^
 ||abilityadvertising.com^
+||abilityindisabilityindia.org^
 ||abilityscale.com^
 ||abilitytoucan.com^
 ||abilityviews.com^
@@ -34523,6 +34535,7 @@
 ||ablakparkany.hu^
 ||ablatesgascon.cam^
 ||ablatetjaele.com^
+||ablautsstannic.cyou^
 ||ablaze-class.space^
 ||ablazemahjong.shop^
 ||ablazesubconsciousadulate.com^
@@ -34906,6 +34919,7 @@
 ||aboveu.de^
 ||abowhaole.qpon^
 ||abox.simpleshop.cz^
+||aboxprizing.qpon^
 ||abozentrale.com^
 ||abp.smartadcheck.de^
 ||abpas.jaanuu.com^
@@ -36300,8 +36314,6 @@
 ||acirurknejixq.website^
 ||acishy.kang.fr^
 ||acisseora.cyou^
-||acitvated.win^
-||acivated.win^
 ||aciysf.destockage-fitness.com^
 ||acj4.com^
 ||acjmkenepeyn.com^
@@ -36595,7 +36607,6 @@
 ||acridtwist.com^
 ||acrilicoporto.pt^
 ||acrisiogroup.com^
-||acrivated.win^
 ||acrmbjkk6qc5utby.pro^
 ||acrnhtxwamscpm.com^
 ||acro.egghead.link^
@@ -36629,6 +36640,7 @@
 ||acrtsubmissions.com^
 ||acru.io^
 ||acrvisowuh.duckdns.org^
+||acrylicconnivetepary.cfd^
 ||acrylicsign.com.my^
 ||acrylnaegel.de.intellitxt.com^
 ||acs-dxb.duckdns.org^
@@ -36753,7 +36765,6 @@
 ||actforvictoryorg.112.2o7.net^
 ||actglimpse.com^
 ||acti.info^
-||actiated.win^
 ||actiavted.win^
 ||acticantly.club^
 ||actie.athlon.com^
@@ -36837,10 +36848,8 @@
 ||actito.be^
 ||actito.com^
 ||activ8cloud.duckdns.org^
-||activaed.win^
 ||activamedia.com.sg^
 ||activar.duckdns.org^
-||activatd.win^
 ||activatde.win^
 ||activate-apple.com^
 ||activate-bluetick-register.vercel.app^
@@ -36915,14 +36924,12 @@
 ||activated.co.il^
 ||activated.digital^
 ||activatedapps.com^
-||activatedd.win^
 ||activatedinsights.com^
 ||activatef.win^
 ||activategrowconserve.com^
 ||activatelearningonline.instructure.com^
 ||activatenew.duckdns.org^
 ||activateprofile.info^
-||activates.win^
 ||activatesparrow.com^
 ||activatesubhrle.download^
 ||activatetax.pro^
@@ -37051,8 +37058,6 @@
 ||activityravedisparity.com^
 ||activitytonic.com^
 ||activos.contacto.promerica.fi.cr^
-||activtaed.win^
-||activted.win^
 ||activtrak.com^
 ||actlz.github.io^
 ||actmaz.duckdns.org^
@@ -37097,6 +37102,7 @@
 ||actressav.com^
 ||actressdoleful.com^
 ||actricesmexicanasdesnudas.com^
+||actrivated.win^
 ||actrk.me^
 ||actrkn.com^
 ||actscattydecode.com^
@@ -37107,7 +37113,6 @@
 ||actsywtdii.duckdns.org^
 ||acttas.com^
 ||actthrilled.com^
-||acttivated.win^
 ||actu24.online^
 ||actual-budget.jcarregui.duckdns.org^
 ||actual-spirit.com^
@@ -37134,7 +37139,6 @@
 ||actv8.com^
 ||actv8.me^
 ||actv8me.com^
-||actvated.win^
 ||actvtrack.com^
 ||actwebmedia.affise.com^
 ||actwebmedia.g2afse.com^
@@ -57287,7 +57291,6 @@
 ||adprudence.adk2x.com^
 ||adprudence.com^
 ||adps-asp-secure.duckdns.org^
-||adps.pro^
 ||adpsa.cartmail.com^
 ||adpsj.d1.sc.omtrdc.net^
 ||adpsj.ssl.d1.sc.omtrdc.net^
@@ -69494,6 +69497,7 @@
 ||afuiw.com^
 ||afunnygames.com^
 ||afunshy.duckdns.org^
+||afuqrfxeptlxe.site^
 ||afutfjyhihsdy.space^
 ||afvcugqaulh.co^
 ||afvdarnzxd.duckdns.org^
@@ -71810,6 +71814,7 @@
 ||ajptwiopvptab.website^
 ||ajpxs.xyz^
 ||ajqaqk.unoliving.com^
+||ajqkwncpjwnud.online^
 ||ajqvqhbtqz.duckdns.org^
 ||ajrarkrzalpi.in^
 ||ajratgatjav.com^
@@ -73552,6 +73557,7 @@
 ||alerta.cxense.com^
 ||alerta9082268681-id-m-santanderclientes.duckdns.org^
 ||alertafterthought.com^
+||alertas-novobanco.ph^
 ||alertaspush.com^
 ||alertauth.duckdns.org^
 ||alertcarolina.unc.edu^
@@ -73864,6 +73870,7 @@
 ||alfrescohn.duckdns.org^
 ||alfry82.duckdns.org^
 ||alfynetwork.com^
+||alfzgdictoeeze.com^
 ||alg58.duckdns.org^
 ||alga.aircounsel.com^
 ||algaetriedplants.cyou^
@@ -74546,6 +74553,7 @@
 ||allow.vk.com^
 ||allowac.com^
 ||allowbutton.site^
+||allowcsxan2.site^
 ||allowingirksome.com^
 ||allowlisted.net^
 ||allowmailbox.com^
@@ -75555,6 +75563,7 @@
 ||ama07.cxense.com^
 ||ama3on.duckdns.org^
 ||amaabfvuyispa.space^
+||amaamn.com^
 ||amaarilabs.com^
 ||amabileblocage.com^
 ||amabilis.duckdns.org^
@@ -79743,6 +79752,7 @@
 ||andiesphotography.duckdns.org^
 ||andihu.duckdns.org^
 ||andiluhome.duckdns.org^
+||andinemacules.com^
 ||andinst2.actonsoftware.com^
 ||andinterpers.com^
 ||andipeter.duckdns.org^
@@ -79998,6 +80008,7 @@
 ||andysiu.duckdns.org^
 ||andytitten.duckdns.org^
 ||andzela.nuvexo.sbs^
+||aneadtwrlpqob.online^
 ||aneareddossmen.qpon^
 ||anedew.com^
 ||aneduker.one^
@@ -80079,6 +80090,7 @@
 ||angdn5o1-android.mobile-sdk-api.intercom.io^
 ||angdr.112.2o7.net^
 ||angebote.plex.com^
+||angefundsu.sbs^
 ||angege.com^
 ||angeinge.com^
 ||angel-talk.jp^
@@ -81559,6 +81571,7 @@
 ||aoqneyvmaz.com^
 ||aoqnrhqvtrfqz.com^
 ||aoqpvhstmc.bid^
+||aoqqxbroqdfwu.space^
 ||aoqviogrwckf.com^
 ||aoqvovzrtlpn.bid^
 ||aoredi.com^
@@ -82151,7 +82164,6 @@
 ||api-push.com^
 ||api-rackspace.bounceexchange.com^
 ||api-ref.tracksummer.com^
-||api-relay.cc^
 ||api-resource.youzicheng.net^
 ||api-rewarded-video.fyber.com^
 ||api-router.us-east-1.unbounce.com^
@@ -87926,6 +87938,7 @@
 ||arabianwealth.digital^
 ||arabicc.net^
 ||arabick.duckdns.org^
+||arabicpyas.cyou^
 ||arabinecystine.com^
 ||arabix.cyou^
 ||arabizeactors.cfd^
@@ -88593,6 +88606,7 @@
 ||arightdaturic.shop^
 ||arigng.door.ac^
 ||arigole-login.duckdns.org^
+||arigueheikum.cyou^
 ||arihomes.com^
 ||ariidaebuoy.top^
 ||ariix.com^
@@ -89128,6 +89142,7 @@
 ||artekha.duckdns.org^
 ||artelbrazing.qpon^
 ||artelo.duckdns.org^
+||artemaleokerfs.cyou^
 ||artemis-cdn.ocdn.eu^
 ||artemisaffiliates.com^
 ||artemiscasino833.com^
@@ -90278,6 +90293,7 @@
 ||askprivate.com^
 ||askresedueresedue.com^
 ||askrigg.duckdns.org^
+||askrwut.qpon^
 ||asksbluey.cyou^
 ||asksid.ai^
 ||asksirerundale.cfd^
@@ -91126,6 +91142,7 @@
 ||astralhustle.com^
 ||astralis-7.com^
 ||astralplaneonline.com^
+||astraluxclient.com^
 ||astras45.duckdns.org^
 ||astrasuite.info^
 ||astratech.global^
@@ -91494,6 +91511,7 @@
 ||atc.osacommunity.it^
 ||atc.rockmaster.com^
 ||atc.trentinobusinessrun.it^
+||atcbbifrmw.com^
 ||atcbju.silvergoldbull.ca^
 ||atcelebitor.com^
 ||atchao.jp^
@@ -91606,6 +91624,7 @@
 ||ateraslog.com^
 ||ateratera.com^
 ||aterhouseoyope.com^
+||aterlthkgirxw.space^
 ||aterrill.duckdns.org^
 ||aterru.g2afse.com^
 ||ateuchiclatch.shop^
@@ -91747,7 +91766,6 @@
 ||ativacaobiaonline.info^
 ||ativadorkmspico.com^
 ||ativan.ourtablets.com^
-||ativated.win^
 ||atiws.aipai.com^
 ||atjai.sentierfragrance.com^
 ||atjgtndhvbescp.bid^
@@ -91983,6 +92001,7 @@
 ||atqa11.com^
 ||atqfpwuikl.duckdns.org^
 ||atqjthrqgcjkf.website^
+||atqwlmnkfwjyt.website^
 ||atqxowwznoqkm.site^
 ||atr.aclinicafemmes.com.br^
 ||atr.adsmovil.com^
@@ -93495,7 +93514,6 @@
 ||authentik.thomasfamily.duckdns.org^
 ||authentik.tkdrob456.duckdns.org^
 ||authentisign.duckdns.org^
-||authgen.deals^
 ||authguest-booking.com^
 ||authhub.mom^
 ||authibxkey.duckdns.org^
@@ -93529,6 +93547,7 @@
 ||authorize.net^
 ||authorize00userdata.duckdns.org^
 ||authorized-let.com^
+||authorized-logins.net^
 ||authorized-minute.pro^
 ||authorized.by^
 ||authorizeddear.pro^
@@ -93781,6 +93800,7 @@
 ||autoextrem.de.intellitxt.com^
 ||autofahrer-online.de.intellitxt.com^
 ||autofarba.com^
+||autoflotte-vergabe.de^
 ||autoflowbin.cyou^
 ||autoforum-businessday.pl^
 ||autoforums.us.intellitxt.com^
@@ -93990,6 +94010,7 @@
 ||autumncollationsfootwear.com^
 ||autumnplantschateau.com^
 ||autumnpotato.duckdns.org^
+||auuaoiqnxttxp.site^
 ||auuayepftovx.com^
 ||auuofpvkyd.duckdns.org^
 ||auurbfhcgs.duckdns.org^
@@ -94571,6 +94592,7 @@
 ||avsquad1.com^
 ||avstat.it^
 ||avsvmcloud.com^
+||avszjedalkciq.space^
 ||avt.hit.gemius.pl^
 ||avtacliydj.duckdns.org^
 ||avtb2264.com^
@@ -94635,6 +94657,7 @@
 ||avvolautom.store^
 ||avvpwslive.duckdns.org^
 ||avvqpumfwvrfn.com^
+||avvsagvuwgddt.space^
 ||avwgcvcffh.duckdns.org^
 ||avwincall.info^
 ||avwjyvalyjkw.top^
@@ -95978,6 +96001,7 @@
 ||azogue.org^
 ||azointel.com^
 ||azol.de^
+||azolevapored.com^
 ||azoniumsinamin.com^
 ||azoniumtiangue.top^
 ||azonnalifizetes.hu^
@@ -96859,6 +96883,7 @@
 ||b6r4xp.lat^
 ||b6roqgi.com^
 ||b6un2ap5u9.mentalist.kameleoon.com^
+||b6w9m2z5x8q1v3k.top^
 ||b6x53tk1vtcymzax4dnwun0dwwopk1507548581.nuid.imrworldwide.com^
 ||b6y1umem7u4794h1.cfd^
 ||b6zvtfvngrruxjkwcqwvzmfxo1t.cfd^
@@ -97002,6 +97027,7 @@
 ||ba9c-2f16-1a5a-10bb.reporo.net^
 ||baa2e174884c9c0460e.com^
 ||baahnj.bezokularow.pl^
+||baainbw-vergabe.de^
 ||baakhaas.duckdns.org^
 ||baalamaala.com^
 ||baalial.duckdns.org^
@@ -97092,6 +97118,7 @@
 ||babs.tv2.dk^
 ||babsedrinhi.info^
 ||babsenfred.duckdns.org^
+||babsknacky.cfd^
 ||babson.qualtrics.com^
 ||babsst.buildabear.at^
 ||babsst.buildabear.de^
@@ -101446,6 +101473,7 @@
 ||bcbb.rubiconproject.com^
 ||bcbcl.cheapestees.com^
 ||bcbeapsaic.duckdns.org^
+||bcbmslrnhhhoz.website^
 ||bcbshbjhiw.duckdns.org^
 ||bcbsks.com.102.112.2o7.net^
 ||bcbst.qualtrics.com^
@@ -102753,6 +102781,7 @@
 ||bedumbserugate.com^
 ||beduncharrodegag.qpon^
 ||bedviojcrllpi.space^
+||bedwlzqwkxpzfc.com^
 ||bee-ads.com^
 ||bee.andreawhitmer.com^
 ||bee.jbkmobiledj.com^
@@ -102778,6 +102807,7 @@
 ||beeclever.app^
 ||beecrib.duckdns.org^
 ||beedoctor.in.th^
+||beedomcupay.cyou^
 ||beedubhass.duckdns.org^
 ||beef-casino19.com^
 ||beef-casino20.com^
@@ -104231,6 +104261,7 @@
 ||beste-de-casinos.com^
 ||beste.nl^
 ||bestecasinobonussen.nl^
+||bestecasinoliste.de^
 ||bestecasinosechtgeld.com^
 ||bestecasinosguru.nl^
 ||bestecnyov.click^
@@ -104452,6 +104483,7 @@
 ||bet365.rs^
 ||bet365affiliates.com^
 ||bet365ald.com^
+||bet365bby.com^
 ||bet365k2.cc^
 ||bet365koreasite.com^
 ||bet365online.club^
@@ -105207,6 +105239,7 @@
 ||bfhrvqadsd.duckdns.org^
 ||bfhrwqaroikoo.site^
 ||bfhxivpij.com^
+||bfhxjiudianhui.com^
 ||bfiat.veteranproject.com^
 ||bfidvcsuazwy.com^
 ||bfifntelwmswz.online^
@@ -105261,6 +105294,7 @@
 ||bfqcx.xyz^
 ||bfqlszwwad.duckdns.org^
 ||bfraircymryuh.xyz^
+||bfrbthswzgsam.website^
 ||bfrcl.fullfocusstore.com^
 ||bfrcs.avidgear.com^
 ||bfrdj.thewoodveneerhub.co.uk^
@@ -105525,6 +105559,7 @@
 ||bgtop100.com^
 ||bgtpzv.vardvaskan.se^
 ||bgtrs.pro^
+||bgtsegr.click^
 ||bguaeoakgmrw.com^
 ||bguelsen.duckdns.org^
 ||bgumanagement.qualtrics.com^
@@ -105723,6 +105758,7 @@
 ||bhpfkecrgv.duckdns.org^
 ||bhphoto-d.openx.net^
 ||bhphoto.btttag.com^
+||bhpiegtkglvba.online^
 ||bhplyiegippcw.com^
 ||bhptaexperience.qualtrics.com^
 ||bhpxcsmvkqgd.com^
@@ -105887,6 +105923,7 @@
 ||bhtggmsfur.news.demo.nasmann.duckdns.org^
 ||bhtggmsfur.www.news.demo.nasmann.duckdns.org^
 ||bhtpkg.mirtesen.ru^
+||bhtupdtabrhsld.com^
 ||bhtuukgrerzjmchn.com^
 ||bhuewuodwz.bid^
 ||bhuht.stackedskincare.com^
@@ -106815,6 +106852,7 @@
 ||biijdpauyvf.com^
 ||biijethexe.click^
 ||biinminigihi.com^
+||biinnjyohmrk.com^
 ||biipe.voluumtrk.com^
 ||biisteringdate.com^
 ||biixxwemsq.duckdns.org^
@@ -106834,6 +106872,7 @@
 ||bijscode.com^
 ||bijsterveld.duckdns.org^
 ||bijucloud.duckdns.org^
+||bijuqwknchra.com^
 ||bikapxmzeu.duckdns.org^
 ||bikdbfvfid.duckdns.org^
 ||bike.turbobd.com^
@@ -107011,6 +107050,7 @@
 ||billyimpex.com^
 ||billymobile.com^
 ||billypub.com^
+||billypx.com^
 ||billyrtb.com^
 ||billytesting.com^
 ||billywillydomain.duckdns.org^
@@ -108307,6 +108347,7 @@
 ||bizcom.com.ru^
 ||bizeps.tntfitness.de^
 ||bizerba-dot-azure-projectfiles.uk.r.appspot.com^
+||bizescabrie.cyou^
 ||bizfedpoll.co1.qualtrics.com^
 ||bizfo.co.uk^
 ||bizgrowthtips.com^
@@ -109325,6 +109366,7 @@
 ||blikk.pushengage.com^
 ||blimp.cn^
 ||blimp.duckdns.org^
+||blimpsfluxed.cyou^
 ||blinateddv.duckdns.org^
 ||blind-sort.com^
 ||blind-tool.pro^
@@ -110218,6 +110260,7 @@
 ||blogshop.org^
 ||blogsite.org^
 ||blogsontop.com^
+||blogspot.ch^
 ||blogspot.gr^
 ||blogspot.ie^
 ||blogspot.tw^
@@ -110671,6 +110714,7 @@
 ||blueswordksh.com^
 ||bluetackclasp.com^
 ||blueteam.cool^
+||bluetick-profile.cfd^
 ||bluetoad.com^
 ||bluetrackmedia.com^
 ||bluetrafficstream.com^
@@ -110909,6 +110953,7 @@
 ||bmfrtixpatf.com^
 ||bmfwxepsum.duckdns.org^
 ||bmfzmngxlr.duckdns.org^
+||bmg-agesundheitsversorgung.ink^
 ||bmg8t99nhf.com^
 ||bmg8u.voluumtrk.com^
 ||bmgdisgudk.duckdns.org^
@@ -112994,6 +113039,7 @@
 ||bootcdn.net^
 ||bootcss.com^
 ||bootdaily.us.intellitxt.com^
+||booteemiterlipemic.cfd^
 ||booterymerch.cyou^
 ||bootesreeder.cyou^
 ||boothmythevergreen.com^
@@ -113305,6 +113351,7 @@
 ||bossacademy.in^
 ||bossart-home.duckdns.org^
 ||bossawaphutsoo.net^
+||bossbey.store^
 ||bosscrystudious.com^
 ||bossea.duckdns.org^
 ||bosselinorrummage.com^
@@ -113391,6 +113438,7 @@
 ||botb.rtl2.de^
 ||botbotpkg.duckdns.org^
 ||botcasa.duckdns.org^
+||botcheck-cf.top^
 ||botcopy.com^
 ||botd.wordpress.com^
 ||botd2.wordpress.com^
@@ -114322,6 +114370,7 @@
 ||bragahack.duckdns.org^
 ||braganza.duckdns.org^
 ||braganzahouse.duckdns.org^
+||bragasstroth.cfd^
 ||braggingantiquarian.com^
 ||braggingreorganizeunderworld.com^
 ||bragpsychicsophomore.com^
@@ -114989,6 +115038,7 @@
 ||breezeads.com^
 ||breezebiddingvarying.com^
 ||breezebrowsing.com^
+||breezeclient.com^
 ||breezeclient.org^
 ||breezetestlab.duckdns.org^
 ||breezfourc.store^
@@ -116109,6 +116159,7 @@
 ||brumerentelle.digital^
 ||brumeshidel.qpon^
 ||brummells.duckdns.org^
+||brummerbider.com^
 ||brunchchandler.com^
 ||brunchforher.com^
 ||brunchinvitedrocket.com^
@@ -118062,6 +118113,7 @@
 ||btnmlbep.casamingo.gift^
 ||btnqborw.com^
 ||btnqi.zcaddystore.com^
+||btnseqv.info^
 ||btnspihedggvk.website^
 ||btnuoqcvwv.duckdns.org^
 ||btnxlryfok.duckdns.org^
@@ -119202,6 +119254,7 @@
 ||bushesawaitfeminine.com^
 ||bushhammer01.top^
 ||bushidomma.net^
+||bushiercaulds.qpon^
 ||bushilycoheirsnaggar.qpon^
 ||bushilydoddies.qpon^
 ||bushimorrice.com^
@@ -119420,6 +119473,7 @@
 ||butpromptreckon.com^
 ||butshesagirl.usesfathom.com^
 ||butsurestedonychin.cyou^
+||buttaltonifynyanja.cfd^
 ||buttcandy.com^
 ||butter.to^
 ||butterandcheese.net^
@@ -119760,6 +119814,7 @@
 ||bvbxvenuoa.duckdns.org^
 ||bvbypswhds.com^
 ||bvcaz.duckdns.org^
+||bvcbx.store^
 ||bvcddoyb.com^
 ||bvcdinswgb.duckdns.org^
 ||bvcftyioofdd.lol^
@@ -123158,6 +123213,7 @@
 ||callmeasurement.com^
 ||callmekake.duckdns.org^
 ||callnrwise.com^
+||callopreawoke.cyou^
 ||callora.cz^
 ||callosity19.top^
 ||callosum.duckdns.org^
@@ -123826,6 +123882,7 @@
 ||canaljeanluc.duckdns.org^
 ||canalle.duckdns.org^
 ||canalplus.pro^
+||canalpuntosafe.com^
 ||canalstat.com^
 ||canalthinkcleaning.com^
 ||canalthirstplaying.com^
@@ -123864,6 +123921,7 @@
 ||cancervaccine.cc^
 ||cancervaccine.in^
 ||canchanguita.duckdns.org^
+||canciongibber.cfd^
 ||cancll-wdtraxe.duckdns.org^
 ||cancossis.duckdns.org^
 ||canda.demdex.net^
@@ -124149,6 +124207,7 @@
 ||capablecows.com^
 ||capablecup.com^
 ||capablejeweller.com^
+||capablespruer.qpon^
 ||capabletonight.com^
 ||capacinpcz3.duckdns.org^
 ||capaciousdrewreligion.com^
@@ -124807,7 +124866,6 @@
 ||capquqhuiazl.com^
 ||caprewards.go2cloud.org^
 ||capriceawelessaweless.com^
-||capricecapitalpartners.com^
 ||capriceprop.com^
 ||capricetheme.com^
 ||capricious-chosen.com^
@@ -125512,6 +125570,7 @@
 ||carrigg.duckdns.org^
 ||carrino.duckdns.org^
 ||carrllopsciurid.info^
+||carrolc.com^
 ||carroll.datafirst.io^
 ||carrollcounty.iad1.qualtrics.com^
 ||carrollcountyhealth.iad1.qualtrics.com^
@@ -126534,6 +126593,7 @@
 ||case04.duckdns.org^
 ||caseaterallied.com^
 ||casecat.instructure.com^
+||casedesuvre.com^
 ||casefamily.duckdns.org^
 ||casegenetically.com^
 ||casell.duckdns.org^
@@ -126542,6 +126602,7 @@
 ||caseours.com^
 ||caseracu.ca.102.112.2o7.net^
 ||caserntagmeme.cyou^
+||casero.store^
 ||casesaglia.duckdns.org^
 ||casestudies.applovin.com^
 ||casetaalpi.duckdns.org^
@@ -128417,6 +128478,7 @@
 ||casota-belas.duckdns.org^
 ||casota.duckdns.org^
 ||casp-ha1.duckdns.org^
+||casparlacquer.com^
 ||casparmhome.duckdns.org^
 ||casper.goguardian.com^
 ||casper.pxf.io^
@@ -128716,7 +128778,6 @@
 ||cationakasu.shop^
 ||cationinina.one^
 ||catiuribripent.com^
-||cativated.win^
 ||catkin.duckdns.org^
 ||catlanguage.net^
 ||catng.crateandbarrel.com^
@@ -128942,6 +129003,7 @@
 ||caykotranybjvx.com^
 ||caymanhafgan.qpon^
 ||caymland.app^
+||caynardupwent.com^
 ||cayo.earth^
 ||cayo.global^
 ||cayo.pro^
@@ -129054,6 +129116,7 @@
 ||cbcincinnatienquirer.112.2o7.net^
 ||cbcjkmyetnqch.com^
 ||cbckftoaakcye.website^
+||cbckkomlxenaw.site^
 ||cbclickbank.com^
 ||cbclicks.com^
 ||cbcloja.org.mk^
@@ -129637,6 +129700,7 @@
 ||ccnvdnqahkmno.space^
 ||ccnypsych.az1.qualtrics.com^
 ||ccnypsych.qualtrics.com^
+||ccoffice.site^
 ||ccomduoliprudential.com.watchdogdns.duckdns.org^
 ||ccommander.duckdns.org^
 ||ccomps.com^
@@ -130426,6 +130490,7 @@
 ||cdn.advertserve.com^
 ||cdn.adviad.com^
 ||cdn.advisible.com^
+||cdn.adwebcode.gr^
 ||cdn.adworkmedia.com^
 ||cdn.adx1.adx1.com^
 ||cdn.adx1.com^
@@ -133947,6 +134012,7 @@
 ||chainlotemax.pro^
 ||chainlotemaxprotrade.com^
 ||chainmychonga.com^
+||chainonchevretjunks.cyou^
 ||chainonnoilage.shop^
 ||chainreactioncycles.ugc.bazaarvoice.com^
 ||chainsmokerbarbecue.ca^
@@ -134360,6 +134426,7 @@
 ||charityflopchristening.com^
 ||charitylingoreformer.com^
 ||charitypaste.com^
+||charitytummockcalmer.cyou^
 ||charl-bitw.duckdns.org^
 ||charlee777.duckdns.org^
 ||charlemont.duckdns.org^
@@ -135413,6 +135480,7 @@
 ||cheetahnet.org^
 ||cheetieaha.com^
 ||cheetintake.cfd^
+||cheetoclient.com^
 ||cheetorkitten.duckdns.org^
 ||cheetosgang.duckdns.org^
 ||cheewhoa.net^
@@ -135458,6 +135526,7 @@
 ||chekazpools.com^
 ||chekbexdop.pro^
 ||chekbrow.beer^
+||chekcms432.cc^
 ||chekesofta.qpon^
 ||chekkersuslik.cfd^
 ||chekrilsoumpoab.net^
@@ -135507,6 +135576,7 @@
 ||chemyahoo.com^
 ||chen31.duckdns.org^
 ||chenaladenews.com^
+||chendepinguidhypnody.cyou^
 ||cheneverse.duckdns.org^
 ||chenfbdjnlypd.site^
 ||cheng1040.duckdns.org^
@@ -135599,6 +135669,7 @@
 ||chessomdenotes.cfd^
 ||chessquery.com^
 ||chesssorrydescend.com^
+||chestedinitdigged.cfd^
 ||chestenechilbi.ch^
 ||chesterrd657.duckdns.org^
 ||chestgoingpunch.com^
@@ -135664,6 +135735,7 @@
 ||chgmicrotelv2.112.2o7.net^
 ||chgnazbymj.duckdns.org^
 ||chgqm.voluumtrk.com^
+||chgrods.cyou^
 ||chgsupereight.112.2o7.net^
 ||chgv9.duckdns.org^
 ||chgvlw.eider.com^
@@ -136418,6 +136490,7 @@
 ||chpbeysqhbftwg.com^
 ||chpfgx.com^
 ||chphelin1.duckdns.org^
+||chpidtkw.com^
 ||chplea1tj9.top^
 ||chpm78.duckdns.org^
 ||chpok.pw^
@@ -138079,6 +138152,7 @@
 ||cjsab.com^
 ||cjsearch.net^
 ||cjsgmoekcb.com^
+||cjskcaxpjhgne.online^
 ||cjsmarthome.duckdns.org^
 ||cjsnfuzqpxywh.space^
 ||cjsossrbji.xyz^
@@ -141523,6 +141597,7 @@
 ||cloud-search-msgplus.linkury.com^
 ||cloud-search.linkury.com^
 ||cloud-serch.linkury.com^
+||cloud-sharing.com^
 ||cloud-skeeter.duckdns.org^
 ||cloud-stlouisdegonzague44.duckdns.org^
 ||cloud-suites.xyz^
@@ -143023,6 +143098,7 @@
 ||cmrdr.com^
 ||cmrhvx.lojapegada.com.br^
 ||cmrkkqvk.attipas.pl^
+||cmrkkuzzrxots.site^
 ||cmrny.duckdns.org^
 ||cmrppltjs.com^
 ||cmrxvyjyaerf.com^
@@ -143713,6 +143789,7 @@
 ||coalitionfoul.com^
 ||coalkitchen.com^
 ||coalservices.qualtrics.com^
+||coalyelves.com^
 ||coandroid.ru^
 ||coaphauk.net^
 ||coapheecoz.xyz^
@@ -143740,6 +143817,7 @@
 ||coastuniversalintroducing.com^
 ||coastweightfastidious.com^
 ||coatbig.info^
+||coatcvqntgcsw.com^
 ||coatfood.com^
 ||coationsundown.cyou^
 ||coatobpljh.com^
@@ -146593,7 +146671,6 @@
 ||com.syscore.duckdns.org^
 ||com.tapps.analytics.s3.amazonaws.com^
 ||com.tenjin.ios.api^
-||com.tg^
 ||com.watchdogdns.duckdns.org^
 ||com.webstatsdomabackup.xn--94q462e06ujb.duckdns.org^
 ||com01.webtrekk.net^
@@ -146702,6 +146779,7 @@
 ||comentguillaume.duckdns.org^
 ||comeon.com^
 ||comeon.nl^
+||comeoncasino.io^
 ||comeonwetten.de^
 ||comercial.multipublicacoes.pt^
 ||comercialhidalgo.com^
@@ -149418,7 +149496,6 @@
 ||contextweb.com^
 ||contextweb.pixel.invitemedia.com^
 ||contextweb.yieldoptimizer.com^
-||conti.pk^
 ||contiamo.com^
 ||contiero.duckdns.org^
 ||contify.com^
@@ -150324,7 +150401,6 @@
 ||copilot-telemetry-service.githubusercontent.com^
 ||copilot-telemetry.githubusercontent.com^
 ||copilul.2cnt.net^
-||copiose.org^
 ||copiousgoutswimwear.com^
 ||copisevacuee.cfd^
 ||copitinamon.com^
@@ -166705,6 +166781,7 @@
 ||cryptoserb.com^
 ||cryptosmoke.care^
 ||cryptosplash.care^
+||cryptospulseseven.xyz^
 ||cryptostreamstv.com^
 ||cryptotab.net^
 ||cryptotraffic.xyz^
@@ -166731,6 +166808,7 @@
 ||crystalbaycasino.com^
 ||crystalbloom.bid^
 ||crystalboulevard.com^
+||crystalbranchtw.blog^
 ||crystalcasinobase.com^
 ||crystalcasinodaily.com^
 ||crystalcasinolounge.com^
@@ -167812,7 +167890,6 @@
 ||ctimfrfrmqip.com^
 ||ctiprlgcxftdsaiqvk.com^
 ||ctirhpp.com^
-||ctivated.win^
 ||ctivo.com^
 ||ctix8.cheaptickets.com^
 ||ctizens-4portal.duckdns.org^
@@ -168516,6 +168593,7 @@
 ||cupis-lady-dreampartner.com^
 ||cuplikenominee.com^
 ||cuplwjwkpxjrp.space^
+||cupmanmalodor.cyou^
 ||cupmidnithe.com^
 ||cupoabie.net^
 ||cupolasdaimenfixture.qpon^
@@ -169922,7 +170000,6 @@
 ||cyclistburiels.qpon^
 ||cyclobenzaprine.1.p2l.info^
 ||cyclobenzaprine.ourtablets.com^
-||cyclograph.xyz^
 ||cyclokinetics.online^
 ||cycloneamalgamgnatho.cfd^
 ||cyclope205.duckdns.org^
@@ -169941,6 +170018,7 @@
 ||cydoor.com^
 ||cydownsand.pro^
 ||cydrplnres.duckdns.org^
+||cydwyzuianudt.site^
 ||cyeabs.luxyhair.com^
 ||cyehas.duckdns.org^
 ||cyeitxjzgsmef.online^
@@ -169962,6 +170040,7 @@
 ||cygfvilplq.duckdns.org^
 ||cygldmgonirjm.online^
 ||cyglujeshu.com^
+||cygnetbusaos.cfd^
 ||cygngisr.com^
 ||cygnus-d.openx.net^
 ||cygnus.com^
@@ -170382,6 +170461,7 @@
 ||cztmmijwxiafu.click^
 ||cztvwngjmz.duckdns.org^
 ||cztxjk.forallgifts.com^
+||cztyasclhstsz.space^
 ||czuhygurakcdk.website^
 ||czujjs.crownandcaliber.com^
 ||czunraid.duckdns.org^
@@ -181684,6 +181764,7 @@
 ||dcdevtzxo4bb0.cloudfront.net^
 ||dcdf9bb185.com^
 ||dcdifeecbfhxm.space^
+||dcdlnxglgfmpl.online^
 ||dcdn.adnxs.com^
 ||dcdomingues.duckdns.org^
 ||dcdqvukf.bid^
@@ -181713,7 +181794,6 @@
 ||dcfeed.datedeskads.com^
 ||dcff90fa75.com^
 ||dcfnihzg81pa.com^
-||dcfpp.com^
 ||dcfs.duckdns.org^
 ||dcgbswcvywyl.com^
 ||dcgbuqiqsxrsv.online^
@@ -183988,6 +184068,7 @@
 ||delp-heizungsbau.de^
 ||delphi.ni.com^
 ||delphi.svc.ada.support^
+||delphiaonline.top^
 ||delphicom.112.2o7.net^
 ||delphix.fr^
 ||delqphfqgnrty.online^
@@ -185085,6 +185166,7 @@
 ||deskthipk.com^
 ||desktodayflash.click^
 ||desktop-adv-banners.freemake.com^
+||desktop-wallet.io^
 ||desktop.cums.duckdns.org^
 ||desktop.nucdoos.duckdns.org^
 ||desktop.spotify.com^
@@ -185929,6 +186011,7 @@
 ||devroom.duckdns.org^
 ||devs-api.poki.com^
 ||devs.data.mob.com^
+||devs.surf^
 ||devsalliemaecom.112.2o7.net^
 ||devsanmaden.com^
 ||devschool.duckdns.org^
@@ -185971,6 +186054,7 @@
 ||dewahac.duckdns.org^
 ||dewans.duckdns.org^
 ||dewapokercore.club^
+||dewapokercore.us^
 ||dewapsithi.pro^
 ||dewapush.com^
 ||dewasalink18.duckdns.org^
@@ -186300,6 +186384,7 @@
 ||dfp.doubleclick.net^
 ||dfpa1te.thebestplayer.mobi^
 ||dfpapi.doubleclick.net^
+||dfpawder.com^
 ||dfpbc.happysocks.com^
 ||dfpbrznswk.duckdns.org^
 ||dfpcybqhhj.duckdns.org^
@@ -186670,6 +186755,7 @@
 ||dhaka.elitemart.com.bd^
 ||dhami.duckdns.org^
 ||dhanbad-home.duckdns.org^
+||dhangarkokia.com^
 ||dhankesari.top^
 ||dhanmondieidgahmosque.com^
 ||dhanroop.cfd^
@@ -186910,6 +186996,7 @@
 ||dhynxkwbsqrgp.website^
 ||dhyrdvvxrxjtn.online^
 ||dhyrlpxupgjcj.site^
+||dhysaddrckknlb.com^
 ||dhysllhtvdbfa.online^
 ||dhzmxkoq.bid^
 ||dhzppdhjiz.duckdns.org^
@@ -187804,6 +187891,7 @@
 ||digitalimc.com^
 ||digitalinsight.com.102.122.2o7.net^
 ||digitaliseringsinitiativet.se^
+||digitalisonesapps.com^
 ||digitalitzone.com^
 ||digitalixir.cleannfreshny.com^
 ||digitalkites.com^
@@ -188407,6 +188495,7 @@
 ||dinuclean.com^
 ||dinunfrzaq.duckdns.org^
 ||dinwhozi.com^
+||dinxkqucszaza.space^
 ||dinyamyanmar.com^
 ||dinzfafad.in^
 ||dio.admicro.vn^
@@ -189056,6 +189145,7 @@
 ||dishround.com^
 ||dishtrekkerunderfoot.com^
 ||dishvoc.co1.qualtrics.com^
+||dishwasher46.com^
 ||dishwasherfall.com^
 ||dishwasherperspire.com^
 ||dishwaterconcedehearty.com^
@@ -189309,6 +189399,7 @@
 ||disrobegilded.com^
 ||disroofiwa.shop^
 ||disrootaffa.com^
+||disrootlesses.com^
 ||disruptive-advertising.s3-us-west-2.amazonaws.com^
 ||disruptive49.com^
 ||disruptiveadvertising.com^
@@ -189564,6 +189655,7 @@
 ||div.fixbg^
 ||div.gorsel^
 ||div.h10px.colboxclear^
+||div.hblock^
 ||div.header.red^
 ||div.heading^
 ||div.incut^
@@ -189601,6 +189693,7 @@
 ||divekar-wada.duckdns.org^
 ||divekcl7q9fxi.cloudfront.net^
 ||divekickspolic.org^
+||divellense.com^
 ||divemasterjm.duckdns.org^
 ||diverecollection.com^
 ||divergeimperfect.com^
@@ -191553,6 +191646,7 @@
 ||dnsv1.com^
 ||dnsverde.duckdns.org^
 ||dnsw.qualtrics.com^
+||dnswwt.club^
 ||dnsx.duckdns.org^
 ||dnt-userreport.com^
 ||dnt.qualaroo.com^
@@ -193285,10 +193379,12 @@
 ||dontwatch.us^
 ||donut.thebakeacademy.com^
 ||donutclients.net^
+||donutclients.org^
 ||donuthome.duckdns.org^
 ||donutiot.duckdns.org^
 ||donutpassenger.com^
 ||donutsmpcheats.org^
+||donutsmpclient.com^
 ||donval.112.2o7.net^
 ||donvirus.vk.com^
 ||donw.duckdns.org^
@@ -193544,6 +193640,7 @@
 ||doshishalaw.qualtrics.com^
 ||dosingscutta.com^
 ||dosiraktong.com^
+||dosjagg.cfd^
 ||doska.mirtesen.ru^
 ||doskho.duckdns.org^
 ||doski.by^
@@ -195691,6 +195788,7 @@
 ||drts.contextweb.com^
 ||drtserver.com^
 ||drtuproft.com^
+||drtvapwd.com^
 ||drtzdpcwvy.duckdns.org^
 ||druadirjfviwn.xyz^
 ||druadlgjyo.duckdns.org^
@@ -195708,6 +195806,7 @@
 ||druffenanatto.cyou^
 ||drufgqygmwhen.site^
 ||drug-testing.shengen.ru^
+||drug.shrillyclose.com^
 ||druga-rzeczpospolitapolska.pl^
 ||drugdetox.shengen.ru^
 ||drugdiet.com^
@@ -196669,6 +196768,7 @@
 ||dsvideo23.schunke.duckdns.org^
 ||dsvjgw.com^
 ||dsvkxa.com^
+||dsvkyohizkbax.space^
 ||dsvmgu.snipes.it^
 ||dsvopb.com^
 ||dsvosm.com^
@@ -198914,6 +199014,7 @@
 ||dyfcldfubr.duckdns.org^
 ||dyfedtelecom.com^
 ||dyffrdoxit.duckdns.org^
+||dyfgaduveazcr.space^
 ||dyfpilivhdq.xyz^
 ||dyfu.duckdns.org^
 ||dygadan.info^
@@ -202985,6 +203086,7 @@
 ||eekert.dohealth.co^
 ||eekfipvawp.duckdns.org^
 ||eekighoo.com^
+||eekjdpreeghad.com^
 ||eekkanwe.com^
 ||eekknightsoon.com^
 ||eekmkywfke.com^
@@ -203652,6 +203754,7 @@
 ||egpdbp6e.de^
 ||egpealygnhgue.online^
 ||egpliqghss.duckdns.org^
+||egpmuekhlkhob.site^
 ||egpuvrhfhekup.com^
 ||egqeaijxjsyah.com^
 ||egqhbuyfdpswm.space^
@@ -204089,6 +204192,7 @@
 ||ehuomemzh.com^
 ||ehvkaakviw.com^
 ||ehvphrpgxyikgm.com^
+||ehvtvjucwjngm.space^
 ||ehvxrxndjgzbb.online^
 ||ehwgoqkfsp.duckdns.org^
 ||ehwhpydhdy.duckdns.org^
@@ -204962,6 +205066,7 @@
 ||eldamar04-loadbalanced.kameleoon.com^
 ||elder-dragon.tracklol.com^
 ||elderlaw.eldercounsel.com^
+||elderly-craft.com^
 ||elderly-device.pro^
 ||elderly-fail.pro^
 ||elderlygoal.com^
@@ -206902,6 +207007,7 @@
 ||emericmenard.duckdns.org^
 ||emerilstore.d1.sc.omtrdc.net^
 ||emerite01.webtrekk.net^
+||emeritiillano.com^
 ||emeritussurveys.iad1.qualtrics.com^
 ||emerizeculler.com^
 ||emerse.com^
@@ -208383,6 +208489,7 @@
 ||enmbg.com^
 ||enmisindingat.info^
 ||enmityclaspexperiments.com^
+||enmitycornealpulasan.cyou^
 ||enmitykindergartendebatable.com^
 ||enmlvg.plusdental.at^
 ||enmusubimail000.com^
@@ -212402,6 +212509,7 @@
 ||eva1f.meerkleding.nl^
 ||evaairline.com^
 ||evacloud.duckdns.org^
+||evacompltd.site^
 ||evacrown.cfd^
 ||evadav.com^
 ||evadav.top^
@@ -214364,6 +214472,7 @@
 ||evs.jivox.com^
 ||evs.nuage01.scaleway.com^
 ||evs.segment.complex.com^
+||evs.segwww.incident.io^
 ||evs.sgmt.loom.com^
 ||evsembu.com^
 ||evsense.duckdns.org^
@@ -214820,6 +214929,7 @@
 ||exceptions.singular.net^
 ||exceptionspodcast.drift.com^
 ||exceptlonaidates.com^
+||exceptlone.com^
 ||excernbald.cfd^
 ||excess-ga.duolingo.com^
 ||excess.duolingo.com^
@@ -215021,7 +215131,6 @@
 ||executivehadregent.com^
 ||executivehoroscope.com^
 ||executorcollabora.duckdns.org^
-||executorhub.space^
 ||executors110.net^
 ||executorswith620.net^
 ||exedra.duckdns.org^
@@ -217473,6 +217582,7 @@
 ||fahri-web-2022.duckdns.org^
 ||fahrrad.bikesshop.de^
 ||fahrtipps.de.intellitxt.com^
+||fahrzeugvergabe.de^
 ||fahtemeroh.duckdns.org^
 ||fahwgnn3-ios.mobile-sdk-api.intercom.io^
 ||fahwlqf37l.com^
@@ -217519,6 +217629,7 @@
 ||fair-contest.pro^
 ||fair-go-casino.io^
 ||fair-spins-casino.com^
+||fair-spins-casino.net^
 ||fair-watduoliprudential.com.watchdogdns.duckdns.org^
 ||fairad.co^
 ||fairadsnetwork.com^
@@ -217929,6 +218040,7 @@
 ||family.net.jumia.co.ke^
 ||family1st.ca^
 ||familyabroad.net^
+||familyaddons.com^
 ||familyaddons.org^
 ||familybairet.duckdns.org^
 ||familyborn.com^
@@ -219593,6 +219705,7 @@
 ||fboubaevbq.duckdns.org^
 ||fbpbvp.green-acres.hr^
 ||fbpetrwt.com^
+||fbping.com^
 ||fbpinluwg.xyz^
 ||fbpixel.network.exchange^
 ||fbpodgladacz.wordpress.com^
@@ -219869,6 +219982,7 @@
 ||fcodeluppi.duckdns.org^
 ||fcoinflipper.duckdns.org^
 ||fcollingwood.duckdns.org^
+||fcomppastis.com^
 ||fcone.demo-charitablegift.com^
 ||fcone.fidelity.com^
 ||fcone.fidelitycharitable.org^
@@ -219938,6 +220052,7 @@
 ||fcveilhtok.com^
 ||fcvjhuzdcached.review^
 ||fcvnd.apothekenaratgeber.com^
+||fcvtagymwfeuyri.com^
 ||fcvwnpindk.duckdns.org^
 ||fcvxmhtpvpuld.space^
 ||fcwdsidinixoz.website^
@@ -220983,7 +221098,6 @@
 ||fermiumyar.cyou^
 ||fermolo.info^
 ||fermvn.magmac.pl^
-||fern-plume.com^
 ||fernandezcuesta.duckdns.org^
 ||fernandezortiz.duckdns.org^
 ||fernandokim.duckdns.org^
@@ -221851,6 +221965,7 @@
 ||fhc115.duckdns.org^
 ||fhcasino.com^
 ||fhcddd.tjc.co.uk^
+||fhcwqszcicdn.com^
 ||fhdaskmpae.duckdns.org^
 ||fhdclgbdcofxt.com^
 ||fhdd8431.com^
@@ -223638,6 +223753,7 @@
 ||finnmohass.duckdns.org^
 ||finnno.d3.sc.omtrdc.net^
 ||finnocgrates.cfd^
+||finnocnewsmenscotomy.cfd^
 ||finnsonj.duckdns.org^
 ||finnweithoff.duckdns.org^
 ||finnyblants.duckdns.org^
@@ -224110,6 +224226,7 @@
 ||fishhoo.com^
 ||fishinfrenzy-casino-slot.uk^
 ||fishinfrenzycasinoslot.uk^
+||fishing-tools.cyou^
 ||fishing-xfish.shop^
 ||fishing.bucketbro.com.au^
 ||fishing.daigostudio.com^
@@ -226241,6 +226358,7 @@
 ||fluidatter.cyou^
 ||fluidbagfulwag.com^
 ||fluidd.hom3-27.duckdns.org^
+||fluidmetrics.com^
 ||fluidsurveys-com.fs.cm^
 ||fluidsurveys.com^
 ||fluierului.duckdns.org^
@@ -226615,6 +226733,7 @@
 ||fmqidg.letras.com^
 ||fmqidg.letras.mus.br^
 ||fmqidg.ouvirmusica.com.br^
+||fmqjkokcr.com^
 ||fmqppppgvltit.site^
 ||fmr.co1.qualtrics.com^
 ||fmr21.net.mydays.de^
@@ -227739,6 +227858,7 @@
 ||formarshtompchan.com^
 ||format.prod.cloud.ogury.io^
 ||formatch.co.jp^
+||formatdemonry.cyou^
 ||formatf.ru^
 ||formatinfo.top^
 ||formationcrucialwildest.com^
@@ -228328,6 +228448,7 @@
 ||fourthbrow.com^
 ||fourthcheesy.com^
 ||fourthchoseark.com^
+||fourthdistributeexpecting.com^
 ||fourthgate.org^
 ||fourthgearmedia.go2cloud.org^
 ||fourthinvestigation.com^
@@ -228731,6 +228852,7 @@
 ||fplmezqrwl.duckdns.org^
 ||fploturania.qpon^
 ||fpluhtibx.com^
+||fplxwidbwpfd.com^
 ||fpmarkets.com^
 ||fpmef.com^
 ||fpmlkyxazjqzo.website^
@@ -229727,6 +229849,7 @@
 ||fracture46.com^
 ||fracturebroadcastsaw.com^
 ||fracturerisks.com^
+||fracturetriangledisillusion.com^
 ||fradeletto.duckdns.org^
 ||fraelaputback.com^
 ||fraemenacer.cyou^
@@ -231801,6 +231924,7 @@
 ||frxohovv.com^
 ||fryawlauk.com^
 ||fryboldlymalice.com^
+||frybtku.info^
 ||frycabin.duckdns.org^
 ||fryeguy.duckdns.org^
 ||fryeiqqukcv.com^
@@ -231901,6 +232025,7 @@
 ||fsfibjccvgkki.site^
 ||fsfrz.xyz^
 ||fsfsfsfsfsf.112.207.net^
+||fsfwbmbtufxny.website^
 ||fsg1303.duckdns.org^
 ||fsgbxncgsv.duckdns.org^
 ||fsgenxwzaz.duckdns.org^
@@ -232035,6 +232160,7 @@
 ||fsu.qualtrics.com^
 ||fsu1cg19c.com^
 ||fsuakestle.duckdns.org^
+||fsubjnihjf.com^
 ||fsugco.rcn.nl^
 ||fsuhjykihmqpt.bid^
 ||fsumsvkjfp.duckdns.org^
@@ -232070,6 +232196,7 @@
 ||fsz1.francoisesaget.be^
 ||fsz1.francoisesaget.com^
 ||fsz1.franziskasager.de^
+||fszelmalzhjn.com^
 ||fszjk.sterlingwhite.com^
 ||fszvo.kidsfootlocker.com^
 ||fszvwvbgae.duckdns.org^
@@ -232336,6 +232463,7 @@
 ||ftqmv.midtownumbrellas.com^
 ||ftqn9wedv.com^
 ||ftqnttckompj.com^
+||ftqoceevwykvm.website^
 ||ftqsz.frankiesbikinis.com^
 ||ftqvvhfgmugmq.site^
 ||ftr2.external.xerox.com^
@@ -232963,6 +233091,7 @@
 ||funnygames.nl^
 ||funnygreetings.com^
 ||funnyjellyfin.duckdns.org^
+||funnymap.net^
 ||funnymap.org^
 ||funnymonke.duckdns.org^
 ||funnymp4.net^
@@ -232973,6 +233102,7 @@
 ||funnysack.com^
 ||funnyslender.com^
 ||funnyvot.com^
+||funoriskimo.cfd^
 ||funoverbored.com^
 ||funoverflow.com^
 ||funpageexchange.com^
@@ -233569,6 +233699,7 @@
 ||fwdzmpigpu.duckdns.org^
 ||fwebc.duckdns.org^
 ||fwefafajrjaz.com^
+||fwefezrvztxch.website^
 ||fwenfotroadh.bid^
 ||fwetxfvxsjtw.com^
 ||fweugitdfj.duckdns.org^
@@ -234131,6 +234262,7 @@
 ||fzulwyoxzqwry.online^
 ||fzuyv60b-android.mobile-sdk-api.intercom.io^
 ||fzvcvguzxfxkv.online^
+||fzvmcqhg.com^
 ||fzvqmzsidkjgx.space^
 ||fzvydcgqazrr.com^
 ||fzvzgaezwsrzm.store^
@@ -234567,6 +234699,7 @@
 ||g66.casino^
 ||g66ryy88z.com^
 ||g679.t27ozz9gomomctb4t9wo28ib.cyou^
+||g6f0w30cze.com^
 ||g6hmotel6.112.2o7.net^
 ||g6ird1tez2.com^
 ||g6j.cupidonmedia.com^
@@ -235449,6 +235582,7 @@
 ||gamblen.duckdns.org^
 ||gamblenet.duckdns.org^
 ||gamblerhersall.cfd^
+||gamblerigmod.org^
 ||gamblerush.com^
 ||gamblespot.ru^
 ||gambleup.com^
@@ -235571,6 +235705,7 @@
 ||gamefuse.go2cloud.org^
 ||gamegadget.jp^
 ||gamegamb.com^
+||gamegene.net^
 ||gameguardexe.duckdns.org^
 ||gameharbor.duckdns.org^
 ||gamehazarat.bet^
@@ -237481,6 +237616,7 @@
 ||gearfocus.bond^
 ||geargrope.com^
 ||gearlux.duckdns.org^
+||gearmantacts.com^
 ||gearnews.info^
 ||gears.evergage.com^
 ||gearservice.duckdns.org^
@@ -237755,6 +237891,7 @@
 ||gemlikevarios.com^
 ||gemlithium.com^
 ||gemlocomotivemid.com^
+||gemlogin.space^
 ||gemmulesaponul.qpon^
 ||gemoney.112.2o7.net^
 ||gemoneysinsbicard2.112.2o7.net^
@@ -237967,7 +238104,6 @@
 ||genosstamnoi.com^
 ||genotba.online^
 ||genova.gas-up.it^
-||genovaw.com^
 ||genovesetacet.com^
 ||genqrabot.com^
 ||genr8r.duckdns.org^
@@ -239154,6 +239290,7 @@
 ||getnodejs.com^
 ||getnotix.co^
 ||getnow.duckdns.org^
+||getnubloom.com^
 ||getoffers.onitymortgage.com^
 ||getoffersdirect.go2cloud.org^
 ||getopta.com^
@@ -240247,6 +240384,7 @@
 ||ghwkuv.lagirl.co.kr^
 ||ghwtb.shakawear.com^
 ||ghwvib.azenco.es^
+||ghwxxskwdggzk.site^
 ||ghxadv.com^
 ||ghxjliswdiiax.space^
 ||ghxvylxnexmbc.website^
@@ -240423,6 +240561,7 @@
 ||gidyeamotivesnavar.qpon^
 ||gie0izinx.com^
 ||giebler.duckdns.org^
+||giedcastled.com^
 ||giedovn.com^
 ||giegi.duckdns.org^
 ||giel1.duckdns.org^
@@ -240870,6 +241009,7 @@
 ||girlsnewx240.duckdns.org^
 ||girlsofvs.com^
 ||girlstalks.ru^
+||girlsteam.click^
 ||girlsthecontacttheconnect.com^
 ||girlstofap.ga^
 ||girltogether.com^
@@ -244965,6 +245105,7 @@
 ||glenarden.duckdns.org^
 ||glenbrookha.duckdns.org^
 ||glendora.duckdns.org^
+||glenealmondsrebrown.cyou^
 ||glenevolapie.com^
 ||glengalaxnurly.qpon^
 ||glenm.mtxcapital.com^
@@ -245389,6 +245530,7 @@
 ||gloftertoo.net^
 ||glogger.inspcloud.com^
 ||gloghauzolso.xyz^
+||gloghjnvcozxf.site^
 ||glogianotw.duckdns.org^
 ||glogoowo.net^
 ||glojune.biz^
@@ -245436,6 +245578,7 @@
 ||gloraxtentrade.de^
 ||glordd.com^
 ||gloriaagrarianstatement.com^
+||gloriafacsim.cyou^
 ||gloriafreeway.com^
 ||gloriagraceful.com^
 ||glorialoring.com^
@@ -245629,6 +245772,7 @@
 ||gluszca.duckdns.org^
 ||glutenfreeroads.com^
 ||glutenmuttsensuous.com^
+||glutinslt.qpon^
 ||glutoes.com^
 ||gluttoneloisedeaf.com^
 ||gluttonjudgement.com^
@@ -245664,6 +245808,7 @@
 ||glycobalance.shop^
 ||glycolcederspersons.cfd^
 ||glycolsfairerchinois.cfd^
+||glyhxdciiagqw.com^
 ||glyicpeke.com^
 ||glykvwol.bid^
 ||glymanicale.com^
@@ -245807,6 +245952,7 @@
 ||gmivenjzunzgr.com^
 ||gmjbr.sudhirshivaramphotography.com^
 ||gmjcfnbtbr.duckdns.org^
+||gmjcundzvrvpj.site^
 ||gmjhwyby.com^
 ||gmjzmwcxhonly.rocks^
 ||gmkbgpjflkxvm.space^
@@ -245998,6 +246144,7 @@
 ||gnbqtkiscp.duckdns.org^
 ||gnc.adlegend.com^
 ||gnc.ugc.bazaarvoice.com^
+||gnc2yxt6kbnqrugwn56u64uklbt5itb9l.rest^
 ||gnccmainnpkwy.site^
 ||gncesebtgiyeoot.net^
 ||gncfttutoiwwq.com^
@@ -247739,6 +247886,7 @@
 ||gofck9dksjxvs3akbdtm02c7pac0p1516627918.nuid.imrworldwide.com^
 ||gofem.oewabox.at^
 ||gofenews.com^
+||goferyouthy.cfd^
 ||goffdm.duckdns.org^
 ||goffrfoio.store^
 ||gofgfsvnfnfw.com^
@@ -249566,6 +249714,7 @@
 ||gqqv4.voluumtrk.com^
 ||gqqxemwnca.duckdns.org^
 ||gqqxum.mannys.com.au^
+||gqqynxixjotce.site^
 ||gqraqz.e-domizil.de^
 ||gqrr.qualtrics.com^
 ||gqrsxfwxvx.com^
@@ -250127,6 +250276,7 @@
 ||granddaughterfashioned.com^
 ||granddaughterfeminist.com^
 ||granddaughterrepresentationintroduce.com^
+||grande-luna.top^
 ||grande.actonservice.com^
 ||grandeaglecasino.com^
 ||grandeinverno.duckdns.org^
@@ -250679,6 +250829,7 @@
 ||greenbrook.duckdns.org^
 ||greenbtc.com^
 ||greencharge.actonservice.com^
+||greencheckverified.com^
 ||greencloudtrail.com^
 ||greencoffee5k.pl^
 ||greencolumnhealth.com^
@@ -261714,6 +261865,7 @@
 ||gziedzbliamx.com^
 ||gzinspfqjb.duckdns.org^
 ||gzip.vk.com^
+||gzipswoqvberh.site^
 ||gzitt.com^
 ||gzjnc.kewlioo.com^
 ||gzjndc.fumiiro.jp^
@@ -263221,6 +263373,7 @@
 ||habitantvillage.com^
 ||habitasip.cl^
 ||habitattexture.com^
+||habitoutsifteikons.cyou^
 ||habitualhumor.com^
 ||habituekosimo.cfd^
 ||habjv1probono.duckdns.org^
@@ -263710,7 +263863,6 @@
 ||haihoi.duckdns.org^
 ||haihome.ada.support^
 ||haii.duckdns.org^
-||haiiiihello.top^
 ||haiio.eshopygo.hr^
 ||haiis.duckdns.org^
 ||haijingzhijia.com^
@@ -265118,6 +265270,7 @@
 ||hashcoins.com^
 ||hashcoins.ee^
 ||hashcoins.ru^
+||hashedsolver.icu^
 ||hashflare.eu^
 ||hashflare.io^
 ||hashforcash.us^
@@ -266406,6 +266559,7 @@
 ||havocha.duckdns.org^
 ||havocprinter.therange.duckdns.org^
 ||havocraggedhumble.com^
+||havpcbrpaftjv.online^
 ||havpnpont.duckdns.org^
 ||havran.duckdns.org^
 ||havrcpico.duckdns.org^
@@ -266854,7 +267008,6 @@
 ||hbvnnwtoonhh.com^
 ||hbvprpnisn.duckdns.org^
 ||hbvsbsqdnmvlj.site^
-||hbweb.icu^
 ||hbwgqhtfsu.duckdns.org^
 ||hbwhlmqfip.duckdns.org^
 ||hbwmqljrlf.duckdns.org^
@@ -267305,6 +267458,7 @@
 ||hdubwghypz.com^
 ||hduddu-bkp22joinom.duckdns.org^
 ||hduefoyd.com^
+||hdumhtmdw.com^
 ||hduolaveybzmo.site^
 ||hdupdoms.duckdns.org^
 ||hdutnxbtxj.duckdns.org^
@@ -268320,6 +268474,7 @@
 ||helltraffic.com^
 ||hellwegde.widget.criteo.com^
 ||hellwig.duckdns.org^
+||hellysolanosterebra.cyou^
 ||hellywood.ru^
 ||helmethomicidal.com^
 ||helmfoundry.duckdns.org^
@@ -268927,6 +269082,7 @@
 ||hetadinh.com^
 ||hetahien.com^
 ||hetaint.com^
+||hetairysaugers.com^
 ||hetapus.com^
 ||hetariwg.com^
 ||hetartwg.com^
@@ -269271,6 +269427,7 @@
 ||hfusiuuqknbwy.site^
 ||hfutftjbpt.duckdns.org^
 ||hfvkn.dalstrong.com^
+||hfvnfhhixpnjd.online^
 ||hfvura.noriel.ro^
 ||hfwdujsrul.duckdns.org^
 ||hfwkdnclwtrsy.space^
@@ -270297,6 +270454,7 @@
 ||hipjbr.size-factory.com^
 ||hipkqt.contorion.de^
 ||hiplair.com^
+||hiplinecasuary.cfd^
 ||hipma.jp^
 ||hipmunk.7eer.net^
 ||hipmunk.adlegend.com^
@@ -271036,6 +271194,7 @@
 ||hkcmd.hspdiesel.com^
 ||hkcqpidtxaqkl.online^
 ||hkcreusidccff.online^
+||hkcyhatsb.com^
 ||hkdbitexchange.com^
 ||hkdetarfch.duckdns.org^
 ||hkdgfjinjc.duckdns.org^
@@ -275132,6 +275291,7 @@
 ||howoldareyou.duckdns.org^
 ||howonline.com^
 ||howoverlapsuspicious.com^
+||howphooey.com^
 ||howse171.duckdns.org^
 ||howsehouse.duckdns.org^
 ||howsliferightnow.com^
@@ -275258,7 +275418,6 @@
 ||hpf360.org^
 ||hpfc.adsame.com^
 ||hpfchmjsfkhjt.site^
-||hpfile.cyou^
 ||hpfiv.cordsclub.com^
 ||hpfkvr.icu^
 ||hpflxxdwnbvpda.com^
@@ -275526,6 +275685,7 @@
 ||hqpornpro.com^
 ||hqpubs.com^
 ||hqpuoxdtbqpdygf.com^
+||hqpzmkswnhwzj.space^
 ||hqq.tv^
 ||hqq.watch^
 ||hqqsnz.mirtesen.ru^
@@ -276399,6 +276559,7 @@
 ||htstyrpfhmdhp.site^
 ||htswgmwhfp.duckdns.org^
 ||htswu.com^
+||htsyesqrcfwvl.online^
 ||htsysltuujfjcb.com^
 ||htt.adx1.com^
 ||htt.jmp9.com^
@@ -277043,6 +277204,7 @@
 ||humblestress.com^
 ||humbletour.com^
 ||humbugsmillite.com^
+||humcrim.cfd^
 ||humcyddkxxm.bid^
 ||humdrumhat.com^
 ||humdrumhobbies.com^
@@ -277731,6 +277893,7 @@
 ||hwarnersmagens.com^
 ||hwassist.duckdns.org^
 ||hwazubczmg.duckdns.org^
+||hwbfbaefllojr.online^
 ||hwbjer.jjunheating.com^
 ||hwbjkd.skygate.co.jp^
 ||hwbuiclwsl.duckdns.org^
@@ -278139,6 +278302,7 @@
 ||hyejdibvvc.duckdns.org^
 ||hyejjudxlv.duckdns.org^
 ||hyelpcfnqb.duckdns.org^
+||hyemeayunbfwv.site^
 ||hyemhass.duckdns.org^
 ||hyena.baseline.is^
 ||hyena.cz^
@@ -280923,6 +281087,7 @@
 ||identicalprofile.com^
 ||identico.duckdns.org^
 ||identidad.gui11o.duckdns.org^
+||identifcation.com^
 ||identification.hotmart.com^
 ||identificationcardinalsteeple.com^
 ||identified.cn^
@@ -282037,6 +282202,7 @@
 ||ih99.mta.exacttarget.com^
 ||iha.duckdns.org^
 ||ihaau.growthbomb.com^
+||ihafoekmnevmx.com^
 ||ihamxbsvcx.duckdns.org^
 ||ihannxwjhs.duckdns.org^
 ||iharbeck-dev.duckdns.org^
@@ -285909,7 +286075,6 @@
 ||impl.us.onscroll.com^
 ||implacableapproximatereseptivereseptive.com^
 ||implacablejuicedraft.com^
-||implantdentistrytx.com^
 ||implantlongesttrey.com^
 ||implantsycophant.duckdns.org^
 ||implarededeensino.com.br^
@@ -286210,6 +286375,7 @@
 ||imtdtaloqwcz.com^
 ||imtjwmfprb.duckdns.org^
 ||imtlgpiidy.duckdns.org^
+||imtoken.xin^
 ||imtokex.im^
 ||imtolenplex.com^
 ||imtouken.com^
@@ -289932,6 +290098,7 @@
 ||install-antivirus.com^
 ||install-cetus-terms-documentation.icu^
 ||install-check.com^
+||install-grays-documents.icu^
 ||install.365-stream.com^
 ||install.cryptoverto.com^
 ||install.ddns.info^
@@ -292517,6 +292684,7 @@
 ||iqvjv.dillards.com^
 ||iqvkrcryrn.duckdns.org^
 ||iqvylbpusx.duckdns.org^
+||iqwbeaiqcflzf.space^
 ||iqwbqjnst.bid^
 ||iqwczlbxvtcnh.com^
 ||iqwhwomdmjg.bid^
@@ -293352,6 +293520,7 @@
 ||iso100.ru^
 ||isoa.adition.com^
 ||isoamidtrusion.com^
+||isoamylhagbuts.com^
 ||isobaarchb.store^
 ||isobar.adform.net^
 ||isobaresoffit.com^
@@ -295080,6 +295249,7 @@
 ||iyogiblog.com^
 ||iyogishop.com^
 ||iyogo.shop^
+||iypjlalrerrki.online^
 ||iyptjnfxop.duckdns.org^
 ||iypxxhjdiwggg.website^
 ||iypyxxtkgl.duckdns.org^
@@ -295273,6 +295443,7 @@
 ||izsbrnugzqrqq.online^
 ||izsgyrfkxylpc.site^
 ||izsmetrics.wyndhamrewards.com^
+||izssqgarxgznp.online^
 ||iztleyodels.shop^
 ||iztniq.motionrc.eu^
 ||iztsbnkxphnj.com^
@@ -295579,6 +295750,7 @@
 ||j95s.vip^
 ||j95t.vip^
 ||j95u.vip^
+||j98bl7jrcx5pz6rxv.cfd^
 ||j99g.vip^
 ||j99i.vip^
 ||j99m.vip^
@@ -295625,6 +295797,7 @@
 ||jaba85.duckdns.org^
 ||jababot.duckdns.org^
 ||jabaluu.com^
+||jabamluepvebg.space^
 ||jabapalace.duckdns.org^
 ||jabatsoftware.com^
 ||jabbashut.duckdns.org^
@@ -295867,6 +296040,7 @@
 ||jackhuny-home.duckdns.org^
 ||jackhuny.duckdns.org^
 ||jackie771231.duckdns.org^
+||jackieantapex.cfd^
 ||jackjones.com^
 ||jackknifemonuments.com^
 ||jackmaiopenhab.duckdns.org^
@@ -298684,6 +298858,7 @@
 ||jeux-casinos-enligne.com^
 ||jeux-de-casino-en-ligne.com^
 ||jeux-gratuits-fr.casino^
+||jeuxfeu.qpon^
 ||jev-agent.com^
 ||jev-agent.org^
 ||jev-ai.pro^
@@ -298941,6 +299116,7 @@
 ||jfqmzptnba.duckdns.org^
 ||jfqqhxkvihmxlmu.com^
 ||jfqqvtevayyfm.online^
+||jfqzv4v3zyv4lp15e4kr7oezhik1by2zpz2.cfd^
 ||jfqzwsczsf.com^
 ||jfraction.al^
 ||jfranco.duckdns.org^
@@ -299263,6 +299439,7 @@
 ||jhferfxehe.duckdns.org^
 ||jhfjslomqzfte.site^
 ||jhflxewimngug.space^
+||jhfsswu.info^
 ||jhfuhi.b-exit.com^
 ||jhfxpxfabq.duckdns.org^
 ||jhg.duckdns.org^
@@ -300680,6 +300857,7 @@
 ||jmxvgovfve.duckdns.org^
 ||jmyabhtwve.duckdns.org^
 ||jmyaishsvi.duckdns.org^
+||jmyhvgbjwjl.com^
 ||jmyohctapa.in^
 ||jmyokxpco.com^
 ||jmyqsl.com^
@@ -300718,6 +300896,7 @@
 ||jnbrents206.duckdns.org^
 ||jnbsolpudq.duckdns.org^
 ||jnbthha.duckdns.org^
+||jnbtmnrktzdrt.space^
 ||jnc20230625tu.vip^
 ||jncakkyvic.duckdns.org^
 ||jnchbwtzbrrf.com^
@@ -302198,7 +302377,6 @@
 ||joint-swim.pro^
 ||joint-task.pro^
 ||jointag.com^
-||jointaxel.online^
 ||jointcommission.qualtrics.com^
 ||jointgenesisk.com^
 ||jointgroup18.duckdns.org^
@@ -302277,6 +302455,7 @@
 ||jokefilmy.cyou^
 ||jokeinvestigationfairly.com^
 ||jokelaoks.net^
+||jokely.icu^
 ||jokep.com^
 ||joker-casino.app^
 ||joker-casino.us^
@@ -303579,6 +303758,7 @@
 ||jrrea.eddiebauer.ca^
 ||jrreich.duckdns.org^
 ||jrrekpskc.com^
+||jrrjmarketing.com^
 ||jrrmwjybfaztct.com^
 ||jrrvlclkhprsr.website^
 ||jrrxfhtrvr.duckdns.org^
@@ -304200,6 +304380,7 @@
 ||jsonp.moatads.com^
 ||jsons.pk^
 ||jsontdsexit.com^
+||jsonzllsmehxy.space^
 ||jsotpyjprlcaz.website^
 ||jsousa.duckdns.org^
 ||jsp-arn.duckdns.org^
@@ -304308,6 +304489,7 @@
 ||jsznmhuidf.duckdns.org^
 ||jszoynwxxb.duckdns.org^
 ||jszpagyvknvhv.website^
+||jsztngyfycmtm.website^
 ||jszwcvutrlpcr.site^
 ||jszwxm.hometogo.nl^
 ||jt.cablishreprice.com^
@@ -304992,6 +305174,7 @@
 ||junkeemedia.demdex.net^
 ||junkie2402.duckdns.org^
 ||junkiebeepconfusion.com^
+||junkierbatz.com^
 ||junkieswudge.com^
 ||junkilleismdrie.cyou^
 ||junkingchous.top^
@@ -305401,6 +305584,7 @@
 ||jvelpo.duckdns.org^
 ||jvepcgbq.bid^
 ||jvesd.voluumtrk.com^
+||jvf-online.de^
 ||jvffngzl.com^
 ||jvfhfc.coutureusa.com^
 ||jvfosi.shopversona.com^
@@ -305447,6 +305631,7 @@
 ||jvmzmmmlyy.duckdns.org^
 ||jvnlg.doamore.com^
 ||jvnrihkwiw.duckdns.org^
+||jvntctypey.com^
 ||jvnubhidaev.bid^
 ||jvnupypiff.duckdns.org^
 ||jvnvhnkrag.duckdns.org^
@@ -305828,6 +306013,7 @@
 ||jxmofulihtbzr.space^
 ||jxmqdgdsrp.duckdns.org^
 ||jxmrwqmydz.duckdns.org^
+||jxmynt47oitjt3.rest^
 ||jxnbwgea.bid^
 ||jxncmj.com^
 ||jxngrgkmca.duckdns.org^
@@ -305856,6 +306042,7 @@
 ||jxryswulqobyu.space^
 ||jxs80khu8p.net.mydays.de^
 ||jxseoruuv.com^
+||jxsfzssdivqbx.online^
 ||jxsixnzrm.bid^
 ||jxsjb.pursuefitness.com^
 ||jxsmzz.mytrauringstore.de^
@@ -306923,6 +307110,7 @@
 ||kallwqgnec.com^
 ||kalmarek.duckdns.org^
 ||kalmeptqvg.duckdns.org^
+||kalmirven.cfd^
 ||kalmloda.com^
 ||kalmykia.su^
 ||kalo.onvid.xyz^
@@ -306982,6 +307170,7 @@
 ||kameradrohne.duckdns.org^
 ||kamery.bartkowiak.darekdom.duckdns.org^
 ||kamery.e-elektryk.duckdns.org^
+||kamesxref.cfd^
 ||kamhaugveien.duckdns.org^
 ||kamiasamable.cyou^
 ||kamienhome.duckdns.org^
@@ -307706,6 +307895,7 @@
 ||kazantsevalexander.duckdns.org^
 ||kazanwhoeveryowl.com^
 ||kazargermany.com^
+||kazdiyden.ru^
 ||kazen.duckdns.org^
 ||kazeuk.duckdns.org^
 ||kazi.bodybuilding.com.bd^
@@ -309880,6 +310070,7 @@
 ||kictechdatahub.duckdns.org^
 ||kid-control.com^
 ||kidahause.duckdns.org^
+||kidangoctapla.com^
 ||kidd-01.duckdns.org^
 ||kiddbs.baby-calendar.jp^
 ||kiddinglyeven.com^
@@ -309939,6 +310130,7 @@
 ||kiehls-us.ugc.bazaarvoice.com^
 ||kiehlscanada-en-ca.ugc.bazaarvoice.com^
 ||kiejztfpkfayak.com^
+||kiekiequizzes.cyou^
 ||kielce.bedlava.pl^
 ||kieleckamasa.pl^
 ||kielich89.duckdns.org^
@@ -310025,6 +310217,7 @@
 ||kijuytreadsxzo.duckdns.org^
 ||kijzchvtqbbiocb.cloudflare-dns.com^
 ||kik.glympse.com^
+||kikaiverse.com^
 ||kikaloterij.nl^
 ||kikamoo.duckdns.org^
 ||kikarsundown.com^
@@ -313278,6 +313471,7 @@
 ||kpngnpgabh.duckdns.org^
 ||kpnizvqvqs.duckdns.org^
 ||kpnqp847j4.ru^
+||kpnriildwkfxt.online^
 ||kpns.ijinshan.com^
 ||kpnuqvpevotn.com^
 ||kpnvsjbpwhtmj.online^
@@ -313399,6 +313593,7 @@
 ||kqelllvivl.duckdns.org^
 ||kqemajjoxqps.com^
 ||kqenjugdpr.duckdns.org^
+||kqeqjrckhdke.com^
 ||kqesuetg.com^
 ||kqewfeqeao.duckdns.org^
 ||kqfkauld.trulyengaging.com^
@@ -313728,6 +313923,7 @@
 ||krgoad.mauboussin.fr^
 ||krgtzpxzhw.duckdns.org^
 ||krgxtloi.bid^
+||krgznxgbwfyms.site^
 ||krh0assistant.duckdns.org^
 ||krhhavgvwc.duckdns.org^
 ||krhi1dc7m.com^
@@ -314001,7 +314197,10 @@
 ||krypton-client.net^
 ||krypton3024.duckdns.org^
 ||kryptonblue.duckdns.org^
+||kryptonclient-cracked.com^
 ||kryptonclient-donutsmp.com^
+||kryptonclient.lol^
+||kryptonclient.vip^
 ||kryptoniumapp.com^
 ||kryptono.exchange^
 ||kryptoportal.pl^
@@ -316875,6 +317074,7 @@
 ||lalien.duckdns.org^
 ||laliki.duckdns.org^
 ||lalilulelo.khama.es^
+||lalitae.com^
 ||lalka.onthe.io^
 ||lallkopf.duckdns.org^
 ||lallsattabal.qpon^
@@ -319498,6 +319698,7 @@
 ||leaptnonstop.com^
 ||leaptoffender.com^
 ||leaptrade.com^
+||learcorp.biz^
 ||learla.com^
 ||learn-on-the-go.org^
 ||learn-zyggvuts-android-1-5-lb.mobile-sdk-api.intercom.io^
@@ -319620,6 +319821,7 @@
 ||leavingaileen.com^
 ||leavingextract.com^
 ||leavingneedyengaged.com^
+||leaygtdaemler.online^
 ||leazimong.duckdns.org^
 ||leb-app.diasporaid.com^
 ||lebara-mobile.pxf.io^
@@ -320621,6 +320823,7 @@
 ||leszurlus.com^
 ||leszvphhnytpk.com^
 ||leszy.duckdns.org^
+||let.cl^
 ||let.lansumelena.com^
 ||let1.devialet.com^
 ||letabli-platform.com^
@@ -320915,6 +321118,7 @@
 ||lexors.duckdns.org^
 ||lexozfldkklgvc.com^
 ||lexpertdesoffres.fr^
+||lexrqreuosm.com^
 ||lexs9.com^
 ||lexu.goggendorf.at^
 ||lexusfinancial.com.102.112.2o7.net^
@@ -321567,6 +321771,7 @@
 ||li.ziffimages.com^
 ||li1432-193.members.linode.com^
 ||li2meh6eni3tis.com^
+||li319c4uyu7o6jkwj.rest^
 ||li3k4d70ig52.resourceya.com^
 ||li546-199.members.linode.com^
 ||liability48.top^
@@ -321794,6 +321999,7 @@
 ||liching.duckdns.org^
 ||lichkain.duckdns.org^
 ||lichtamberg2.duckdns.org^
+||lichtedleatmen.cyou^
 ||lichtpass.com^
 ||lichtsswiggle.cyou^
 ||lichyela.ru^
@@ -322091,6 +322297,7 @@
 ||lifemobile.d1.sc.omtrdc.net^
 ||lifemoodmichelle.com^
 ||lifenoonkid.com^
+||lifentumbaki.com^
 ||lifeofpie.fr^
 ||lifeonholidays.com^
 ||lifepi.duckdns.org^
@@ -322322,6 +322529,7 @@
 ||lihulcngvj.duckdns.org^
 ||liiiduzrnn.duckdns.org^
 ||liijacenkubom.site^
+||liikepalvelu.com^
 ||liikxhzzebfwd.space^
 ||liilsuive.bid^
 ||liinkvirallhot2022.duckdns.org^
@@ -322362,6 +322570,7 @@
 ||likecash.online^
 ||likecontrol.com^
 ||likedgreetedrape.com^
+||likedrink.beer^
 ||likedstring.com^
 ||likekopi.com^
 ||likelbs.dinoyy.xyz^
@@ -324454,6 +324663,7 @@
 ||litaimpoang.net^
 ||litaudrootsa.net^
 ||litavi2020.duckdns.org^
+||litavvcc.in^
 ||litaxrowjmaq.com^
 ||litchfieldhouse.duckdns.org^
 ||litchfieldmedia.org^
@@ -332523,6 +332733,7 @@
 ||logagent-wf.centurygame.com^
 ||logaholic.com^
 ||logajk-netdata.duckdns.org^
+||loganalytics.io^
 ||loganjelly.duckdns.org^
 ||loganlooneyresume.com^
 ||loganmedia.mobi^
@@ -333052,6 +333263,7 @@
 ||logitexx.duckdns.org^
 ||logitrave.fr^
 ||logix.qualtrics.com^
+||logjamsbegalls.cfd^
 ||logkamijah.duckdns.org^
 ||logkm.dantocmiennui.vn^
 ||logkzudhrg.com^
@@ -333758,6 +333970,7 @@
 ||lookblock.pages.dev^
 ||lookbookhq.demandbase.com^
 ||lookctv-vn.com^
+||lookdanio.cyou^
 ||lookebonyhill.com^
 ||looker.bounceexchange.com^
 ||looker.brightroll.com^
@@ -333900,6 +334113,7 @@
 ||loowalnutappellation.com^
 ||loowhujoom.net^
 ||loox.io^
+||looxloqaeigjk.space^
 ||loozerflix.duckdns.org^
 ||loozz.lyfd2xzauti9d8p.bapb.gdn^
 ||lop.com^
@@ -333996,6 +334210,7 @@
 ||lordping.de^
 ||lordrvl.duckdns.org^
 ||lordsushiphoenix.duckdns.org^
+||lordtakosis.qpon^
 ||lordtroublessounding.com^
 ||lordziploc.duckdns.org^
 ||lore.circulate.com^
@@ -335203,6 +335418,7 @@
 ||lptest.email-mobiledx.cjm.adobe.com^
 ||lpteste.capturadamente.com^
 ||lptggobhuuxcdw.com^
+||lptinpbpkmbfw.space^
 ||lptknandqa.duckdns.org^
 ||lptrack.co^
 ||lptracker.net.ru^
@@ -336615,6 +336831,7 @@
 ||luminate.com^
 ||luminati.io^
 ||lumineuxinvexustrade.com^
+||luminexclient.com^
 ||luminexclient.net^
 ||luminosityvco.duckdns.org^
 ||luminosoocchio.com^
@@ -336944,6 +337161,7 @@
 ||luxadv.com^
 ||luxatenowness.com^
 ||luxavonuk.com^
+||luxazure.luxe^
 ||luxbarba.duckdns.org^
 ||luxbetaffiliates.com.au^
 ||luxcash.ru^
@@ -337385,6 +337603,7 @@
 ||lxa6d.voluumtrk.com^
 ||lxadqdidnsnzd.online^
 ||lxagxbfzhn.duckdns.org^
+||lxaifftgnd.com^
 ||lxayafcq.com^
 ||lxb-gamelive.test1.mobilem.360.cn^
 ||lxb-speeddownload.test1.mobilem.360.cn^
@@ -345094,6 +345313,7 @@
 ||majserw.duckdns.org^
 ||majuha.duckdns.org^
 ||makaan.duckdns.org^
+||makaaop.cc^
 ||makabuike.duckdns.org^
 ||makailife.duckdns.org^
 ||makaimurax.duckdns.org^
@@ -345670,6 +345890,7 @@
 ||mandalay.duckdns.org^
 ||mandanelutes.cfd^
 ||mandant.net.anwalt.de^
+||mandarinfranchise.com^
 ||mandartoilerummies.cyou^
 ||mandarv.com^
 ||mandate-infoivate.duckdns.org^
@@ -349213,6 +349434,7 @@
 ||marsmadmi.duckdns.org^
 ||marsnextdoor.com^
 ||marsoffset.goforandroid.com^
+||marsoonexalterauresca.qpon^
 ||marspearelct.com^
 ||marspetcare-na.ada.support^
 ||marspetcare-uk.ada.support^
@@ -349569,7 +349791,6 @@
 ||masseybusiness.asia.qualtrics.com^
 ||massgenradiology.qualtrics.com^
 ||massgrav.zapto.org^
-||massgravel.dev^
 ||massgravel.net^
 ||massilia.duckdns.org^
 ||massilindacasa.duckdns.org^
@@ -350501,6 +350722,7 @@
 ||maventm.com^
 ||maverick.adk2.co^
 ||maverick1122.duckdns.org^
+||maverick174.org^
 ||maverick757.duckdns.org^
 ||maverick917602.duckdns.org^
 ||maverickinter.shop^
@@ -350750,6 +350972,7 @@
 ||maxxdepo.duckdns.org^
 ||maxximo70.duckdns.org^
 ||maxxisproduct.com^
+||maxxlavalink.cyou^
 ||maxxrtb.com^
 ||maxxx76.duckdns.org^
 ||maxxxit.duckdns.org^
@@ -350795,6 +351018,7 @@
 ||mayhem.duckdns.org^
 ||mayhemabjure.com^
 ||mayhemmarginsold.com^
+||mayhemscheaplydl.qpon^
 ||mayhemsfloras.cyou^
 ||mayhemsrewind.com^
 ||mayhew.duckdns.org^
@@ -352827,6 +353051,7 @@
 ||mecadoseguro.duckdns.org^
 ||mecajental.duckdns.org^
 ||mecanet.duckdns.org^
+||mecano-spa.info^
 ||mecanografia.duckdns.org^
 ||mecap.duckdns.org^
 ||mecaparris.store^
@@ -355711,6 +355936,7 @@
 ||meteon.org^
 ||meteoprat.antrivas.duckdns.org^
 ||meteorclashbailey.com^
+||meteorclientplus.com^
 ||meteorclients.com^
 ||meteorrejects.net^
 ||meteorsolutions.com^
@@ -361548,6 +361774,7 @@
 ||mirishkeeps.com^
 ||miriyals.duckdns.org^
 ||mirjenshin.mirtesen.ru^
+||mirkaloth.cfd^
 ||mirkersolach.cfd^
 ||mirketto.duckdns.org^
 ||mirkishtidieregality.qpon^
@@ -361922,6 +362149,7 @@
 ||mitra-chipgratis.duckdns.org^
 ||mitradecar.store^
 ||mitradominno.duckdns.org^
+||mitrakerjanasional.com^
 ||mitraksh.offerstrack.net^
 ||mitrarank.ir^
 ||mitrasupplierkita.com^
@@ -362931,6 +363159,7 @@
 ||mlsys.xyz^
 ||mlsyuvxhhmvd.com^
 ||mltdiyzprltqk.website^
+||mltmppeiqbeaw.site^
 ||mltop.net^
 ||mltrapzhhfoir.space^
 ||mltrck.com^
@@ -364289,6 +364518,7 @@
 ||mocks.concert.io^
 ||mocluvrxsluqj.space^
 ||mocmubse.net^
+||mocoapp.com^
 ||mocoendball.top^
 ||mocoplex.com^
 ||mocoviprg.duckdns.org^
@@ -364835,6 +365065,7 @@
 ||momentussoftware.com^
 ||momijoy.ru^
 ||momismmiragyguaymie.cfd^
+||mommegap.com^
 ||mommiesgranule.com^
 ||mommyarson.com^
 ||mommybag.pl^
@@ -365209,6 +365440,7 @@
 ||moneyinthebank.duckdns.org^
 ||moneylion.ada.support^
 ||moneyloan-vn.com^
+||moneylord.org^
 ||moneymade.io^
 ||moneymadiele.duckdns.org^
 ||moneymaiker.ru^
@@ -369516,6 +369748,8 @@
 ||mto.cgv.vn^
 ||mto.mediatakeout.com^
 ||mtoct.duckdns.org^
+||mtoken-cdn-hk.lol^
+||mtoken-cdn-sg-im.lol^
 ||mtoken-im.co^
 ||mtoken-im.cv^
 ||mtoken.download^
@@ -369862,6 +370096,7 @@
 ||muehlenstrasse7.duckdns.org^
 ||muejigjejszbp.online^
 ||muelas.duckdns.org^
+||mueleer.com^
 ||muelekapitaje.com^
 ||muellecapitaje.digital^
 ||mueller-cloud.duckdns.org^
@@ -370162,9 +370397,11 @@
 ||mundt.duckdns.org^
 ||mundus.duckdns.org^
 ||munero.me^
+||mungeyjobo.cyou^
 ||mungfali.com^
 ||mungo-bot.duckdns.org^
 ||mungoprowess.com^
+||muniadazzled.qpon^
 ||municalcurit.xyz^
 ||munically.com^
 ||munichvlad.duckdns.org^
@@ -370285,6 +370522,7 @@
 ||muris60.duckdns.org^
 ||murjz.consumerexaminer.com^
 ||murkcubelet.cyou^
+||murkiereloisehighlow.cyou^
 ||murkiervigasmurzim.cyou^
 ||murkilyergots.com^
 ||murkkumesta.duckdns.org^
@@ -370330,6 +370568,7 @@
 ||musclesaskewfeeding.com^
 ||musclywastesizz.cfd^
 ||muscogee.iad1.qualtrics.com^
+||musconeslimmed.qpon^
 ||muscri72tia.duckdns.org^
 ||musculaation.fr^
 ||musculahq.appspot.com^
@@ -370484,6 +370723,7 @@
 ||musikgrohome.duckdns.org^
 ||musiki.duckdns.org^
 ||musikzoo.com^
+||musilylithol.com^
 ||musing-golick.xolpi.duckdns.org^
 ||musing-hodgkin.silmoon.duckdns.org^
 ||musique.bilange.duckdns.org^
@@ -370788,6 +371028,7 @@
 ||mvmbs.com^
 ||mvmlv.maidenform.com^
 ||mvmmigtkznbga.site^
+||mvmrcygtoadgz.online^
 ||mvmt.7eer.net^
 ||mvmt.evyy.net^
 ||mvmtj.splashblanket.com^
@@ -371734,6 +371975,7 @@
 ||myalgicknelt.com^
 ||myalisa.duckdns.org^
 ||myallegrosellers.com^
+||myallegroshop.cc^
 ||myallegrostore.com^
 ||myallegrostore.top^
 ||myallegrostores.com^
@@ -373202,6 +373444,7 @@
 ||mzorzy.duckdns.org^
 ||mzozybinmkvz.com^
 ||mzpn.duckdns.org^
+||mzprtajs.com^
 ||mzpsfiywbkijp.online^
 ||mzpxdokymq.duckdns.org^
 ||mzqnq.ouraring.com^
@@ -373424,6 +373667,7 @@
 ||n19.biz^
 ||n1a2.duckdns.org^
 ||n1betiran.com^
+||n1betscasino.com^
 ||n1casino.com^
 ||n1casino.gr^
 ||n1casino.info^
@@ -374220,6 +374464,7 @@
 ||namking.duckdns.org^
 ||namle.duckdns.org^
 ||namlnudwyvqg.com^
+||nammoprick.cyou^
 ||namnam.duckdns.org^
 ||namnothp.com^
 ||namo-e-tab.govt-yojna.com^
@@ -375654,6 +375899,7 @@
 ||nbiajkowro.duckdns.org^
 ||nbiav.hoka.com^
 ||nbimg.dt00.net^
+||nbimwbucpnerw.online^
 ||nbipgstgbw.duckdns.org^
 ||nbitr.truenutrition.com^
 ||nbizzi.store.ferrari.com^
@@ -375676,6 +375922,7 @@
 ||nblczw.com^
 ||nblglkg1.2b94vykm41cxve31k.cfd^
 ||nblhx.tartecosmetics.com^
+||nblyjutwvlwbq.online^
 ||nblzxrivcl.duckdns.org^
 ||nbmffortfyyg.com^
 ||nbmfpcyvmf.duckdns.org^
@@ -375755,6 +376002,7 @@
 ||nbwtfwutof.duckdns.org^
 ||nbwthihrxu.duckdns.org^
 ||nbwuzguhlm.duckdns.org^
+||nbxcaagcstlrf.site^
 ||nbxcijnlqfrbd.website^
 ||nbxfvfeanq.com^
 ||nbxpuziszhqz.com^
@@ -376342,7 +376590,6 @@
 ||ndias.duckdns.org^
 ||ndicptuzmmnkbs.com^
 ||ndifzhemlnlop.space^
-||ndigitals.in^
 ||ndikvccwz.com^
 ||ndilzwjgblea.com^
 ||ndingcouncer.xyz^
@@ -376555,7 +376802,6 @@
 ||nebuha.duckdns.org^
 ||nebuhome.duckdns.org^
 ||nebula-cdn.kampyle.com^
-||nebula-client.org^
 ||nebula.adtilt.com^
 ||nebula.donnezvotrevoiture.org^
 ||nebula.org^
@@ -378718,6 +378964,7 @@
 ||news-news.co^
 ||news-notification.tools^
 ||news-now.net^
+||news-priest-love.com^
 ||news-server17-yahoo.com^
 ||news-speaker.com^
 ||news-sphere.com^
@@ -380406,6 +380653,7 @@
 ||nfjhvqumoo.duckdns.org^
 ||nfjqgexfjogexvbilgitypxuorwwi1504895770.nuid.imrworldwide.com^
 ||nfjwykabvrbxf.site^
+||nfkaflntqmpjb.online^
 ||nfkq8jy5db0b.com^
 ||nfksjkfs.com^
 ||nfkxplkiid.com^
@@ -381228,6 +381476,7 @@
 ||nhprovidersurvey.qualtrics.com^
 ||nhpvewzpfl.duckdns.org^
 ||nhpvz.voluumtrk.com^
+||nhpwttjhvnpnm.online^
 ||nhqff.dolcevita.com^
 ||nhqkbl.semilac.pl^
 ||nhqkijpqeguuh.store^
@@ -381341,6 +381590,7 @@
 ||niblikecatnapsprexy.cyou^
 ||niblikegirder.qpon^
 ||nibras-academy.org^
+||nibtjisgthdwt.online^
 ||nibuduanut.polldaddy.com^
 ||nibwllsood.duckdns.org^
 ||nibzitgas.com^
@@ -381992,6 +382242,7 @@
 ||ninetyfitful.com^
 ||ninetyninedesigns.7eer.net^
 ||ninetyninesec.com^
+||ninetyorigins.com^
 ||ninetypastime.com^
 ||ninewestpolska.pl^
 ||ningler.duckdns.org^
@@ -382301,6 +382552,7 @@
 ||nization.com^
 ||nizationsuch.com^
 ||nizino.duckdns.org^
+||nizjbxcunbuew.site^
 ||niznix.duckdns.org^
 ||nizoral.ugc.bazaarvoice.com^
 ||nizoyuup.duckdns.org^
@@ -382341,6 +382593,7 @@
 ||njcasino.com^
 ||njcchu.flowercampings.com^
 ||njcdmsgjbbbz.com^
+||njcdqeagtnmri.online^
 ||njcgtyxmkrkqv.space^
 ||njcgxydbhmckv.site^
 ||njchkt.com^
@@ -382603,6 +382856,7 @@
 ||nktgs.drlivingood.com^
 ||nktmuyapmeohz.online^
 ||nktrzh.lastminute.ch^
+||nktxbdxovhnck.online^
 ||nku.co1.qualtrics.com^
 ||nku.qualtrics.com^
 ||nku.us2.qualtrics.com^
@@ -384253,6 +384507,7 @@
 ||nordivoliving.com^
 ||nordkapitbach.de^
 ||nordkvarn.net^
+||nordmann-automobilgruppe.de^
 ||nordrein.duckdns.org^
 ||nordsia.duckdns.org^
 ||nordslot.com^
@@ -384498,6 +384753,7 @@
 ||nostalgicknot.com^
 ||nostalgicneed.com^
 ||nostalgieeu.adswizz.com^
+||nostictataric.qpon^
 ||nosto.com^
 ||nostracasinha.duckdns.org^
 ||nostrada.duckdns.org^
@@ -384895,6 +385151,7 @@
 ||nova-0a5a.fr^
 ||nova-assets.xyz^
 ||nova-casino.com^
+||nova-client.com^
 ||nova-collector-1192479543.us-east-1.elb.amazonaws.com^
 ||nova-ebill.xyz^
 ||nova-healthcare.actonservice.com^
@@ -384953,12 +385210,14 @@
 ||novafinanza.com^
 ||novafintrade.com^
 ||novafluxdump.top^
+||novafy.buzz^
 ||novahassio.duckdns.org^
 ||novahomeha.duckdns.org^
 ||novaireluxent.com^
 ||novak.warwoodtool.com^
 ||novakona.duckdns.org^
 ||novalead.xyz^
+||novalvith.cfd^
 ||novamachina.duckdns.org^
 ||novamedicpro-ss.checkoutera.com^
 ||novamia.biz^
@@ -385708,6 +385967,7 @@
 ||nqs-wdc3.youboranqs01.com^
 ||nqs.nice264.com^
 ||nqsdpq.funiturs.com^
+||nqsigwczuloob.online^
 ||nqsizzyicehpm.one^
 ||nqslmtuswqdz.com^
 ||nqsm.medicus.ca^
@@ -387453,6 +387713,7 @@
 ||nustonetransformations.net^
 ||nustwin.com^
 ||nusxvpootryrz.site^
+||nusyutufsagie.site^
 ||nutabuse.com^
 ||nutanix.co1.qualtrics.com^
 ||nutanixprod.112.2o7.net^
@@ -387565,6 +387826,7 @@
 ||nuwlgkoejgirn.online^
 ||nuwnvjcqknklq.space^
 ||nuwoxw.incanto.eu^
+||nuwsufagfxt.in^
 ||nux.duckdns.org^
 ||nuxad.com^
 ||nuxaunjucpepp.website^
@@ -388092,6 +388354,7 @@
 ||nxovay.fo-online.jp^
 ||nxpavglful.duckdns.org^
 ||nxppdpumqf.com^
+||nxpprfnnslenvj.com^
 ||nxprqibx.seesubiaco.com.au^
 ||nxpuap.job-con.jp^
 ||nxpuhvbers.duckdns.org^
@@ -388154,6 +388417,7 @@
 ||nxxoxununzefm.website^
 ||nxxpgruglnfha.online^
 ||nxxskvtomx.duckdns.org^
+||nxxttxnynqsfh.online^
 ||nxxxpmyejmudz.space^
 ||nxxxxxtrrbatuu.duckdns.org^
 ||nxxzvffayt.duckdns.org^
@@ -390245,6 +390509,7 @@
 ||oceaneering.qualtrics.com^
 ||oceanfall.xyz^
 ||oceango.net^
+||oceanic-node.su^
 ||oceanicarealestate.cl^
 ||oceanicdreamcove.com^
 ||oceanidembain.com^
@@ -390616,6 +390881,7 @@
 ||ocy.casino^
 ||ocybtztforth.review^
 ||ocydwjnqasrn.com^
+||ocyfxqogp816muf.rest^
 ||ocygds.vk.com^
 ||ocyhiome.com^
 ||ocyhpouojiss.com^
@@ -390777,6 +391043,7 @@
 ||odisee.qualtrics.com^
 ||odistatic.net^
 ||odivoquhbh.duckdns.org^
+||odj3j8dsff.com^
 ||odjamjmbuz.duckdns.org^
 ||odjdpy.jobware.de^
 ||odjeavqkfy.duckdns.org^
@@ -391183,6 +391450,7 @@
 ||ofdoyluowkolk.website^
 ||ofdybheqahjamq.bid^
 ||ofdyiwmopr.duckdns.org^
+||ofe90392.pics^
 ||ofeetles.pro^
 ||ofekcuorbbcpvyv.xyz^
 ||ofelekidr.com^
@@ -391335,6 +391603,7 @@
 ||oferta867972.cfd^
 ||oferta878861.click^
 ||oferta893720.click^
+||oferta90162322.icu^
 ||oferta902342.shop^
 ||oferta9102366.icu^
 ||oferta91762562x.cfd^
@@ -392407,6 +392676,7 @@
 ||ohulpioiel.duckdns.org^
 ||ohuyajozzd.duckdns.org^
 ||ohv1tie2.com^
+||ohvgbradcgcby.online^
 ||ohvtrokyq.com^
 ||ohvvvmxtyzvix.online^
 ||ohvwsqtteh.duckdns.org^
@@ -396146,6 +396416,7 @@
 ||onlydns.duckdns.org^
 ||onlyevent.shop^
 ||onlyfactories.duckdns.org^
+||onlyfiles.com^
 ||onlyfor.help^
 ||onlyforyou.app^
 ||onlyforyougiirl.com^
@@ -396436,6 +396707,7 @@
 ||oo.waw.pl^
 ||oo00.biz^
 ||oo000oo.me^
+||oo365756.com^
 ||ooafsb.hourraheros.fr^
 ||ooaihyyrvflmz.com^
 ||ooaio.voluumtrk.com^
@@ -396698,6 +396970,7 @@
 ||ooyhetoodapmrjvffzpmjdqubnpevefsofghrfsvixxcbwtmrj.com^
 ||ooyrvktsxj.com^
 ||oozgka.immoscout24.ch^
+||oozkgskdzgdde.site^
 ||oozngsbnluicy.website^
 ||oozo.nl^
 ||oozrsmpieq.com^
@@ -397674,6 +397947,7 @@
 ||optimalcelebration.pro^
 ||optimalfusion.com^
 ||optimalhouse.pro^
+||optimalinfos.com^
 ||optimallimit.com^
 ||optimalq.com^
 ||optimalroi.info^
@@ -399871,6 +400145,7 @@
 ||otkgnoumbctec.store^
 ||otkhyc.bueromarkt-ag.de^
 ||otkpegjvpyi.com^
+||otkrytkadnya.ru^
 ||otktaqruco.duckdns.org^
 ||otkyfxmassifs.review^
 ||otl.minefun.io^
@@ -400460,6 +400735,7 @@
 ||outletszone.org^
 ||outlibrary-covirick.qualtrics.com^
 ||outlibrary.us.qualtrics.com^
+||outliercrocker.qpon^
 ||outliesscabine.shop^
 ||outline.j16-hassio.duckdns.org^
 ||outline.maxrh2.duckdns.org^
@@ -400648,6 +400924,7 @@
 ||ouwszkswhujxz.online^
 ||ouxbqcndwoyze.site^
 ||ouxhfxaazj.duckdns.org^
+||ouyagvtnjlovv.com^
 ||ouypkagtcs.duckdns.org^
 ||ouytveod.com^
 ||ouzalruksengung.com^
@@ -400767,6 +401044,7 @@
 ||overely.com^
 ||overestimatejerseyrefrigerator.com^
 ||overexertremedyriches.com^
+||overfatcabildo.cyou^
 ||overfewcigua.shop^
 ||overflow.adsoftware.com^
 ||overflow33.com^
@@ -400833,6 +401111,7 @@
 ||overridevertical.com^
 ||overroastiklcrpyn.download^
 ||oversailor.com^
+||oversawlikingactuary.qpon^
 ||overseanipper.cfd^
 ||overseas.jccjd.com^
 ||overseastellsotherwise.com^
@@ -401615,6 +401894,7 @@
 ||oxcwhquhdu.duckdns.org^
 ||oxdejn.lavprisel.dk^
 ||oxdemo-d.openx.net^
+||oxdoopbmrwcbj.site^
 ||oxducycsdzrlm.site^
 ||oxeatowels.shop^
 ||oxeey.voluumtrk.com^
@@ -402113,12 +402393,14 @@
 ||ozuu.hedgy-heckenpflanzen.de^
 ||ozuvdfqzkqxho.store^
 ||ozvdo.execupgrades.com^
+||ozvjtzoklvzhp.site^
 ||ozvlyz.justmusic.de^
 ||ozvmsmvmbxlfg.site^
 ||ozvncdlo.com^
 ||ozvri.goldilocksgoods.com^
 ||ozvvmicixrh.com^
 ||ozvxadosic.com^
+||ozvxkyqzaski.in^
 ||ozvzmgvssaou.com^
 ||ozw.grendal.duckdns.org^
 ||ozwbcqxxjg.duckdns.org^
@@ -402555,6 +402837,7 @@
 ||p071qmn.com^
 ||p0b2hqyz.xyz^
 ||p0cket1ove.jp^
+||p0h1nfzc2.com^
 ||p0la5.duckdns.org^
 ||p0lscc2lk.duckdns.org^
 ||p0o9i.gaypornhd.com^
@@ -406935,6 +407218,7 @@
 ||paypal-service-ihx6ylu1cmr.duckdns.org^
 ||paypal-sign-in.duckdns.org^
 ||paypal-support1.duckdns.org^
+||paypal-transactions.sbs^
 ||paypal-verifyauthenticate.duckdns.org^
 ||paypal.112.2o7.net^
 ||paypal.adtag.where.com^
@@ -407769,7 +408053,6 @@
 ||pdflive.org^
 ||pdflive.store^
 ||pdfmergefiles.com^
-||pdfmun.software^
 ||pdfolnydwrxyp.com^
 ||pdfparmy.duckdns.org^
 ||pdfsam.com^
@@ -409670,6 +409953,7 @@
 ||pevhouse.duckdns.org^
 ||pevnex.net^
 ||pevqdzwyiqkj.com^
+||pevrix.com^
 ||pevrksshtngcg.site^
 ||pevxxyfyhsvlh.global^
 ||pewagecraichyoversup.cfd^
@@ -409883,6 +410167,7 @@
 ||pfmnohaonz.duckdns.org^
 ||pfmoriuywsl.com^
 ||pfmram.slamjam.com^
+||pfmruyacigawjl.com^
 ||pfmweubrxo.duckdns.org^
 ||pfnhfolulf.duckdns.org^
 ||pfnorz.duckdns.org^
@@ -411392,6 +411677,7 @@
 ||pi-ofeta0231.sbs^
 ||pi-ofeta0286.sbs^
 ||pi-ofeta05312.sbs^
+||pi-ofeta201737.shop^
 ||pi-ofeta7281.sbs^
 ||pi-ofeta7393926.cyou^
 ||pi-ofeta77492926.cyou^
@@ -411454,6 +411740,7 @@
 ||pi733zmw617.cyou^
 ||pi81.shop^
 ||pi823az13q.cyou^
+||pi85185812.lat^
 ||pi9196122.puserving.com^
 ||pia-vpn.info^
 ||pia.propxusa.com^
@@ -413871,6 +414158,7 @@
 ||pizzaexpress.openapp.link^
 ||pizzahass.duckdns.org^
 ||pizzahut.ojrq.net^
+||pizzahutsurvey.com^
 ||pizzaiolo.crsantos.duckdns.org^
 ||pizzale.com^
 ||pizzamoon.duckdns.org^
@@ -417811,6 +418099,7 @@
 ||po.zolivexo.ru^
 ||po1.duckdns.org^
 ||po3x411qe3.com^
+||po77bu3.skin^
 ||poaannerqq.duckdns.org^
 ||poacawhe.net^
 ||poachostistour.net^
@@ -420605,6 +420894,7 @@
 ||poucooptee.net^
 ||poudouvre.duckdns.org^
 ||poudreschools.hosting.exacttarget.com^
+||poudretsodomy.com^
 ||poudrinnamaste.com^
 ||poudzohome.duckdns.org^
 ||pouffedrobinet.com^
@@ -421015,6 +421305,7 @@
 ||ppkufuc5vg.com^
 ||ppl-acces-survey.com^
 ||ppl-logacces.com^
+||ppl-survey-admin.com^
 ||pplante.duckdns.org^
 ||pplbxpfowm.duckdns.org^
 ||ppleood.com^
@@ -422243,6 +422534,7 @@
 ||prestdaimon.com^
 ||prestegaard.duckdns.org^
 ||prestige-client.live^
+||prestige-client.org^
 ||prestige-immo.net^
 ||prestige-plus.duckdns.org^
 ||prestige.vk.com^
@@ -424232,6 +424524,7 @@
 ||promo-market.net^
 ||promo-netflix4k.duckdns.org^
 ||promo-reklama.ru^
+||promo-sbb.com^
 ||promo.acquinityinteractive.com^
 ||promo.ads.softbank.net^
 ||promo.adtelligent.com^
@@ -425668,7 +425961,9 @@
 ||prysm.randyklein.duckdns.org^
 ||prytheeaxonia.com^
 ||prytheevalhall.cyou^
+||prywanm40099.skin^
 ||prywata-oferra912818.shop^
+||prywatne7239.shop^
 ||prywatnosc.interia.pl^
 ||pryzmads.com^
 ||przasnyska.duckdns.org^
@@ -426044,6 +426339,7 @@
 ||pspladvertising.com^
 ||pspnqmbfvd.com^
 ||pspqlm.rndsystems.com^
+||pspzqbzejhcme.site^
 ||psqmlkjfqosyeon.com^
 ||psqnvvhohipcm.site^
 ||psqsjg.coach.com^
@@ -427155,6 +427451,7 @@
 ||publish.vidavee.com^
 ||publish.web.id^
 ||publish4.com^
+||publishcreaseddieters.cfd^
 ||publishdomesticstarve.com^
 ||publishednundear.com^
 ||publisher-assets-cf.spot.im^
@@ -429182,6 +429479,7 @@
 ||pwxlqg.com^
 ||pwxnufxcwbbev.space^
 ||pwxqwkbxhn.duckdns.org^
+||pwyamrbild.in^
 ||pwyapnvhi.com^
 ||pwyk.duckdns.org^
 ||pwylgezdbt.duckdns.org^
@@ -430885,6 +431183,7 @@
 ||qd.teetingimmis.top^
 ||qd.virtuednemesis.com^
 ||qd.x4399.com^
+||qd32n9lpq.com^
 ||qd38xgoin9.com^
 ||qd3u5eeuos.com^
 ||qdaeoaotoy.duckdns.org^
@@ -431114,6 +431413,7 @@
 ||qemvorylaitrade.com^
 ||qenafbvgmoci.com^
 ||qenb2pxx.xyz^
+||qendravik.cfd^
 ||qeney5t3-android.mobile-sdk-api.intercom.io^
 ||qenklbb.com^
 ||qenprsuoashu.com^
@@ -431724,6 +432024,7 @@
 ||qilqmdtikegk.com^
 ||qilutfdbut.duckdns.org^
 ||qilwa.com^
+||qim0lvk6m.com^
 ||qimagnauebhcq.online^
 ||qimaoylwfm.duckdns.org^
 ||qimcl7t1-android.mobile-sdk-api.intercom.io^
@@ -432187,6 +432488,7 @@
 ||qlmmy.duckdns.org^
 ||qlmqzznfcb.com^
 ||qlmygsvk.com^
+||qlnniuyoptqpt.online^
 ||qlnomb.com^
 ||qlnrnmze.com^
 ||qlnspclitv.duckdns.org^
@@ -432300,6 +432602,7 @@
 ||qmeqraen.com^
 ||qmeqyhajrw.duckdns.org^
 ||qmerce.com^
+||qmfbaownxlecs.space^
 ||qmfdurlewpnvz.online^
 ||qmfhrpyeth.duckdns.org^
 ||qmflxjdf.com^
@@ -433018,6 +433321,7 @@
 ||qqwbkn.rostocker-jobanzeiger.de^
 ||qqwnrphmqkxvn.site^
 ||qqwqtxiuht.duckdns.org^
+||qqwskdoqpexnp.online^
 ||qqwtweifhc.duckdns.org^
 ||qqwtwpdvhoq.com^
 ||qqwveqwevqwe.duckdns.org^
@@ -433056,6 +433360,7 @@
 ||qr00rq.com^
 ||qr08uw9e.xyz^
 ||qr168079.fx.sj.360.cn^
+||qr2.it^
 ||qr2.lpd.duckdns.org^
 ||qr346894.fx.sj.360.cn^
 ||qr425276.fx.sj.360.cn^
@@ -434240,6 +434545,7 @@
 ||queuer.sandbox53.localytics.com^
 ||queuernonjury.com^
 ||queuev4.vk.com^
+||queuingmudsill.com^
 ||queujzffuwaog.site^
 ||queurow.pro^
 ||quexotac.com^
@@ -434396,6 +434702,7 @@
 ||quietroot.org^
 ||quietst0rm.duckdns.org^
 ||quietstonewalk.com^
+||quietsurfwi.help^
 ||quietwindpath.com^
 ||quietyellowday.com^
 ||quiggles.duckdns.org^
@@ -435038,6 +435345,7 @@
 ||qwyzzghouu.com^
 ||qwzbcukveymrc.online^
 ||qwzhaqtbiygid.com^
+||qwzievvmpahlc.space^
 ||qwzjdxzzmn.duckdns.org^
 ||qwzly.com^
 ||qwzmje9w.com^
@@ -435192,6 +435500,7 @@
 ||qyfppkmowd.duckdns.org^
 ||qyftfmbvpb.duckdns.org^
 ||qyfunsvmtudozq.com^
+||qygftliqdmhsu.space^
 ||qyghwcrjaw.bid^
 ||qygpcxfqqvfhr.online^
 ||qygrsttasxanr.com^
@@ -436883,6 +437192,7 @@
 ||rajdidaj.duckdns.org^
 ||rajdysamochodowe.pl^
 ||rajeevan.duckdns.org^
+||rajeevrapido.cfd^
 ||rajeezwhksdfl.site^
 ||rajesh.onthe.io^
 ||rajeshrajan.evergage.com^
@@ -436930,6 +437240,7 @@
 ||raku-point-lozxian.com^
 ||rakugaki.duckdns.org^
 ||rakuhome.duckdns.org^
+||rakunten-shop.com^
 ||rakuprop.net^
 ||rakuten.112.2o7.net^
 ||rakuten.actonservice.com^
@@ -438011,6 +438322,7 @@
 ||rb-nb.com^
 ||rb-net.com^
 ||rb-on1in-sec.com^
+||rb-rot.xyz^
 ||rb-rr.com^
 ||rb-sk.com^
 ||rb-sk.org^
@@ -438413,6 +438725,7 @@
 ||rchl.duckdns.org^
 ||rchmxtlpst.duckdns.org^
 ||rchnjyrju.net^
+||rchpvrmdcvbsn.site^
 ||rchqtr.icu^
 ||rchy-home.duckdns.org^
 ||rci.btttag.com^
@@ -438803,6 +439116,7 @@
 ||rdsa2012.com^
 ||rdsb2.club^
 ||rdsb21.club^
+||rdscikovpclch.site^
 ||rdsgb.petplate.com^
 ||rdsh.z2316.duckdns.org^
 ||rdsk.duckdns.org^
@@ -439389,6 +439703,7 @@
 ||rebukeemotion.com^
 ||rebukeirresistiblesubstitute.com^
 ||rebukemusclesshark.com^
+||rebulkvacuistfennish.cfd^
 ||rebursteaseful.com^
 ||rebusytoment.com^
 ||rebutvarment.com^
@@ -442824,6 +443139,7 @@
 ||resizer.mantisadnetwork.com^
 ||reskins.fr^
 ||reslatescrim.qpon^
+||resmeltbegash.cyou^
 ||resmi-event-garena.duckdns.org^
 ||resmi.event-tersembunyi-0168.duckdns.org^
 ||resmieventffqq1.duckdns.org^
@@ -443310,6 +443626,7 @@
 ||retaliatespiritual.com^
 ||retanbagnios.qpon^
 ||retapedamidase.com^
+||retapedarrozcarolin.cyou^
 ||retaraga.ru^
 ||retarala.ru^
 ||retarddisposedespot.com^
@@ -445875,6 +446192,7 @@
 ||rjriaawxynuek.website^
 ||rjrjdk.info^
 ||rjrosati.duckdns.org^
+||rjrsinc.com^
 ||rjsayvndhakyn.online^
 ||rjschof.duckdns.org^
 ||rjscloud.duckdns.org^
@@ -445899,6 +446217,7 @@
 ||rjug.hotchedmothe.club^
 ||rjuhasta.com^
 ||rjuhxs.com^
+||rjuskpbpvyarm.site^
 ||rjuvxsyvyg.duckdns.org^
 ||rjvbeek.duckdns.org^
 ||rjvdb.duckdns.org^
@@ -446714,6 +447033,7 @@
 ||ro1adro.hit.gemius.pl^
 ||ro1ro.adocean.pl^
 ||ro2.biz^
+||ro328h89.skin^
 ||ro3sf.com^
 ||ro80lwxh-android.mobile-sdk-api.intercom.io^
 ||ro88qcuy.com^
@@ -446799,6 +447119,7 @@
 ||robander85.duckdns.org^
 ||robarlett.com^
 ||robbdowtndoib.website^
+||robberdarers.cfd^
 ||robberrelative.com^
 ||robberyfilcheurope.com^
 ||robbgsdqup.duckdns.org^
@@ -447835,7 +448156,6 @@
 ||ropsinde.com^
 ||ropsumemu.com^
 ||ropternotrian.xyz^
-||roptik.com^
 ||ropvea.surthrival.com^
 ||ropx.xyz^
 ||roq.ad^
@@ -448085,6 +448405,7 @@
 ||rotterdamsdagblad.nl^
 ||rotterm.g2afse.com^
 ||rotthass.duckdns.org^
+||rottleatomerg.qpon^
 ||rottolojazeran.cfd^
 ||rotudar.duckdns.org^
 ||rotumal.com^
@@ -448395,6 +448716,7 @@
 ||roveearnesttablets.com^
 ||rovelrpphyrua.download^
 ||rovememoirs.com^
+||rovemoong.qpon^
 ||rovenalixpro-official.com^
 ||rovendik.com^
 ||rovenskyward.com^
@@ -451265,6 +451587,8 @@
 ||rtxtkgzxnhxzb.store^
 ||rtxunghyiwiq.com^
 ||rtxwkgaoguqix.site^
+||rtxyikufim.com^
+||rtynctfs.com^
 ||rtypxhlfvmez.com^
 ||rtyufo.com^
 ||rtyvaluation.shop^
@@ -455912,6 +456236,7 @@
 ||sace.aaa.com^
 ||sacedoamte.net^
 ||sacegryri.com^
+||sacellatripelmilked.cyou^
 ||sacgdwaiie.duckdns.org^
 ||sacher.duckdns.org^
 ||sachetscrane.qpon^
@@ -457553,7 +457878,6 @@
 ||sandhowl.com^
 ||sandi74.duckdns.org^
 ||sandiacasino.com^
-||sandiegomobiletire.com^
 ||sandiegoparatodos.duckdns.org^
 ||sandinsect.com^
 ||sandipines.duckdns.org^
@@ -460409,7 +460733,6 @@
 ||sctaylor.com^
 ||sctclick2.com^
 ||sctfqwnxvz.duckdns.org^
-||sctivated.win^
 ||sctnodb.top^
 ||scuau.qualtrics.com^
 ||scuba.bornofwater.com^
@@ -460420,6 +460743,7 @@
 ||scubaseverely.com^
 ||scubie.duckdns.org^
 ||scuckduw.com^
+||scucptxepxtre.site^
 ||scudbreh.duckdns.org^
 ||scuddlenudnik.com^
 ||scuderiailbobolino.it^
@@ -465365,6 +465689,7 @@
 ||serge-kasm.duckdns.org^
 ||sergehome.duckdns.org^
 ||sergeigalin.duckdns.org^
+||sergeisd.cfd^
 ||sergey-mavrodi-mmm.net^
 ||sergey-mavrodi.com^
 ||sergeyc.duckdns.org^
@@ -465477,6 +465802,7 @@
 ||serpromedic.com^
 ||serpyou.com^
 ||serradepazha.duckdns.org^
+||serraifraises.cfd^
 ||serraiot-agrinet-22.duckdns.org^
 ||serraisawah.cfd^
 ||serrano.hardwareheaven.com^
@@ -474814,6 +475140,7 @@
 ||shikarscythera.shop^
 ||shikarshexace.com^
 ||shikflinyaj.com^
+||shikkentutulus.qpon^
 ||shikroux.net^
 ||shiksalogions.cfd^
 ||shilashaus.duckdns.org^
@@ -476287,6 +476614,7 @@
 ||shp.zionhealth.com^
 ||shpee.eco^
 ||shpex-garage-doors.com^
+||shpgceahdtjsh.site^
 ||shpilevoy.duckdns.org^
 ||shpirt.duckdns.org^
 ||shpokandgroch.duckdns.org^
@@ -476628,6 +476956,7 @@
 ||sibleystatebank.com.102.112.2o7.net^
 ||siblinggut.com^
 ||siblpnvryviqz.website^
+||sibrdiarmuvav.site^
 ||sibrdmvnu.com^
 ||sibro.duckdns.org^
 ||sibsoft.net^
@@ -476675,6 +477004,7 @@
 ||sickgear.dellubuntu.duckdns.org^
 ||sicklefinding.com^
 ||sickleper.duckdns.org^
+||sicklerparidae.cfd^
 ||sickleryamuns.com^
 ||sickmakes.com^
 ||sicknessbingo.com^
@@ -476776,6 +477106,7 @@
 ||siegele.duckdns.org^
 ||siegepolitical.com^
 ||siegert-sto.duckdns.org^
+||siegeslucken.com^
 ||siegfried2p.duckdns.org^
 ||sielsmaats.com^
 ||sieltek.duckdns.org^
@@ -477001,6 +477332,7 @@
 ||sigma97.rtb.appier.net^
 ||sigma99.rtb.appier.net^
 ||sigmaad.com^
+||sigmaclient.net^
 ||sigmaclient.org^
 ||sigmagalcha.top^
 ||sigmob.cn^
@@ -477061,7 +477393,6 @@
 ||signaturebankingbyunited.com^
 ||signaturebannerads.com^
 ||signaturelaidcaravan.com^
-||signaturenib.rest^
 ||signaturepod.com^
 ||signaturesoho.com^
 ||signaturewoundedgraduation.com^
@@ -477484,6 +477815,7 @@
 ||simkoo.duckdns.org^
 ||simkowski.duckdns.org^
 ||simlaf.duckdns.org^
+||simlingproudly.com^
 ||simmer505.duckdns.org^
 ||simmeringsuitableunwoven.com^
 ||simmoncoxing.cyou^
@@ -477653,6 +477985,7 @@
 ||simpleboulevardelement.com^
 ||simplebrutedigestive.com^
 ||simplebutnoteasy.duckdns.org^
+||simplecheck.online^
 ||simplecloud-hs.duckdns.org^
 ||simplecloud-uk.duckdns.org^
 ||simpleco.in^
@@ -478088,6 +478421,7 @@
 ||sirablivefbxul.bid^
 ||siradsalot.com^
 ||sirakawa.duckdns.org^
+||siran21877h9.beer^
 ||sirano.duckdns.org^
 ||sirberg.duckdns.org^
 ||sirc.duckdns.org^
@@ -479807,6 +480141,7 @@
 ||skybingo.com^
 ||skybingo.io^
 ||skyblock-addons.com^
+||skyblock-extras.org^
 ||skyblueboutique.com^
 ||skybluetimes.co.uk^
 ||skybrain.duckdns.org^
@@ -480578,6 +480913,7 @@
 ||sljffoydmf.duckdns.org^
 ||sljhc.lorex.ca^
 ||slju9t0y40i.mobifiles.pw^
+||slk.me^
 ||slkaymfkcr.duckdns.org^
 ||slkgswqoet.duckdns.org^
 ||slkuqvkhamt.bid^
@@ -480702,6 +481038,7 @@
 ||slotsmiling.com^
 ||slotsonlinecasino.fr^
 ||slotsroomcasino.org^
+||slotsshine.casino^
 ||slotstemple.com^
 ||slotsuk.casino^
 ||slotswincasino.org^
@@ -480888,6 +481225,7 @@
 ||slytics.vitacost.com^
 ||slywtzllxzvwx.online^
 ||slz99md2o.com^
+||slzcbvcrdpjnz.site^
 ||slzpcjksfrkei.online^
 ||slzppcgzheuristic.review^
 ||slzr2460.duckdns.org^
@@ -486671,6 +487009,7 @@
 ||smrcek.com^
 ||smrireorak.duckdns.org^
 ||smrithic.duckdns.org^
+||smritihewable.com^
 ||smrk.io^
 ||smrkfiles.duckdns.org^
 ||smrktad.site^
@@ -487587,6 +487926,7 @@
 ||snowplowcollector-env-3.us-east-1.elasticbeanstalk.com^
 ||snowplowcollector.talkspace.com^
 ||snowplowjs.darwin.cx^
+||snowproject.lol^
 ||snowsignal.com^
 ||snowteste3.duckdns.org^
 ||snowy.bellroy.com^
@@ -487764,6 +488104,7 @@
 ||soalouve.com^
 ||soamaibeshoap.com^
 ||soamelxvleduv.space^
+||soamuylg.com^
 ||soaneefooy.net^
 ||soaold.adition.com^
 ||soap-wash.com^
@@ -488276,6 +488617,7 @@
 ||softtreebridge.com^
 ||softue.duckdns.org^
 ||software-archiv.com^
+||software-gateway.click^
 ||software-phile.com^
 ||software-techie-top-dev.win^
 ||software-updates.co^
@@ -490611,6 +490953,7 @@
 ||sp8668vn.com^
 ||sp96878.com^
 ||sp9hb5jy81iw.ru^
+||spa-com.com^
 ||spa-login-ui.sandbox53.localytics.com^
 ||spa-orch-ui.sandbox53.localytics.com^
 ||spa-tracker.spapi.io^
@@ -490989,6 +491332,7 @@
 ||speaksthegeek.duckdns.org^
 ||speakswretch.com^
 ||speaktraff.com^
+||spealsahh.qpon^
 ||spearad.com^
 ||spearad.video^
 ||spearmint4334.gb.net^
@@ -491122,6 +491466,7 @@
 ||speculese.com^
 ||specuscossack.cyou^
 ||spedcubicalyanking.cyou^
+||speddebug.com^
 ||speead.jp^
 ||speeb.com^
 ||speechcleopatraadmiral.com^
@@ -491503,6 +491848,7 @@
 ||spiderstudio.duckdns.org^
 ||spidersweb.duckdns.org^
 ||spidervpn.online^
+||spiderycankers.cyou^
 ||spidqq.duckdns.org^
 ||spidtest.org^
 ||spiegel.met.vgwort.de^
@@ -492395,6 +492741,7 @@
 ||spotify.sp.backtrace.io^
 ||spotify.whyvas.duckdns.org^
 ||spotifyforbrands.com^
+||spotifypremiumz.net^
 ||spotifyw.whyvas.duckdns.org^
 ||spotim.market^
 ||spotiplus.xyz^
@@ -493176,6 +493523,7 @@
 ||sqybzpyc-android.mobile-sdk-api.intercom.io^
 ||sqykpwpgqqt.com^
 ||sqyvhynwl.com^
+||sqz.heijnen-planten.nl^
 ||sqzfj.landmarkathletics.com^
 ||sqzjilvesbppo.space^
 ||sqzlenuqok.duckdns.org^
@@ -503530,6 +503878,7 @@
 ||sst.vereinsbedarf-deitert.de^
 ||sst.verf-plaza.nl^
 ||sst.vergani.ch^
+||sst.vergelijk.nl^
 ||sst.verifiedpeptides.com^
 ||sst.verifone.com^
 ||sst.verinagazenligne.fr^
@@ -504669,6 +505018,7 @@
 ||st.prindo.at^
 ||st.prindo.de^
 ||st.pubmatic.com^
+||st.putler.com^
 ||st.q-alshefa.com^
 ||st.rahm.de^
 ||st.rapidium.com.br^
@@ -508963,7 +509313,6 @@
 ||startupweddmswwwwkkop.duckdns.org^
 ||startus-insights.com^
 ||startusdating.com^
-||startvsgame.com^
 ||startwebpromo.com^
 ||startyourjourney.online^
 ||starvalue-4.online^
@@ -514189,6 +514538,7 @@
 ||stopautomatons.com^
 ||stopblockads.com^
 ||stopcast.net^
+||stopcensura.info^
 ||stopcodex.pl^
 ||stopdbumiaml.com^
 ||stope40.org^
@@ -515895,6 +516245,7 @@
 ||su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me^
 ||su7fhfrb-android-3-9-2.mobile-sdk-api.intercom.io^
 ||su9su0hu8dy4u0a2s3e4c8-8eu2hx7fh4jd8ddu.duckdns.org^
+||sua-mly.top^
 ||suabvrryod.duckdns.org^
 ||suacclyasmo.store^
 ||suachuadienmayxanh.com.vn^
@@ -516782,6 +517133,7 @@
 ||sulcadiabu.polldaddy.com^
 ||sulcateeclogue.com^
 ||sulcineuston.top^
+||suldansinclip.cfd^
 ||suleacoenobe.cyou^
 ||suleimanhome.duckdns.org^
 ||sulekpl.duckdns.org^
@@ -517495,6 +517847,7 @@
 ||superset.data.districtm.io^
 ||superset.internal.intercom.io^
 ||supership.jp^
+||supershopf.vip^
 ||supershopping.pro^
 ||supersitetime.com^
 ||supersoi.duckdns.org^
@@ -518024,6 +518377,7 @@
 ||survey-intraxinc-com.surveygizmo.com^
 ||survey-naturallyslim-com.surveygizmo.com^
 ||survey-poll.com^
+||survey-ppl-acces.com^
 ||survey-ppl-log.com^
 ||survey-qhms-com.surveygizmo.com^
 ||survey-rnonkey.com^
@@ -519093,7 +519447,6 @@
 ||swatledgesling.com^
 ||swattedshalier.rest^
 ||swatterreheap.qpon^
-||swatting.wiki^
 ||swaven.com^
 ||swavoo.top^
 ||swaw.cn^
@@ -522558,6 +522911,7 @@
 ||t4.prosaweb.duckdns.org^
 ||t4.trackalyzer.com^
 ||t44000.pubmatic.com^
+||t446g22e99epvz2uz71fuep6qmt.rest^
 ||t460.tlnk.io^
 ||t4e.falconholidays.ie^
 ||t4e.sainsburys.co.uk^
@@ -524294,6 +524648,7 @@
 ||tamfagaqmxc.in^
 ||tamgrt.com^
 ||tamiel.duckdns.org^
+||tamil.bid^
 ||tamilbirma.cfd^
 ||tamilcm.com^
 ||tamilcoursetestlkhykcrgcoivdv-travelers.qualtrics.com^
@@ -526365,6 +526720,7 @@
 ||tcpedpdcfkcgo.rocks^
 ||tcpglvrgiaezc.website^
 ||tcpgrb.ogic.fr^
+||tcplegit.space^
 ||tcplofiymh.duckdns.org^
 ||tcppu.com^
 ||tcpqpwuedappll.com^
@@ -527628,6 +527984,7 @@
 ||tejsjsbs.duckdns.org^
 ||tejxthyxavhfb.site^
 ||tek-tek-trek.com^
+||tek3shnfk.com^
 ||tekadrian.pro^
 ||tekashirat.duckdns.org^
 ||tekauvoo.net^
@@ -527682,7 +528039,6 @@
 ||tele2.actonservice.com^
 ||tele2nl.112.2o7.net^
 ||tele2se.widget.criteo.com^
-||teleabonent.ru^
 ||telealxrxg.icu^
 ||teleamicxx.click^
 ||teleanprox.club^
@@ -528840,6 +529196,7 @@
 ||termopanel43.ru^
 ||termosplen.store^
 ||termoweiss.store^
+||termpeek.com^
 ||terms.reporo.net^
 ||termsfeed.com^
 ||termsiya.duckdns.org^
@@ -530724,6 +531081,7 @@
 ||thawheek.com^
 ||thawnappy.com^
 ||thawnmysoid.shop^
+||thawpeacock.cyou^
 ||thawtspace.duckdns.org^
 ||thayer.qualtrics.com^
 ||thayhiltonlongisland.112.2o7.net^
@@ -532127,6 +532485,7 @@
 ||thgqqbronnxgc.com^
 ||thgrekourrkag.site^
 ||thgubzoqfq.duckdns.org^
+||thgwtjewqogjg.online^
 ||thhdtwyb.tghhouston.co^
 ||thhesw.tre.it^
 ||thhgsjcgqbvgg.site^
@@ -532497,6 +532856,7 @@
 ||thomhomeasst.duckdns.org^
 ||thomized.co^
 ||thompaur.com^
+||thomphon.com^
 ||thompsonmanor.duckdns.org^
 ||thompsonsbayviewmortuary.services^
 ||thomshouse.duckdns.org^
@@ -532773,6 +533133,7 @@
 ||throwcommercial.com^
 ||throwingsevens.co.uk^
 ||throwlikenessfrustration.com^
+||throwormspestles.cyou^
 ||thrpjqlbso.duckdns.org^
 ||thrtamykpggls.space^
 ||thrtle.com^
@@ -532955,6 +533316,7 @@
 ||thwerbakxfysg.space^
 ||thwobb.duckdns.org^
 ||thwragbboh.duckdns.org^
+||thwxzegtztpvi.online^
 ||thxczhfzad.com^
 ||thxdbyracswy.com^
 ||thxiuokvfo.duckdns.org^
@@ -535095,6 +535457,7 @@
 ||tlawndwo.duckdns.org^
 ||tlawson.duckdns.org^
 ||tlb.zedo.com^
+||tlbgxishgcvzi.space^
 ||tlbiqmqbefcty.space^
 ||tlbrj.denmanbrush.com^
 ||tlbxptgzplybk.online^
@@ -536315,7 +536678,10 @@
 ||tokbkljsqzntz.online^
 ||tokdobitmir.net^
 ||tokei.upstract.com^
+||tokeim-cdn.lol^
 ||tokelaunavet.cyou^
+||token-cdn-acd.lol^
+||token-cdn-adn.xyz^
 ||token-cdn.lol^
 ||token-dispenser.duckdns.org^
 ||token-technology.com^
@@ -536331,7 +536697,9 @@
 ||tokenesveien1.duckdns.org^
 ||tokenha.duckdns.org^
 ||tokenim-cdn-hk.click^
+||tokenim-cdn-sg-k.lol^
 ||tokenim-cdn-sg.biz^
+||tokenim-cdn-vip.lol^
 ||tokenim-cdn.date^
 ||tokenim-cdn.download^
 ||tokenim-cdn.loan^
@@ -537343,6 +537711,7 @@
 ||topqualitylink.com^
 ||topradiostationsonline.com^
 ||toprankmarketing.com^
+||topratedwaterfilter.com^
 ||toprating.casino^
 ||toprebates.com^
 ||toprecipe.co.uk^
@@ -537376,6 +537745,7 @@
 ||topshareware.com^
 ||topshelftraffic.com^
 ||topshieldprotect.com^
+||topshopma.com^
 ||topshoponline.ru^
 ||topshot.ada.support^
 ||topshows.theotherpalace.co.uk^
@@ -538331,6 +538701,7 @@
 ||tpesjhkf.bid^
 ||tpficxckbemow.site^
 ||tpfjpdizmvpaz.store^
+||tpfmdvqfqunef.site^
 ||tpfnibqjrpcj.com^
 ||tpfoyllqpudvs.space^
 ||tpfrro.justlease.nl^
@@ -540402,6 +540773,7 @@
 ||trabedouro.duckdns.org^
 ||trabro.com^
 ||trabuko04.duckdns.org^
+||trabzonmegareklamllc.shop^
 ||trac-app.com.com^
 ||trac.9600baud.duckdns.org^
 ||trac.admob.com^
@@ -547135,6 +547507,7 @@
 ||trezorsuite.at^
 ||trezorsuite.wasmer.app^
 ||trezosuiteapp.vercel.app^
+||trezweb3.cam^
 ||trezwebb.com^
 ||trf.intuitwebsites.com^
 ||trf.tjustagolf.se^
@@ -547363,6 +547736,7 @@
 ||trigsfrisky.shop^
 ||trigub.ru^
 ||trigus.duckdns.org^
+||trijetretag.cyou^
 ||trijetzombie.cfd^
 ||trik.vidible.tv^
 ||trikahrta.com^
@@ -548814,7 +549188,6 @@
 ||true-honey-partner.org^
 ||true-honeyfind.org^
 ||true-login-com.duckdns.org^
-||true-soft.su^
 ||true.aahen.site^
 ||true.tblog.dev.nasmann.duckdns.org^
 ||true2file.com^
@@ -549198,6 +549571,7 @@
 ||trustyou.com^
 ||trustyway.fun^
 ||trustzonevpn.info^
+||truswallet.foundation^
 ||truteratrade.net^
 ||truth-beacon.svc.ada.support^
 ||truth-beacon.svc.att.ada.support^
@@ -549329,7 +549703,6 @@
 ||trybrick.com^
 ||trybulgingcoefficient.com^
 ||tryce.com^
-||tryclix.com^
 ||trycoding.com^
 ||trycourier.com^
 ||trydigilant.com^
@@ -550437,6 +550810,7 @@
 ||tubs.magnushomeproducts.com^
 ||tubuappepomxah.com^
 ||tubularsecurity.com^
+||tubularstypsis.com^
 ||tubulihae.cyou^
 ||tubyour.qpon^
 ||tubzmfmqovh.com^
@@ -550581,7 +550955,6 @@
 ||tuinbouwdwarsstraat.duckdns.org^
 ||tuinfra.com^
 ||tuirqglyzr.duckdns.org^
-||tuiskr.com^
 ||tuitenhuy.duckdns.org^
 ||tuitionhusbandslammed.com^
 ||tuitui19999.com^
@@ -550942,6 +551315,7 @@
 ||turingcomplete-live.duckdns.org^
 ||turingguzzleweeder.cyou^
 ||turinxmw.com^
+||turiowaygang.com^
 ||turismocartagenadeindias.com^
 ||turjeman.duckdns.org^
 ||turk0i.duckdns.org^
@@ -551034,6 +551408,7 @@
 ||turoman0detrade.com^
 ||turpynet.duckdns.org^
 ||turrellcoryza.qpon^
+||turretsabluted.cfd^
 ||turristrade.com^
 ||turrrrooogoddddbeglorrryuuii.duckdns.org^
 ||turrwarst.qpon^
@@ -551089,6 +551464,7 @@
 ||tusolyut.info^
 ||tusprawdz-2731.lat^
 ||tussendierenmens.nl^
+||tussorstoluolsaphidid.qpon^
 ||tustiny.org^
 ||tusxrelpoz.com^
 ||tut-64.com^
@@ -553441,6 +553817,7 @@
 ||uapoisk.net^
 ||uapprs2guprhelkdkmde7g8qy.duckdns.org^
 ||uaqcui.tennis-point.fr^
+||uaqiwadxmsniz.online^
 ||uaqngxxyfmzen.online^
 ||uarating.com^
 ||uarizona.co1.qualtrics.com^
@@ -553648,6 +554025,7 @@
 ||ubichurchhass.duckdns.org^
 ||ubidex.xyz^
 ||ubiepvmfdzkhx.online^
+||ubiixsnzsdxei.website^
 ||ubilinkbin.com^
 ||ubilox.com^
 ||ubimo.com^
@@ -554337,6 +554715,7 @@
 ||udsehd.co1.qualtrics.com^
 ||udsf.cn^
 ||udsgty.alkosto.com^
+||udsqbadxjvzanh.com^
 ||udsrvxbleatmk.site^
 ||udsyykzpmz.duckdns.org^
 ||udszpipk.bospanien.dk^
@@ -554346,6 +554725,7 @@
 ||udvbtgkxwnap.com^
 ||udvccbiuqcel.com^
 ||udvcxhjris.duckdns.org^
+||udveaphh.com^
 ||udvgpkmn.vertextech-eg.com^
 ||udvxgumnyg.duckdns.org^
 ||udvxwimgqr.com^
@@ -555699,6 +556079,7 @@
 ||ukpdcsfermd.com^
 ||ukpgsb.agrieuro.es^
 ||ukpnncdenu.duckdns.org^
+||ukpnwnzfhqwid.site^
 ||ukportableac.shop^
 ||ukqgkoquao.duckdns.org^
 ||ukqitv.bizhint.jp^
@@ -556352,6 +556733,7 @@
 ||umpslamnaorgiac.cyou^
 ||umpublishing.az1.qualtrics.com^
 ||umpwuemsoutze.love^
+||umpylancets.qpon^
 ||umqgdhsm.bid^
 ||umqhjmowzjrl.com^
 ||umqigvethe.com^
@@ -556491,6 +556873,7 @@
 ||unallowferae.com^
 ||unalonelongans.com^
 ||unam.mx^
+||unamendpongids.qpon^
 ||unamiis.us.qualtrics.com^
 ||unampharostor.com^
 ||unanihappyallowblast.xyz^
@@ -557738,6 +558121,7 @@
 ||unntvrpwfzluf.store^
 ||unnukka.duckdns.org^
 ||uno-play.online^
+||uno-play.xyz^
 ||uno.duckdns.org^
 ||uno.rsanchezr.duckdns.org^
 ||unoadsrv.com^
@@ -562126,6 +562510,7 @@
 ||uvuubqkkdr.duckdns.org^
 ||uvuzujlbmg.duckdns.org^
 ||uvveosxckqell.site^
+||uvvf6lzhlfgmem.cfd^
 ||uvvhimqchjcvq.site^
 ||uvvjdvufim.duckdns.org^
 ||uvwazabyjyxok.site^
@@ -564939,6 +565324,7 @@
 ||vbkryy.pasonacareer.jp^
 ||vblaejlytzpwh.online^
 ||vbljtmyibtty.com^
+||vblmjpzxyfghn.online^
 ||vblot224.duckdns.org^
 ||vblunqrovanf.com^
 ||vblwixpwrrrjh.site^
@@ -565274,6 +565660,7 @@
 ||vda.oipzyrzffum.ovh^
 ||vda.viettel.vn^
 ||vda.wp.pl^
+||vdaajezzqztsv.site^
 ||vdaakbztdi.duckdns.org^
 ||vdacdn1.viettel.vn^
 ||vdacdn2.viettel.vn^
@@ -565748,6 +566135,7 @@
 ||vekekc.nissanblainville.com^
 ||vekeltaizy.net^
 ||vekfeqxapt.duckdns.org^
+||vekgiiqxryakq.space^
 ||vekings.eikelhome.duckdns.org^
 ||vekjd.meetonwebb.com^
 ||vekmygssmfyov.online^
@@ -565857,7 +566245,6 @@
 ||velvet-beauty.nl^
 ||velvet.iad.appboy.com^
 ||velvetarrowhawk.com^
-||velvetcanyonline.xyz^
 ||velvetcrown.club^
 ||velvetdock.com^
 ||velvetnova.com^
@@ -566197,6 +566584,7 @@
 ||verdantloom.com^
 ||verdantsculpture.com^
 ||verdarossa.com^
+||verde-casino-spielen.com^
 ||verde.duckdns.org^
 ||verde2020.duckdns.org^
 ||verdecasino-offers.com^
@@ -566828,6 +567216,7 @@
 ||vextslows.com^
 ||vexturkeyupbrining.com^
 ||vexuchkhuin.com^
+||vexxuhq.site^
 ||veybl6f3o.com^
 ||veycychalcewjxf.xyz^
 ||veydexoodnewsocala-kidzone.staging.dnsovh.duckdns.org^
@@ -567018,6 +567407,7 @@
 ||vfyooildrs.duckdns.org^
 ||vfyqpfwicp.com^
 ||vfyqvfcsbl.duckdns.org^
+||vfyuqjwausvfd.site^
 ||vfyxjsclor.com^
 ||vfzfi.voluumtrk.com^
 ||vfzfkmeq.byaagaard.com^
@@ -574984,6 +575374,7 @@
 ||vjwmtavlnvjdu.bid^
 ||vjwndisrrglox.com^
 ||vjwnqxbxvvcng.space^
+||vjxidipciqcso.website^
 ||vjxqxsatxeaiv.site^
 ||vjxrgqjsbb.duckdns.org^
 ||vjy888.com^
@@ -578228,6 +578619,7 @@
 ||vtapvjedgk.duckdns.org^
 ||vtbsaqvnek.duckdns.org^
 ||vtbtwpoziolcq.online^
+||vtbxgipcoyucp.website^
 ||vtbyvtmabpclx.com^
 ||vtc3rlbjj.com^
 ||vtcbanking6868.weebly.com^
@@ -578678,6 +579070,7 @@
 ||vumuavfxlm.duckdns.org^
 ||vumvpjlqag.duckdns.org^
 ||vumzegtucxqmhl.bid^
+||vunailiylkmto.site^
 ||vunassmealie.duckdns.org^
 ||vunbndgx.com^
 ||vunem.tentree.ca^
@@ -580584,6 +580977,7 @@
 ||walizkatur.com^
 ||walizkipremium.shop^
 ||walkamorous.com^
+||walkedbreezed.cfd^
 ||walkencloud.duckdns.org^
 ||walker-assoc.com^
 ||walker-home-assistant.duckdns.org^
@@ -580604,6 +580998,7 @@
 ||walkingthetalk-com.surveygizmo.com^
 ||walkingtogethersonarr.duckdns.org^
 ||walkingtutor.com^
+||walkistshewel.cyou^
 ||walkme.com^
 ||walkourworld.com^
 ||walkribhus.click^
@@ -580957,6 +581352,7 @@
 ||waploft.com^
 ||waplog.mobi^
 ||waplog.net^
+||waplusapks.org^
 ||wapmonetize.offerstrack.net^
 ||wapn1.flosports.tv^
 ||wapnrjqhtmm.bid^
@@ -581057,6 +581453,7 @@
 ||warhealthy.com^
 ||warhorsecasino.com^
 ||wariatkowo.duckdns.org^
+||wariednobis.com^
 ||warilyaggregation.com^
 ||warilyclickframes.com^
 ||warioland.com^
@@ -581220,6 +581617,7 @@
 ||wasal.csmayo.com^
 ||wasanasset.xyz^
 ||wasangomartens.com^
+||wasapplus.pk^
 ||wasbeer.duckdns.org^
 ||wasc.homedepot.ca^
 ||wasc.homedepot.com^
@@ -581556,6 +581954,7 @@
 ||wattledplunkpixes.qpon^
 ||wattleshulver.qpon^
 ||wattlex.digital^
+||wattmanfloria.cyou^
 ||wattolympic.cfd^
 ||wattpad-d.openx.net^
 ||wattpad.ada.support^
@@ -581934,6 +582333,7 @@
 ||wbtrkk.teufelaudio.pl^
 ||wbufuclb.com^
 ||wbugs.hiido.com^
+||wbukqlads.com^
 ||wbut.adj.st^
 ||wbuyzxbdzq.duckdns.org^
 ||wbvfkchkyi.duckdns.org^
@@ -582199,6 +582599,7 @@
 ||wddydvvlmrysq.website^
 ||wde0a1qrm.com^
 ||wdebsfycbrxi.com^
+||wdeccslnjjvdc.online^
 ||wdeliv.net^
 ||wdelnrntzp.duckdns.org^
 ||wdemwdmwehswi.online^
@@ -591105,6 +591506,7 @@
 ||webozip.in^
 ||webpage-9939.duckdns.org^
 ||webpage.state.co.nz^
+||webpagehelp.online^
 ||webpagekit.com^
 ||webpagescripts.net^
 ||webpagetest.net^
@@ -591161,6 +591563,7 @@
 ||webr.emv2.com^
 ||webrate.org^
 ||webrecetasculinarias.net.mydays.de^
+||webredirect.org^
 ||webreg.me^
 ||webreporting.ch^
 ||webreports.nature.org^
@@ -593028,6 +593431,7 @@
 ||wgi.fitanalytics.com^
 ||wgiaglsber.duckdns.org^
 ||wgimhiakumdkf.site^
+||wgjawyhhfmbel.space^
 ||wgjbxzgoey.duckdns.org^
 ||wgjjdkaioj.duckdns.org^
 ||wgjpbodjwq.duckdns.org^
@@ -593210,6 +593614,7 @@
 ||whardobel.com^
 ||wharfepithi.cyou^
 ||wharrownecia.com^
+||wharryenforthtudor.cyou^
 ||wharton.qualtrics.com^
 ||whartonexeced360.qualtrics.com^
 ||wharuhiguo.duckdns.org^
@@ -594394,6 +594799,7 @@
 ||whuffleastrut.shop^
 ||whugesto.net^
 ||whughesh.com^
+||whugsrs.info^
 ||whuhviiaza.duckdns.org^
 ||whukroal.net^
 ||whulsaux.com^
@@ -596300,6 +596706,7 @@
 ||wizzogames-sdk.wappier.com^
 ||wizzp.duckdns.org^
 ||wizzshop.trade^
+||wizzyaddon.com^
 ||wizzydd.duckdns.org^
 ||wj-easypark.top^
 ||wj.coateebyth.com^
@@ -598255,6 +598662,7 @@
 ||wozdcc.vidaxl.at^
 ||wozeducation.org^
 ||wozltvfxtntaqk.com^
+||wozxijumltgqr.website^
 ||wp-blog.duckdns.org^
 ||wp-cdn.cityads.com^
 ||wp-club.net^
@@ -599228,6 +599636,7 @@
 ||wsedcrtybhu.duckdns.org^
 ||wserver.vidazoo.com^
 ||wsexhoetsb.duckdns.org^
+||wsezwshs.com^
 ||wsfc-t.topya.com^
 ||wsfc.topya.com^
 ||wsfgv.duckdns.org^
@@ -599264,6 +599673,7 @@
 ||wskkefjagk.duckdns.org^
 ||wsknjzjwlyrically.review^
 ||wsknow.net^
+||wsknwakvkeiad.site^
 ||wskor.duckdns.org^
 ||wsktql.mopar.eu^
 ||wslbc.duckdns.org^
@@ -599742,6 +600152,7 @@
 ||wumhguiqxy.duckdns.org^
 ||wumii.cn^
 ||wumii.com^
+||wuming0.tech^
 ||wumpgqvckx.duckdns.org^
 ||wumpsouth.duckdns.org^
 ||wumpus.duckdns.org^
@@ -599961,6 +600372,7 @@
 ||wvmvpjlguwapy.online^
 ||wvnggxfjhwdzd.online^
 ||wvnjvxgcln.duckdns.org^
+||wvnmeccyneqnoi.com^
 ||wvns.duckdns.org^
 ||wvoahyehtvj.com^
 ||wvokkrmhku.duckdns.org^
@@ -638602,6 +639014,7 @@
 ||x9.ifdef.jp^
 ||x9.shinobi.jp^
 ||x921.casino^
+||x940b8a.lat^
 ||x94pjnejo.com^
 ||x97.duckdns.org^
 ||x99-s-unraid.duckdns.org^
@@ -639487,6 +639900,7 @@
 ||xegzfjfdrzltk.site^
 ||xeheaqippc.duckdns.org^
 ||xehgblgliw.duckdns.org^
+||xehjpenmmpf.com^
 ||xehrhppjsa.duckdns.org^
 ||xehtyqwexk.duckdns.org^
 ||xeida.duckdns.org^
@@ -639706,6 +640120,7 @@
 ||xflwb.august.la^
 ||xfmjleuaqgnuvv.com^
 ||xfmybdtedhzel.website^
+||xfmzudwrbfhih.site^
 ||xfnams.undone.co.jp^
 ||xfncv.com^
 ||xfnjqkissd.duckdns.org^
@@ -639821,6 +640236,7 @@
 ||xgitqnoryb.duckdns.org^
 ||xgjhpuyigenen.website^
 ||xgjktx.careofcarl.dk^
+||xgjlelmoloaed.space^
 ||xgkmqyjxcjbj.com^
 ||xgkpfcqwwk.xyz^
 ||xgkpltbxcpoyld.com^
@@ -642911,6 +643327,7 @@
 ||xrdzrwfenn.duckdns.org^
 ||xrea.com^
 ||xredshark.duckdns.org^
+||xree6ed5.xyz^
 ||xref.io^
 ||xregacncdt.duckdns.org^
 ||xrehxiuglsxrrxh.com^
@@ -642954,6 +643371,7 @@
 ||xrluvlmyuxqjme.com^
 ||xrlvp.duckdns.org^
 ||xrlzeenhvm.duckdns.org^
+||xrmfyhprjurpt.com^
 ||xrmkvbidvmrsz.online^
 ||xrmrpcbaukli.com^
 ||xrmsoffice.duckdns.org^
@@ -643045,6 +643463,7 @@
 ||xrz.duckdns.org^
 ||xrzaeduwvx.duckdns.org^
 ||xrzjigahrnxsr.bid^
+||xrzmwjhevcfwl.online^
 ||xrznrtxbswpuk.space^
 ||xs.bernesesamp.com^
 ||xs.houyi.baofeng.net^
@@ -643375,6 +643794,7 @@
 ||xtpngywovd.duckdns.org^
 ||xtpselfqfeeui.space^
 ||xtpwswfxhw.duckdns.org^
+||xtpwvbpikmcwn.site^
 ||xtqcxzztrjbsx.site^
 ||xtqfguvsmroo.com^
 ||xtqimdqeekij.bid^
@@ -644345,6 +644765,7 @@
 ||xynfpgupmqkvd.space^
 ||xyngularex.qualtrics.com^
 ||xynhbrohms.duckdns.org^
+||xynjzmhzwilxi.site^
 ||xynkjoakns.duckdns.org^
 ||xynorvexiq-ia.com^
 ||xynthfjiefofs.site^
@@ -645235,6 +645656,7 @@
 ||yavne.biz^
 ||yavqwzhgfgq6zm06gx9o8aiqgmsqfex.duckdns.org^
 ||yawcoynag.com^
+||yawkwxxretzyl.site^
 ||yawlsheared.com^
 ||yawmarqmnbndi.website^
 ||yawncollaremotion.com^
@@ -646729,6 +647151,7 @@
 ||yirbpfihml.duckdns.org^
 ||yirdvenouscag.cyou^
 ||yirwegaogg.duckdns.org^
+||yiskwbbaftjvkld.com^
 ||yispa.com^
 ||yisscbyq.com^
 ||yitcmu.com^
@@ -647110,6 +647533,7 @@
 ||ylhdyrjfgb.duckdns.org^
 ||ylhjsrwqtqqb.com^
 ||yliawdutzwwsd.space^
+||ylicfpxstmtsy.online^
 ||ylih6ftygq7.com^
 ||ylinlhlzcumqe.online^
 ||ylitvqbwup.duckdns.org^
@@ -647555,6 +647979,7 @@
 ||yoartq.com^
 ||yoasmarthome.duckdns.org^
 ||yoast-schema-graph.com^
+||yoauction.com^
 ||yoausqarqa.duckdns.org^
 ||yobaby.club^
 ||yobee-d.openx.net^
@@ -647928,6 +648353,7 @@
 ||youlead.agency^
 ||youliehow.com^
 ||youlouk.com^
+||youlovemybiba.com^
 ||youmakeashion.fr^
 ||youmama.duckdns.org^
 ||youmetrix.co.uk^
@@ -648799,6 +649225,7 @@
 ||ysl3.destinia.ec^
 ||yslaehntaiibf.online^
 ||yslatcslenq.com^
+||yslbbbgsxahck.space^
 ||yslim-code.duckdns.org^
 ||yslim.duckdns.org^
 ||ysljgoytuyfbg.com^
@@ -649338,6 +649765,7 @@
 ||yuqhtlry.xyz^
 ||yuqiuyi99.duckdns.org^
 ||yuqnibpyn.com^
+||yuqoqalnwimuj.com^
 ||yur09111og.com^
 ||yur09121og.com^
 ||yur09130og.com^
@@ -649566,6 +649994,7 @@
 ||ywbpprhlpins.com^
 ||ywbpzuqu.com^
 ||ywca.iad1.qualtrics.com^
+||ywcbkw6wxtg6o8tlhbzlkbxnzy3.cfd^
 ||ywcbst.com^
 ||ywcorovtblhap.online^
 ||ywcpuyoqiwpsq.website^
@@ -650950,6 +651379,7 @@
 ||zanbic.com^
 ||zancohouse.duckdns.org^
 ||zanderaswirl.com^
+||zanderrealestate.com^
 ||zandman.duckdns.org^
 ||zando01.webtrekk.net^
 ||zandstraat15.duckdns.org^
@@ -651259,6 +651689,7 @@
 ||zbfszb.calpis-shop.jp^
 ||zbgeaxemkosdwv.bid^
 ||zbggm.jellyroll615.com^
+||zbgmdjqbijwss.site^
 ||zbgoyqs.xyz^
 ||zbgqgh.ozerty.com^
 ||zbhblutftghug.site^
@@ -652038,6 +652469,7 @@
 ||zenitecaudalorio.net^
 ||zenithcapitange.click^
 ||zenithcapitange.net^
+||zenithclient.com^
 ||zenithhubcasino.com^
 ||zenithkingcasino.com^
 ||zenithoradog.com^
@@ -652601,6 +653033,7 @@
 ||zgcplfvjpixarg.com^
 ||zgcsyhtcwozaw.site^
 ||zgcuq93h5s.com^
+||zgcuzvzsgbhoj.site^
 ||zgcwcf.ibccoaching.com.br^
 ||zgdaxfxqho.duckdns.org^
 ||zgdejlhmzjrd.com^
@@ -653886,6 +654319,7 @@
 ||zlolhl.mediametrics.ru^
 ||zlomar.duckdns.org^
 ||zlongad.com^
+||zlotnkcwzwjpc.site^
 ||zloweb.me^
 ||zloykrys.duckdns.org^
 ||zlp6s.pw^
@@ -655998,6 +656432,7 @@
 ||zrusenov.duckdns.org^
 ||zrvheziaakihj.website^
 ||zrvnhlwypqpwjw.com^
+||zrvotkyrpllyu.online^
 ||zrvwyyqpkeehx.online^
 ||zrw1.destinia.jp^
 ||zrwbgfriji.duckdns.org^
@@ -656257,6 +656692,7 @@
 ||ztbuhwcovpgus.space^
 ||ztcadx.com^
 ||ztccmx.scandinavianbaby.pl^
+||ztcpeelqlprfbowg1ii1rmb68wefry.cfd^
 ||ztctourupmhin.today^
 ||ztcysvupksjt.com^
 ||ztdfsxgcyprwvp.com^
@@ -656346,6 +656782,7 @@
 ||ztsjdthngoeln.space^
 ||ztsletmncez.com^
 ||ztslmijniaoqip.com^
+||ztsmfmotoqtct.online^
 ||ztsplbdacx.duckdns.org^
 ||ztsrv.com^
 ||ztstwgxjhkuwj.com^
@@ -656459,6 +656896,7 @@
 ||zuhausesmart.duckdns.org^
 ||zuhausewohnen.de.intellitxt.com^
 ||zuhempih.com^
+||zuhgg4cxt6noffj8.rest^
 ||zuhityfzxjhan.website^
 ||zuhkryviqx.com^
 ||zuhuzu.info^
@@ -656561,6 +656999,7 @@
 ||zunhome.duckdns.org^
 ||zunianhayers.cyou^
 ||zunianwych.qpon^
+||zunimar.cl^
 ||zunipush.com^
 ||zunjxpwiztqgt.bid^
 ||zunlbbghsk.duckdns.org^
@@ -657169,6 +657608,7 @@
 ||zycggnoray.duckdns.org^
 ||zychologla.com^
 ||zychticlit.duckdns.org^
+||zycjclvhhzhqv.online^
 ||zycnof.distrelec.de^
 ||zycvyudt.com^
 ||zydecipy.kajskjul8.se^
