@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Tumblr
-# Updated: 2026-11-03 10:15 UTC
+# Updated: 2026-11-05 10:01 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 3
 # Description: social | group_id=135
