@@ -1,6 +1,6 @@
 # ==============================================================
 # DNS Blocklist: Reddit
-# Updated: 2026-11-13 10:13 UTC
+# Updated: 2026-11-14 09:37 UTC
 # Format: plain domain (one per line — suffix matching applied by consumers)
 # Total entries: 8
 # Description: social | group_id=131
