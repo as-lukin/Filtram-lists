@@ -1,7 +1,7 @@
 # Ads & Advertising
-# Updated: 2026-11-20 10:42 UTC
+# Updated: 2026-11-21 10:24 UTC
 # Format: hosts (0.0.0.0 domain.com)
-# Total: 695,228
+# Total: 695,705
 
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com
@@ -1025,7 +1025,6 @@
 0.0.0.0 023-ezk-120.mktoresp.com
 0.0.0.0 0230.casino
 0.0.0.0 0230.org
-0.0.0.0 0230923o5.surf
 0.0.0.0 02313.com
 0.0.0.0 0232.org
 0.0.0.0 0233.casino
@@ -9158,7 +9157,6 @@
 0.0.0.0 198973.engine.mobileapptracking.com
 0.0.0.0 198b531aae.com
 0.0.0.0 198ce.com
-0.0.0.0 198macros.org
 0.0.0.0 198yunhu.com
 0.0.0.0 199-events.olark.com
 0.0.0.0 199-qid-730.mktoresp.com
@@ -11003,6 +11001,7 @@
 0.0.0.0 20bd.pandasuite.io
 0.0.0.0 20bet-onlinecasino.com
 0.0.0.0 20bet.partners
+0.0.0.0 20betcasino.io
 0.0.0.0 20betcasinocz.cz
 0.0.0.0 20betcasinoonline.com
 0.0.0.0 20betlivex.com
@@ -11228,6 +11227,7 @@
 0.0.0.0 21privecasino.net
 0.0.0.0 21pron.com
 0.0.0.0 21q.casino
+0.0.0.0 21redcasino.org
 0.0.0.0 21rxi6k7n9ry6v4gm9gy4e1ngw4.cfd
 0.0.0.0 21server2request4secure44action3control3.duckdns.org
 0.0.0.0 21sextury.com
@@ -13373,6 +13373,7 @@
 0.0.0.0 2v.news-subscribe.com
 0.0.0.0 2v247j25p15kw.wu5fyol71lmrpftq.cyou
 0.0.0.0 2v378cds.xyz
+0.0.0.0 2v6pb5xbhunnmy8o.cfd
 0.0.0.0 2vaxwkujrfwh.info
 0.0.0.0 2vb347nth742ibr.rest
 0.0.0.0 2vcb9onxjm.com
@@ -13641,6 +13642,7 @@
 0.0.0.0 306-cjr-109.mktoresp.com
 0.0.0.0 306-tvb-420.mktoresp.com
 0.0.0.0 306.bitterstrawberry.com
+0.0.0.0 306068c782.com
 0.0.0.0 30618-18.chat.api.drift.com
 0.0.0.0 3063.casino
 0.0.0.0 30642.api.swrve.com
@@ -15906,6 +15908,7 @@
 0.0.0.0 3q4q.com
 0.0.0.0 3q5q.com
 0.0.0.0 3q6ixb5ng2pvbp.cfd
+0.0.0.0 3q71nx23ewrl482z7jbnx.cfd
 0.0.0.0 3q9j4w2r9d.com
 0.0.0.0 3qd.casino
 0.0.0.0 3qdigital.adlegend.com
@@ -15928,6 +15931,7 @@
 0.0.0.0 3r8p1e-qw888agreg-mbtz1p9m8z2-2m1p.pages.dev
 0.0.0.0 3rc04o1rmy.com
 0.0.0.0 3rdads.com
+0.0.0.0 3rder.com
 0.0.0.0 3rdeventmobilelegend.duckdns.org
 0.0.0.0 3rdeye.go2cloud.org
 0.0.0.0 3rdeyeactivation.com
@@ -16808,6 +16812,7 @@
 0.0.0.0 43evnxa1v4.kameleoon.eu
 0.0.0.0 43gu7zzn0.com
 0.0.0.0 43hmt.duckdns.org
+0.0.0.0 43ih5huij5znfocgz5i3e7to.rest
 0.0.0.0 43lansburyrd.duckdns.org
 0.0.0.0 43ors1osh.com
 0.0.0.0 43plc.com
@@ -18158,6 +18163,7 @@
 0.0.0.0 4pyszxxaw.com
 0.0.0.0 4q.iperceptions.com
 0.0.0.0 4q7unmlg5.com
+0.0.0.0 4qhg8h56veuu9mmj4c.rest
 0.0.0.0 4qinvite.4q.iperceptions.com
 0.0.0.0 4qpa5-3-69.covid19study.qualtrics.com
 0.0.0.0 4qsurvey.com
@@ -18291,6 +18297,7 @@
 0.0.0.0 4xfreedom.com
 0.0.0.0 4xgm.duckdns.org
 0.0.0.0 4xh3.lhdyq.site
+0.0.0.0 4xo99r3nuoqno64lgjvj.rest
 0.0.0.0 4xporn.com
 0.0.0.0 4xr7sy3gu.com
 0.0.0.0 4y13js.work
@@ -21357,7 +21364,6 @@
 0.0.0.0 6978017579.duckdns.org
 0.0.0.0 697a3aa509.com
 0.0.0.0 698.casino
-0.0.0.0 6987432.lat
 0.0.0.0 699-uig-290.mktoresp.com
 0.0.0.0 699.casino
 0.0.0.0 699.stats.misstrends.com
@@ -23643,6 +23649,7 @@
 0.0.0.0 81f.casino
 0.0.0.0 81f49d8375.com
 0.0.0.0 81jolyn.duckdns.org
+0.0.0.0 81mbetx.com
 0.0.0.0 81rrha.duckdns.org
 0.0.0.0 81rubishomeassistant.duckdns.org
 0.0.0.0 81u.casino
@@ -24342,7 +24349,6 @@
 0.0.0.0 897-cmd-695.mktoresp.com
 0.0.0.0 897-ijr-850.mktoresp.com
 0.0.0.0 897-tds-380.mktoresp.com
-0.0.0.0 8974235.lat
 0.0.0.0 897654.com.civicscience.com
 0.0.0.0 89784-34.chat.api.drift.com
 0.0.0.0 897c-0e71-90a9-967c.reporo.net
@@ -24727,6 +24733,7 @@
 0.0.0.0 8ujey3.lat
 0.0.0.0 8upsell.s3.amazonaws.com
 0.0.0.0 8ureu4.pics
+0.0.0.0 8urqj3m2wrx4cqkbo2lpp74q.cfd
 0.0.0.0 8usbee4bjlh8agvpfzt.duckdns.org
 0.0.0.0 8utb.net
 0.0.0.0 8uuxq3tvn.com
@@ -24791,7 +24798,6 @@
 0.0.0.0 9-160-37-135.cprapid.com
 0.0.0.0 9-205-251-140.cprapid.com
 0.0.0.0 9-205-89-4.cprapid.com
-0.0.0.0 9-9-11.com
 0.0.0.0 9-events.olark.com
 0.0.0.0 9.6.87.194.dynamic.dol.ru
 0.0.0.0 9.ackzany.com
@@ -26235,7 +26241,6 @@
 0.0.0.0 a-counters.com
 0.0.0.0 a-da.invideo.io
 0.0.0.0 a-delivery.rmbl.ws
-0.0.0.0 a-dog.top
 0.0.0.0 a-engine.hktdc.com
 0.0.0.0 a-fds.youborafds01.com
 0.0.0.0 a-hentai.tv
@@ -33880,6 +33885,7 @@
 0.0.0.0 aabdmn.com
 0.0.0.0 aabearcloud.duckdns.org
 0.0.0.0 aabenrapharma.de
+0.0.0.0 aablubxglrvvc.site
 0.0.0.0 aabmxezph.com
 0.0.0.0 aabook.work
 0.0.0.0 aabproxydomaintests.top
@@ -34928,6 +34934,7 @@
 0.0.0.0 abdelamrani.duckdns.org
 0.0.0.0 abdelilah.duckdns.org
 0.0.0.0 abdelrhman.gherasstore.com
+0.0.0.0 abdeurqce.com
 0.0.0.0 abdfpneids.duckdns.org
 0.0.0.0 abdicatebirchcoolness.com
 0.0.0.0 abdicateeffectlucky.com
@@ -36946,6 +36953,7 @@
 0.0.0.0 achunogo.com
 0.0.0.0 achurucu-trbru57.duckdns.org
 0.0.0.0 achvlsrxdatxn.online
+0.0.0.0 achxelqnpdlsk.site
 0.0.0.0 achyonwardballast.com
 0.0.0.0 achyrepeatitchy.com
 0.0.0.0 achzzcywqb.duckdns.org
@@ -54762,6 +54770,7 @@
 0.0.0.0 addmoredynamiclinkstocontent2convert.bid
 0.0.0.0 addmoves.com
 0.0.0.0 addmypasskey.com
+0.0.0.0 addobe.biz
 0.0.0.0 addoer.com
 0.0.0.0 addomrepre.store
 0.0.0.0 addon-45df7312-zigbee2mqtt-edge.tamago2000.duckdns.org
@@ -56010,6 +56019,7 @@
 0.0.0.0 adkaora.space
 0.0.0.0 adkaramba.go2cloud.org
 0.0.0.0 adkast-spherexxcom.netdna-ssl.com
+0.0.0.0 adkbrfxxkgtlf.online
 0.0.0.0 adkclicker.fr
 0.0.0.0 adkconvert.com
 0.0.0.0 adkeeper.com
@@ -57038,6 +57048,7 @@
 0.0.0.0 admiralexternal.com
 0.0.0.0 admiralife.com
 0.0.0.0 admiralproxied.com
+0.0.0.0 admiralsharkcasino.org
 0.0.0.0 admiralsnackbar.duckdns.org
 0.0.0.0 admiralx-897.top
 0.0.0.0 admiralx-aep.top
@@ -62260,6 +62271,7 @@
 0.0.0.0 ads.tv7.sporta.bg
 0.0.0.0 ads.tv9.com
 0.0.0.0 ads.tvb.com
+0.0.0.0 ads.tver.jp
 0.0.0.0 ads.tvmnews.mt
 0.0.0.0 ads.tvp.pl
 0.0.0.0 ads.tvpl.vn
@@ -66331,6 +66343,7 @@
 0.0.0.0 adsvr.adsparc.net
 0.0.0.0 adsvr.deviantart.com
 0.0.0.0 adsvr.taipeilink.net
+0.0.0.0 adsvr.tver.jp
 0.0.0.0 adsvr2.adsparc.net
 0.0.0.0 adsvstream-a930.kxcdn.com
 0.0.0.0 adsvzkuzfcfbz.one
@@ -68865,6 +68878,7 @@
 0.0.0.0 aerhome.duckdns.org
 0.0.0.0 aerialapps.com
 0.0.0.0 aerialmistaken.com
+0.0.0.0 aeridesnoshed.cyou
 0.0.0.0 aerifyspiky.com
 0.0.0.0 aerinor.com
 0.0.0.0 aerio1.net.anwalt.de
@@ -68892,7 +68906,6 @@
 0.0.0.0 aeroflowinc.actonsoftware.com
 0.0.0.0 aerogov.com
 0.0.0.0 aerogram.ca
-0.0.0.0 aerogroupinternational.com
 0.0.0.0 aeroleads.com
 0.0.0.0 aerolithology.duckdns.org
 0.0.0.0 aeromark.actonservice.com
@@ -72451,6 +72464,7 @@
 0.0.0.0 aitsngnuu.angelcities.com
 0.0.0.0 aituvtcset.duckdns.org
 0.0.0.0 aitv-2021.duckdns.org
+0.0.0.0 aiuaraudkcpjp.online
 0.0.0.0 aiui.27mc.duckdns.org
 0.0.0.0 aiukjrpgxwiqh.website
 0.0.0.0 aiutdomin.store
@@ -72476,6 +72490,7 @@
 0.0.0.0 aiwhooltoz.net
 0.0.0.0 aiwnuwxpmp.duckdns.org
 0.0.0.0 aiwoobsoany.net
+0.0.0.0 aiwsdkxqizteg.online
 0.0.0.0 aiwznhifgkdqvy.com
 0.0.0.0 aixcdn.com
 0.0.0.0 aixdassies.cyou
@@ -72800,6 +72815,7 @@
 0.0.0.0 ajoaorexnieym.com
 0.0.0.0 ajocbplhzcvr.bid
 0.0.0.0 ajofskqomz.duckdns.org
+0.0.0.0 ajogbellon.com
 0.0.0.0 ajoingrupbokepwwid2.duckdns.org
 0.0.0.0 ajokeaday.com
 0.0.0.0 ajoqacilln.duckdns.org
@@ -74488,6 +74504,7 @@
 0.0.0.0 alescodata.com
 0.0.0.0 aleservu.duckdns.org
 0.0.0.0 aleshop.pl
+0.0.0.0 aleshotglairesdecodon.cfd
 0.0.0.0 aleshotiwa.cfd
 0.0.0.0 alespeonor.com
 0.0.0.0 alesquire.duckdns.org
@@ -75777,6 +75794,7 @@
 0.0.0.0 alourt.com
 0.0.0.0 alovay24h.com
 0.0.0.0 alovirs.com
+0.0.0.0 alowpirl.click
 0.0.0.0 aloxlxzlkk.duckdns.org
 0.0.0.0 aloyaudoupingcloyed.cyou
 0.0.0.0 aloyogapolska.com
@@ -76064,6 +76082,7 @@
 0.0.0.0 alta.canet.luizrego.app.br
 0.0.0.0 alta.eqmob.com
 0.0.0.0 altabold1.com
+0.0.0.0 altaffiliatesol.com
 0.0.0.0 altagraftha.duckdns.org
 0.0.0.0 altaiecosort.com
 0.0.0.0 altalex.wolterskluwer.com
@@ -77974,6 +77993,7 @@
 0.0.0.0 amx1.net
 0.0.0.0 amxdt.com
 0.0.0.0 amxei.duckdns.org
+0.0.0.0 amxeojrliaeia.space
 0.0.0.0 amxfwvitnw.duckdns.org
 0.0.0.0 amxodxmsuwdhn.com
 0.0.0.0 amxpjpqepqmbe.space
@@ -81408,13 +81428,16 @@
 0.0.0.0 androidads4-8.adcolony.com
 0.0.0.0 androidandme.polldaddy.com
 0.0.0.0 androidandme.us.intellitxt.com
+0.0.0.0 androidannotations.com
 0.0.0.0 androidapk.world
 0.0.0.0 androidario.duckdns.org
+0.0.0.0 androidasynclib.com
 0.0.0.0 androidbattle.com
 0.0.0.0 androidc.mxplay.com
 0.0.0.0 androidcentral.us.intellitxt.com
 0.0.0.0 androidcommunity.us.intellitxt.com
 0.0.0.0 androiddev.orkitra.com
+0.0.0.0 androiddevpool.com
 0.0.0.0 androiddownload.net
 0.0.0.0 androidduvetscribble.com
 0.0.0.0 androidguias.com
@@ -81428,10 +81451,13 @@
 0.0.0.0 androidsecurityplus.com
 0.0.0.0 androidservis.duckdns.org
 0.0.0.0 androidsk.ads.mp.mydas.mobi
+0.0.0.0 androidstaticserve.com
 0.0.0.0 androidtvchannels-pa.googleapis.com
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
+0.0.0.0 androidufslib.com
 0.0.0.0 androidupdate.download
 0.0.0.0 androidupdate.info
+0.0.0.0 androidwebsys.com
 0.0.0.0 androimpuz.store
 0.0.0.0 andromeda-tautulli.duckdns.org
 0.0.0.0 andromeda.iad-01.braze.com
@@ -86471,6 +86497,7 @@
 0.0.0.0 apnoeicporella.cyou
 0.0.0.0 apnonline.112.2o7.net
 0.0.0.0 apnpr.com
+0.0.0.0 apnqvhqlhzvhc.site
 0.0.0.0 apns-service.kdanmobile.com
 0.0.0.0 apns.duckdns.org
 0.0.0.0 apns.mobi.f.360.cn
@@ -86661,6 +86688,7 @@
 0.0.0.0 app-clicks-corporate.firstrepublic.com
 0.0.0.0 app-clicks.firstrepublic.com
 0.0.0.0 app-community.pubmatic.com
+0.0.0.0 app-conbase.pro
 0.0.0.0 app-config.enhance.co
 0.0.0.0 app-connector.duckdns.org
 0.0.0.0 app-creatives.cdn.admobile.me
@@ -88601,7 +88629,6 @@
 0.0.0.0 applicationplasticoverlap.com
 0.0.0.0 applicationpremium70.club
 0.0.0.0 applications.bfast.com
-0.0.0.0 applicationsamz.com
 0.0.0.0 applicationsighgolden.com
 0.0.0.0 applicationsoftwareshopnet.win
 0.0.0.0 applicationsoftwarestorenet.win
@@ -88727,7 +88754,6 @@
 0.0.0.0 apply.bpost.be
 0.0.0.0 apply.catalystfitnessflorida.com
 0.0.0.0 apply.maxlend.com
-0.0.0.0 applyamazonsp.com
 0.0.0.0 applyfix.tech
 0.0.0.0 applyless.com
 0.0.0.0 applynow-jobs.com
@@ -90343,7 +90369,6 @@
 0.0.0.0 arganostrella.com
 0.0.0.0 argantalcs.com
 0.0.0.0 argasidpalmate.cyou
-0.0.0.0 argatechnology.com
 0.0.0.0 argazkiak.alainperez.duckdns.org
 0.0.0.0 argbq.fanclfuldates.com
 0.0.0.0 argduezzse.duckdns.org
@@ -90386,6 +90411,7 @@
 0.0.0.0 argocd.ops.ficanex.ada.support
 0.0.0.0 argocd.ops.maple.ada.support
 0.0.0.0 argocd.rokkit.duckdns.org
+0.0.0.0 argocts.com
 0.0.0.0 argofundsolutions.info
 0.0.0.0 argolida.duckdns.org
 0.0.0.0 argolidpretax.cfd
@@ -90725,6 +90751,7 @@
 0.0.0.0 armjoan.duckdns.org
 0.0.0.0 armjqociqjaij.online
 0.0.0.0 armkiqgmaram.com
+0.0.0.0 armletwouf.rest
 0.0.0.0 armlyemoan.com
 0.0.0.0 armnhidhuwr.com
 0.0.0.0 armoniamiddleeast.ae
@@ -90861,6 +90888,7 @@
 0.0.0.0 arqddo.prezzifarmaco.it
 0.0.0.0 arqeluno.shop
 0.0.0.0 arqesklxqz.duckdns.org
+0.0.0.0 arqftuaksk.in
 0.0.0.0 arqgftvwbu.duckdns.org
 0.0.0.0 arqgslcvbx.duckdns.org
 0.0.0.0 arqiofxglq.duckdns.org
@@ -90958,6 +90986,7 @@
 0.0.0.0 arrowlogistics.africa
 0.0.0.0 arrowmmc.com
 0.0.0.0 arrowpushengine.com
+0.0.0.0 arrowsheafeddavens.cyou
 0.0.0.0 arrowsmithdanfoss.duckdns.org
 0.0.0.0 arrowtec.go2cloud.org
 0.0.0.0 arrowtracker.duckdns.org
@@ -91230,6 +91259,7 @@
 0.0.0.0 aru.duckdns.org
 0.0.0.0 aru.index.hu
 0.0.0.0 arubabetcasino.com
+0.0.0.0 arubachecklist.com
 0.0.0.0 arubahello.com
 0.0.0.0 arubber.duckdns.org
 0.0.0.0 arubdaraqigxc.site
@@ -91251,6 +91281,7 @@
 0.0.0.0 aruranmbqiyus.store
 0.0.0.0 arusupport-region1-webhook.online
 0.0.0.0 aruvanvelmoraai.com
+0.0.0.0 aruvejhhmtqtf.site
 0.0.0.0 aruvio.shop
 0.0.0.0 arvada.duckdns.org
 0.0.0.0 arvage-home.duckdns.org
@@ -91318,6 +91349,7 @@
 0.0.0.0 arzhome.duckdns.org
 0.0.0.0 arzhost.com
 0.0.0.0 arzneiprivat.de
+0.0.0.0 arztgkaxj.com
 0.0.0.0 arztrc.site
 0.0.0.0 arzvxfnzqm.duckdns.org
 0.0.0.0 as-api.whitecoatinvestor.com
@@ -93590,6 +93622,7 @@
 0.0.0.0 atdscppuks.duckdns.org
 0.0.0.0 atdtigfkumig.in
 0.0.0.0 atdwhoqtigke.com
+0.0.0.0 atdzfavz.in
 0.0.0.0 ate-home.duckdns.org
 0.0.0.0 ate.info
 0.0.0.0 ate.spritmonitor.de
@@ -95248,6 +95281,7 @@
 0.0.0.0 auspiceguile.com
 0.0.0.0 auspiceunworthy.com
 0.0.0.0 auspiciousyard.com
+0.0.0.0 auspicypartage.rest
 0.0.0.0 auspipe.com
 0.0.0.0 auspolice.com
 0.0.0.0 auspost-input.com
@@ -96096,7 +96130,6 @@
 0.0.0.0 autoturist.com
 0.0.0.0 autoua.com
 0.0.0.0 autouk.demdex.net
-0.0.0.0 autourduchanvre.com
 0.0.0.0 autous.ru
 0.0.0.0 autoverify.com
 0.0.0.0 autovision01.webtrekk.net
@@ -96724,6 +96757,7 @@
 0.0.0.0 avrdi.com
 0.0.0.0 avrdpbiwvwyt.com
 0.0.0.0 avrdrpwt.com
+0.0.0.0 avredpzsensto.online
 0.0.0.0 avres.net
 0.0.0.0 avrossettocloud.duckdns.org
 0.0.0.0 avrqa.estellabartlett.com
@@ -97419,6 +97453,7 @@
 0.0.0.0 axe-net.com
 0.0.0.0 axecash.com
 0.0.0.0 axecasino.com
+0.0.0.0 axecasino.io
 0.0.0.0 axeclbthp.com
 0.0.0.0 axedon1.duckdns.org
 0.0.0.0 axeds.com
@@ -98141,6 +98176,7 @@
 0.0.0.0 azerus.duckdns.org
 0.0.0.0 azeticzeal.com
 0.0.0.0 azetvyqeskrcs.space
+0.0.0.0 azevalaovugqg.space
 0.0.0.0 azflce.fragrances.bg
 0.0.0.0 azfld.trykepos.com
 0.0.0.0 azfmulmqcz.bid
@@ -98416,6 +98452,7 @@
 0.0.0.0 azuracast.stefkoch.duckdns.org
 0.0.0.0 azuravenue.com
 0.0.0.0 azurcasino2.com
+0.0.0.0 azurcasinos.org
 0.0.0.0 azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 0.0.0.0 azure.7eer.net
 0.0.0.0 azure.cloudflare-dns.com
@@ -100306,6 +100343,7 @@
 0.0.0.0 bakaqddxhhsid.com
 0.0.0.0 bakaratonline.com
 0.0.0.0 bakardi.duckdns.org
+0.0.0.0 bakayyflvurcg.online
 0.0.0.0 bakccountry.pxf.io
 0.0.0.0 bakcloud.duckdns.org
 0.0.0.0 bakdata.duckdns.org
@@ -101268,7 +101306,6 @@
 0.0.0.0 bankrateloan.com
 0.0.0.0 bankrolla.com
 0.0.0.0 bankruptconstrue.com
-0.0.0.0 bankruptcyrhodeisland.com
 0.0.0.0 bankruptcywizard.com
 0.0.0.0 bankruptseerappeling.info
 0.0.0.0 banks.adpinfo.com
@@ -102603,6 +102640,7 @@
 0.0.0.0 barfingvolvas.qpon
 0.0.0.0 barfsmiaowpit.com
 0.0.0.0 bargainbeautybuys.com
+0.0.0.0 bargainelctronics.com
 0.0.0.0 bargainingayzgdp.download
 0.0.0.0 bargainpda.us.intellitxt.com
 0.0.0.0 bargainpricedude.com
@@ -104576,6 +104614,7 @@
 0.0.0.0 bdrrtgdhzqbxk.online
 0.0.0.0 bdrxcokcksbbr.store
 0.0.0.0 bdrxnxwlkb.duckdns.org
+0.0.0.0 bdrykffavezxq.website
 0.0.0.0 bds.fnltd.co.uk
 0.0.0.0 bds.web-rover.co.uk
 0.0.0.0 bds89.duckdns.org
@@ -105512,6 +105551,7 @@
 0.0.0.0 beep64.duckdns.org
 0.0.0.0 beeparentdo.com
 0.0.0.0 beepbeep-casino.de
+0.0.0.0 beepbeepcasino.io
 0.0.0.0 beepbeepcasino29.com
 0.0.0.0 beepergaily.com
 0.0.0.0 beepha.duckdns.org
@@ -107381,6 +107421,7 @@
 0.0.0.0 betalonflamechan.com
 0.0.0.0 betamediavisor.doubleclick.net
 0.0.0.0 betamountwo.com
+0.0.0.0 betandplaycasino.io
 0.0.0.0 betandyoucasino.cz
 0.0.0.0 betanews.us.intellitxt.com
 0.0.0.0 betano.de
@@ -107623,6 +107664,7 @@
 0.0.0.0 bettertogetheer.com
 0.0.0.0 betterttv.net
 0.0.0.0 betterup.gainful.com
+0.0.0.0 betterviolet.org
 0.0.0.0 betterworldbooks.btttag.com
 0.0.0.0 betthie.duckdns.org
 0.0.0.0 betti-casino-uk.org
@@ -107656,6 +107698,7 @@
 0.0.0.0 bettwarenshopde.widget.criteo.com
 0.0.0.0 bettydwarfcoincident.com
 0.0.0.0 betuelhomeassistant.duckdns.org
+0.0.0.0 betukcasino.org
 0.0.0.0 beturtwiga.com
 0.0.0.0 betus.com.pa
 0.0.0.0 betvarzeshkade.online
@@ -109054,6 +109097,7 @@
 0.0.0.0 bicotender.com
 0.0.0.0 bicp-analytics.postscript.io
 0.0.0.0 bicqfuzamos.in
+0.0.0.0 bicqgspcmlawd.space
 0.0.0.0 bicronspetite.cyou
 0.0.0.0 bicster.duckdns.org
 0.0.0.0 bict.pro
@@ -110092,6 +110136,7 @@
 0.0.0.0 bingoal.be
 0.0.0.0 bingoal.nl
 0.0.0.0 bingoalcasino.be
+0.0.0.0 bingoaliens.net
 0.0.0.0 bingoaovivo14.net
 0.0.0.0 bingoballroom.com
 0.0.0.0 bingobarmy.net
@@ -110106,14 +110151,18 @@
 0.0.0.0 bingoemcasa8.com
 0.0.0.0 bingoemcasa9.com
 0.0.0.0 bingohall.ag
+0.0.0.0 bingoireland.org
 0.0.0.0 bingoirish.org
 0.0.0.0 bingoless.comfreesideplus.co.sts.detmer.duckdns.org
+0.0.0.0 bingoloft.org
 0.0.0.0 bingooverdosegroom.com
 0.0.0.0 bingoplus.com
 0.0.0.0 bingoplus.net
 0.0.0.0 bingoplus.ph
 0.0.0.0 bingoplus.pro
 0.0.0.0 bingorevenue.directtrack.com
+0.0.0.0 bingostorm.net
+0.0.0.0 bingostreet.org
 0.0.0.0 bingoxl.nl
 0.0.0.0 bingp.ru
 0.0.0.0 bingq.ru
@@ -111494,6 +111543,7 @@
 0.0.0.0 bjpenn-d.openx.net
 0.0.0.0 bjpg-incu.ksapisrv.com
 0.0.0.0 bjpg-log.ksapisrv.com
+0.0.0.0 bjpgvtscpiohh.site
 0.0.0.0 bjpktmjdxqpl.com
 0.0.0.0 bjpql.com
 0.0.0.0 bjpsuk.fray-id.com
@@ -111594,6 +111644,7 @@
 0.0.0.0 bk9-box.duckdns.org
 0.0.0.0 bka.duckdns.org
 0.0.0.0 bka8gw-iwnwy.duckdns.org
+0.0.0.0 bkabbgtmedzoy.online
 0.0.0.0 bkahajkwrj.duckdns.org
 0.0.0.0 bkajldvujw.duckdns.org
 0.0.0.0 bkam33lsr.com
@@ -111861,6 +111912,7 @@
 0.0.0.0 black77854.com
 0.0.0.0 blackadnet.s3.us-east-2.amazonaws.com
 0.0.0.0 blackandveatch.az1.qualtrics.com
+0.0.0.0 blackandwhite-language.pro
 0.0.0.0 blackandwhite-quantity.com
 0.0.0.0 blackandwhite-temporary.com
 0.0.0.0 blackandwhite-welcome.pro
@@ -114171,6 +114223,7 @@
 0.0.0.0 bmurfsjsvvfhy.space
 0.0.0.0 bmuyov.bobbibrown.co.kr
 0.0.0.0 bmuzn.aviatorusa.com
+0.0.0.0 bmvdqqwslbvyo.online
 0.0.0.0 bmvhefgdlt.bid
 0.0.0.0 bmvij.legacybox.com
 0.0.0.0 bmvip.alimama.cn
@@ -114525,6 +114578,7 @@
 0.0.0.0 bo2ffe45ss4gie.com
 0.0.0.0 bo4arnikow.duckdns.org
 0.0.0.0 bo7.duckdns.org
+0.0.0.0 bo8cpcnv938mi9kxxjg5z3ncp.rest
 0.0.0.0 boa-0918-verify-login-2014.icrb.cl
 0.0.0.0 boa-a.duckdns.org
 0.0.0.0 boa-idsecureusa.duckdns.org
@@ -115667,6 +115721,7 @@
 0.0.0.0 bonjoro.com
 0.0.0.0 bonjourcadeaux.duckdns.org
 0.0.0.0 bonjourmarket.shop
+0.0.0.0 bonjoursizers.cyou
 0.0.0.0 bonkedpungled.cyou
 0.0.0.0 bonkeroni.duckdns.org
 0.0.0.0 bonkingrefrain.qpon
@@ -116841,6 +116896,7 @@
 0.0.0.0 bouygues-care.inq.com
 0.0.0.0 bouzechoby.net
 0.0.0.0 bovada.lv
+0.0.0.0 bovadacasino.io
 0.0.0.0 bovatech.cc
 0.0.0.0 bovee.duckdns.org
 0.0.0.0 bovetewa.com
@@ -117182,6 +117238,7 @@
 0.0.0.0 bpjdwdjlkz.duckdns.org
 0.0.0.0 bpjft.abathhouse.com
 0.0.0.0 bpjgvv.icu
+0.0.0.0 bpjqdogqeiesv.website
 0.0.0.0 bpkeydnjfxnlr.site
 0.0.0.0 bpknadejpk.duckdns.org
 0.0.0.0 bpksbd.org
@@ -117547,6 +117604,7 @@
 0.0.0.0 brackenads.com
 0.0.0.0 bracketauthorizedportray.com
 0.0.0.0 brackhome.duckdns.org
+0.0.0.0 braconamphion.click
 0.0.0.0 bractivacar.eccocar.com
 0.0.0.0 bradachat.com
 0.0.0.0 bradaffleck.duckdns.org
@@ -118910,6 +118968,7 @@
 0.0.0.0 brjbzbxbcqjb.com
 0.0.0.0 brjhzmubffzja.site
 0.0.0.0 brjjkd.calzedonia.com
+0.0.0.0 brjlaiuuvrxxl.online
 0.0.0.0 brjmzj.niceioi.com.tw
 0.0.0.0 brjsrwaco.watchdogdns.duckdns.org
 0.0.0.0 brjycsvgpo.bid
@@ -119074,6 +119133,7 @@
 0.0.0.0 broigneakra.com
 0.0.0.0 broilercymritealezan.cfd
 0.0.0.0 broilerreflets.cfd
+0.0.0.0 broilerroseous.click
 0.0.0.0 broilspoons.shop
 0.0.0.0 broimg.net
 0.0.0.0 broin.ucweb.com
@@ -119105,6 +119165,7 @@
 0.0.0.0 broker.video-v2.fyber.com
 0.0.0.0 broker.xshield.ioitlab.info.ledars.orgwww.sts.detmer.duckdns.org
 0.0.0.0 brokerbabe.com
+0.0.0.0 brokerok.org
 0.0.0.0 brokertraffic.com
 0.0.0.0 brokking.fr
 0.0.0.0 broklam.com
@@ -119607,6 +119668,7 @@
 0.0.0.0 bryant.qualtrics.com
 0.0.0.0 bryanthassio.duckdns.org
 0.0.0.0 bryantroch.duckdns.org
+0.0.0.0 bryanyippie.com
 0.0.0.0 bryc33b1.duckdns.org
 0.0.0.0 brycecivvy.shop
 0.0.0.0 brycemas.duckdns.org
@@ -122194,6 +122256,7 @@
 0.0.0.0 bulletin-d.openx.net
 0.0.0.0 bulletin.nebula.zyxel.com
 0.0.0.0 bulletinmoonoral.com
+0.0.0.0 bulletinshr.com
 0.0.0.0 bulletinsituatedelectronics.com
 0.0.0.0 bulletinunderpantsauthoritative.com
 0.0.0.0 bulletprofit.com
@@ -122682,6 +122745,7 @@
 0.0.0.0 business-pages.edfenergy.com
 0.0.0.0 business-panorama.de.intellitxt.com
 0.0.0.0 business-school-online-xst.sbs
+0.0.0.0 business-support-partner.com
 0.0.0.0 business.92wy.com
 0.0.0.0 business.bang.360.cn
 0.0.0.0 business.cleverads.vn
@@ -123868,6 +123932,7 @@
 0.0.0.0 bxoiaheslgsqi.online
 0.0.0.0 bxoixzbtllwx.com
 0.0.0.0 bxolifojkkbue.space
+0.0.0.0 bxozlgmmqvvvb.site
 0.0.0.0 bxpbwitpgbid.bid
 0.0.0.0 bxpdividez.duckdns.org
 0.0.0.0 bxpkig.automatisme-online.fr
@@ -126169,6 +126234,7 @@
 0.0.0.0 cadmus.script.ac
 0.0.0.0 cadnegad.duckdns.org
 0.0.0.0 cadorago.duckdns.org
+0.0.0.0 cadorath.com
 0.0.0.0 cadreon.co.uk
 0.0.0.0 cadreon.com
 0.0.0.0 cadreon.jp
@@ -126682,6 +126748,7 @@
 0.0.0.0 californiapsychicstracksdk.optimove.net
 0.0.0.0 californiastateparks.com
 0.0.0.0 californiatimes.com
+0.0.0.0 caliginous.shop
 0.0.0.0 caligula.pro
 0.0.0.0 calimbra.duckdns.org
 0.0.0.0 calimdiamondgratis-freefire.duckdns.org
@@ -127049,7 +127116,6 @@
 0.0.0.0 cambridge.eu.qualtrics.com
 0.0.0.0 cambridge.qualtrics.com
 0.0.0.0 cambridgeadvance.qualtrics.com
-0.0.0.0 cambridgecinemas.com
 0.0.0.0 cambridgecollege.evergage.com
 0.0.0.0 cambridgetripod.co1.qualtrics.com
 0.0.0.0 cambs.eu
@@ -128579,7 +128645,6 @@
 0.0.0.0 capquqhuiazl.com
 0.0.0.0 caprewards.go2cloud.org
 0.0.0.0 capriceawelessaweless.com
-0.0.0.0 capricecapitalpartners.com
 0.0.0.0 capriceprop.com
 0.0.0.0 capricetheme.com
 0.0.0.0 capricious-chosen.com
@@ -131669,6 +131734,7 @@
 0.0.0.0 casinonewsdesk.us
 0.0.0.0 casinoniagara.com
 0.0.0.0 casinonic.com
+0.0.0.0 casinonic.io
 0.0.0.0 casinonieuws.nl
 0.0.0.0 casinonight.com
 0.0.0.0 casinonodeposit.ru
@@ -132339,6 +132405,7 @@
 0.0.0.0 castrohome.duckdns.org
 0.0.0.0 casual-flirt-hub1.com
 0.0.0.0 casual-sweetsite.com
+0.0.0.0 casualcitrus.biz
 0.0.0.0 casualdating.com
 0.0.0.0 casualgamingbrands.evyy.net
 0.0.0.0 casualnetworksbv.com
@@ -132365,6 +132432,7 @@
 0.0.0.0 cat-casino-qsq.top
 0.0.0.0 cat-casino-veb.top
 0.0.0.0 cat-casino-vlp.top
+0.0.0.0 cat-casinoz8.top
 0.0.0.0 cat-kasino-one2.top
 0.0.0.0 cat-kasino-play2.top
 0.0.0.0 cat.beunitedinchrist.com
@@ -137117,6 +137185,7 @@
 0.0.0.0 centrumcz.hit.gemius.pl
 0.0.0.0 centrummedycyny.pl
 0.0.0.0 centrummilosci.pl
+0.0.0.0 centrumorientacji.pl
 0.0.0.0 centrumplay.pl
 0.0.0.0 centrumzdrowotne.pl
 0.0.0.0 centrunwas.store
@@ -137154,6 +137223,7 @@
 0.0.0.0 ceostars.com
 0.0.0.0 ceoutcomes.qualtrics.com
 0.0.0.0 ceowyn.eseltree.com
+0.0.0.0 ceoxl3115ih9j1p4kg39.cfd
 0.0.0.0 cep-tunisie.com
 0.0.0.0 cep.co1.qualtrics.com
 0.0.0.0 cep.us.qualtrics.com
@@ -138596,6 +138666,7 @@
 0.0.0.0 charming-ager.base44.app
 0.0.0.0 charming-ardinghelli.whyvas.duckdns.org
 0.0.0.0 charming-fly.pro
+0.0.0.0 charmingarea.com
 0.0.0.0 charmingcharlie.qgr.ph
 0.0.0.0 charmingdatess.com
 0.0.0.0 charminghassio.duckdns.org
@@ -139119,6 +139190,7 @@
 0.0.0.0 chatmilkprude.casa
 0.0.0.0 chatnetexclusivo.digital
 0.0.0.0 chatnewscgrup.duckdns.org
+0.0.0.0 chatnplay.in
 0.0.0.0 chatntr.com
 0.0.0.0 chatonline01.duckdns.org
 0.0.0.0 chatonsdebat.com
@@ -139788,6 +139860,7 @@
 0.0.0.0 cherriesprospectsfaith.com
 0.0.0.0 cherriesstoneridge.com
 0.0.0.0 cherriestruck.space
+0.0.0.0 cherry-jackpot-casino.com
 0.0.0.0 cherry-lips.com
 0.0.0.0 cherry.boxburning.com
 0.0.0.0 cherry.flipboard.com
@@ -141176,6 +141249,7 @@
 0.0.0.0 chzowqzedjocl.space
 0.0.0.0 chzpylwezk.duckdns.org
 0.0.0.0 chzsoanugb.duckdns.org
+0.0.0.0 chzukqyxheldq.website
 0.0.0.0 chzzjbwike.duckdns.org
 0.0.0.0 ci-admin.iovation.com
 0.0.0.0 ci-com.edgekey.login.net.easyjet.com
@@ -141837,6 +141911,7 @@
 0.0.0.0 cisco.co1.qualtrics.com
 0.0.0.0 cisco.cust.clickability.com
 0.0.0.0 cisco.sc.omtrdc.net
+0.0.0.0 ciscocems.com
 0.0.0.0 ciscocloudsecuritycs.qualtrics.com
 0.0.0.0 ciscocx.qualtrics.com
 0.0.0.0 ciscoengineering.co1.qualtrics.com
@@ -141868,6 +141943,7 @@
 0.0.0.0 cissyhymner.cfd
 0.0.0.0 cistcrrhqfm.bid
 0.0.0.0 cistronawn.qpon
+0.0.0.0 cistronboatly.qpon
 0.0.0.0 cistusbram.website
 0.0.0.0 cistusetnean.com
 0.0.0.0 cistycsoyceif.download
@@ -142310,6 +142386,7 @@
 0.0.0.0 cja0m4iew.com
 0.0.0.0 cja59uk.duckdns.org
 0.0.0.0 cjaffiliate.net
+0.0.0.0 cjakqrpjmodet.online
 0.0.0.0 cjatrtlyqngiv.site
 0.0.0.0 cjauuixzgxggrh.com
 0.0.0.0 cjb6nr5csu.com
@@ -144021,6 +144098,7 @@
 0.0.0.0 clerolacil.store
 0.0.0.0 clerrrep.com
 0.0.0.0 clerumperes.com
+0.0.0.0 clerusotiose.click
 0.0.0.0 cles-nz.duckdns.org
 0.0.0.0 clesor.uoecollection.com
 0.0.0.0 cletkgeeyjqsu.space
@@ -145477,6 +145555,7 @@
 0.0.0.0 clinicaimplantologica3d.com
 0.0.0.0 clinical.questdiagnostics.com
 0.0.0.0 clinicalresearch.co1.qualtrics.com
+0.0.0.0 clinicaromero.com
 0.0.0.0 clinicasense.com
 0.0.0.0 cliniclicks.com
 0.0.0.0 clinicresponse.com
@@ -145969,6 +146048,8 @@
 0.0.0.0 clothrestedbroadsheet.com
 0.0.0.0 clothsense.com
 0.0.0.0 clottingsuoxiz.download
+0.0.0.0 cloubflare.net
+0.0.0.0 cloubflare.top
 0.0.0.0 cloud-9.duckdns.org
 0.0.0.0 cloud-asari.duckdns.org
 0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
@@ -146723,6 +146804,7 @@
 0.0.0.0 cloudtransfer.store
 0.0.0.0 cloudtransfers-logsecure89.duckdns.org
 0.0.0.0 cloudulinici.duckdns.org
+0.0.0.0 cloudupnext.com
 0.0.0.0 cloudvideosa.com
 0.0.0.0 cloudvpn.360.cn
 0.0.0.0 cloudvpn1.duckdns.org
@@ -147430,6 +147512,7 @@
 0.0.0.0 cmmeglobal.com
 0.0.0.0 cmmqmezg.goodlabs.com
 0.0.0.0 cmmqq.modgents.com
+0.0.0.0 cmmrlbbmvxrky.website
 0.0.0.0 cmmugifxhmlbv.space
 0.0.0.0 cmmwpkihpyefy.website
 0.0.0.0 cmmyibqwit.duckdns.org
@@ -147875,6 +147958,7 @@
 0.0.0.0 cnect.heggerty.org
 0.0.0.0 cnednakpsf.duckdns.org
 0.0.0.0 cnejpkmvsjvft.com
+0.0.0.0 cnemishippen.com
 0.0.0.0 cnemtbn.duckdns.org
 0.0.0.0 cnesnnavxumlh.online
 0.0.0.0 cnet.us.intellitxt.com
@@ -148307,6 +148391,7 @@
 0.0.0.0 coaqhbgliewbm.space
 0.0.0.0 coarcteuclase.com
 0.0.0.0 coarse-care.com
+0.0.0.0 coarse-double.pro
 0.0.0.0 coarse-master.pro
 0.0.0.0 coarse-you.pro
 0.0.0.0 coarse.dchalsvik.duckdns.org
@@ -148344,6 +148429,7 @@
 0.0.0.0 coawoaph.net
 0.0.0.0 coax88.duckdns.org
 0.0.0.0 coaxedmastkilobar.qpon
+0.0.0.0 coaxermanism.cfd
 0.0.0.0 coaxfoster.com
 0.0.0.0 coazdbbxocvgi.site
 0.0.0.0 coazoveekjecr.space
@@ -149559,6 +149645,7 @@
 0.0.0.0 cofflehexapla.com
 0.0.0.0 coffretuncall.shop
 0.0.0.0 cofgwqfwefzrl.site
+0.0.0.0 cofhfk9ffwgvm2oxci6l11i9gl.rest
 0.0.0.0 cofinopoc.qualtrics.com
 0.0.0.0 cofmande.widget.criteo.com
 0.0.0.0 cofoqtywft.duckdns.org
@@ -151134,6 +151221,7 @@
 0.0.0.0 coloredsecretlydia.com
 0.0.0.0 coloreroom.com
 0.0.0.0 colorfilter.duckdns.org
+0.0.0.0 colorfilter.net
 0.0.0.0 colorfoto.digidip.net
 0.0.0.0 colorful-director.pro
 0.0.0.0 colorfulafterthought.com
@@ -151456,7 +151544,6 @@
 0.0.0.0 comentguillaume.duckdns.org
 0.0.0.0 comeon.com
 0.0.0.0 comeon.nl
-0.0.0.0 comeoncasino.io
 0.0.0.0 comeonwetten.de
 0.0.0.0 comercial.multipublicacoes.pt
 0.0.0.0 comercialhidalgo.com
@@ -151518,6 +151605,7 @@
 0.0.0.0 comicgot.cfd
 0.0.0.0 comicnewspaper.com
 0.0.0.0 comicplanet.net
+0.0.0.0 comicplaycasino.net
 0.0.0.0 comics.chloe39.duckdns.org
 0.0.0.0 comics.esilver.duckdns.org
 0.0.0.0 comics.ign.us.intellitxt.com
@@ -154585,6 +154673,7 @@
 0.0.0.0 conventional-nurse.pro
 0.0.0.0 conventionalcohere.com
 0.0.0.0 conventionalkiller.com
+0.0.0.0 conventionalresponse.com
 0.0.0.0 conventioncavern.com
 0.0.0.0 conventionchimney.com
 0.0.0.0 conventionforgetful.com
@@ -155300,6 +155389,7 @@
 0.0.0.0 copperegg.com
 0.0.0.0 copperfin.ca.102.112.2o7.net
 0.0.0.0 copperglade.live
+0.0.0.0 copperliving-jp.com
 0.0.0.0 coppermaplegrove.top
 0.0.0.0 coppernotestable.bond
 0.0.0.0 copperstills.net
@@ -155904,6 +155994,7 @@
 0.0.0.0 corppop.shop
 0.0.0.0 corps.duckdns.org
 0.0.0.0 corpsenoodleflakes.com
+0.0.0.0 corpsesbuchloe.cfd
 0.0.0.0 corpsite.owneriq.com
 0.0.0.0 corpulentperjury.com
 0.0.0.0 corpus-naturals.pxf.io
@@ -156258,6 +156349,7 @@
 0.0.0.0 cottonet.duckdns.org
 0.0.0.0 cottonmouthsapele.shop
 0.0.0.0 cottrelhommockpiperno.cfd
+0.0.0.0 cotttortor.cyou
 0.0.0.0 coturn.doofentruppe.duckdns.org
 0.0.0.0 coturn.irisson.duckdns.org
 0.0.0.0 cotweet.exacttarget.com
@@ -170222,6 +170314,7 @@
 0.0.0.0 crazyprotocol.com
 0.0.0.0 crazyrocket.io
 0.0.0.0 crazyshit.com
+0.0.0.0 crazystarcasino.org
 0.0.0.0 crazythings.duckdns.org
 0.0.0.0 crazythreetannery.chttpwordpress.xn--94q462e06ujb.duckdns.org
 0.0.0.0 crazyvideosempire.com
@@ -170634,7 +170727,6 @@
 0.0.0.0 creditomagazine.es
 0.0.0.0 crediton.go2affise.com
 0.0.0.0 creditorapido.xyz
-0.0.0.0 creditoserasa.online
 0.0.0.0 creditperformance.com.br
 0.0.0.0 creditreform.de
 0.0.0.0 creditron.org
@@ -171347,6 +171439,7 @@
 0.0.0.0 crostol.com
 0.0.0.0 crot.bohai.hotcrot-com.duckdns.org
 0.0.0.0 crot.bokepnew-com.duckdns.org
+0.0.0.0 crotaltendrac.com
 0.0.0.0 crotinegoists.cfd
 0.0.0.0 crottaldrudged.com
 0.0.0.0 crottlerennin.com
@@ -173418,7 +173511,6 @@
 0.0.0.0 cuckoosad.com
 0.0.0.0 cuckootomb.com
 0.0.0.0 cucmpwopsg.duckdns.org
-0.0.0.0 cucnf.top
 0.0.0.0 cucoha.duckdns.org
 0.0.0.0 cucomxmcud.com
 0.0.0.0 cucuakciklanamazon.duckdns.org
@@ -173586,6 +173678,7 @@
 0.0.0.0 cuisineenvoyadvertise.com
 0.0.0.0 cuisineinnovex.com
 0.0.0.0 cuisinevoyager.com
+0.0.0.0 cuissenwardage.rest
 0.0.0.0 cuivordvonnsy.site
 0.0.0.0 cuixawlrvm.duckdns.org
 0.0.0.0 cuizgelbtbdft.site
@@ -173838,6 +173931,7 @@
 0.0.0.0 cuppycg.shop
 0.0.0.0 cupqkf.laimprentacg.com
 0.0.0.0 cupra.euroshop.com.pe
+0.0.0.0 cuprenecanvas.cfd
 0.0.0.0 cupricclumbers.com
 0.0.0.0 cupriteaffile.qpon
 0.0.0.0 cuprumbenet.com
@@ -173854,6 +173948,7 @@
 0.0.0.0 cupsflatly.com
 0.0.0.0 cupsligase.qpon
 0.0.0.0 cupsoamsephuk.net
+0.0.0.0 cupulesdaur.rest
 0.0.0.0 cupuqvmuvx.duckdns.org
 0.0.0.0 cupyes.shop
 0.0.0.0 cupzwcxgx.com
@@ -174393,6 +174488,7 @@
 0.0.0.0 cuttingedgeinfo.co1.qualtrics.com
 0.0.0.0 cuttlefly.com
 0.0.0.0 cuttooscete.com
+0.0.0.0 cuttoosgringos.cyou
 0.0.0.0 cuttuberaxis.com
 0.0.0.0 cutty.etricky.duckdns.org
 0.0.0.0 cuttytktplrlsi.com
@@ -175107,6 +175203,7 @@
 0.0.0.0 cxjrsb.com
 0.0.0.0 cxjtsybhvpsfl.space
 0.0.0.0 cxjuqd.floriosport.it
+0.0.0.0 cxkgykxlbavds.space
 0.0.0.0 cxkivjsorpburb.com
 0.0.0.0 cxkllhjrrpjp.bid
 0.0.0.0 cxkmmqqdacsqa.website
@@ -180142,6 +180239,7 @@
 0.0.0.0 dapuxh.icu
 0.0.0.0 dapvmnnttetuu.bid
 0.0.0.0 dapxl.com
+0.0.0.0 dapxugkmfcdds.website
 0.0.0.0 dapzdbosic.duckdns.org
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 daqdksam.bid
@@ -187973,6 +188071,7 @@
 0.0.0.0 dbs.transunionbt.db.advertising.com
 0.0.0.0 dbs.transuniongeo.db.advertising.com
 0.0.0.0 dbs.zipcar.db.advertising.com
+0.0.0.0 dbsa-charlotte.org
 0.0.0.0 dbsaysnba4ygmwav.algomoneo.com
 0.0.0.0 dbsbankcdt.qualtrics.com
 0.0.0.0 dbsc.divebarshirtclub.com
@@ -188015,6 +188114,7 @@
 0.0.0.0 dbvzgy.yomiuri-ryokou.co.jp
 0.0.0.0 dbw7j2q14is6l.cloudfront.net
 0.0.0.0 dbwawnzkjniz.com
+0.0.0.0 dbwnavacspyxc.space
 0.0.0.0 dbwnsyvtpc.duckdns.org
 0.0.0.0 dbwohmscsgkhvz.bid
 0.0.0.0 dbwsqa.blackyak.com
@@ -188542,6 +188642,7 @@
 0.0.0.0 dcunkpgzsysvg.website
 0.0.0.0 dcusciencehealth.qualtrics.com
 0.0.0.0 dcuteioffw.duckdns.org
+0.0.0.0 dcuyufdhlfhza.online
 0.0.0.0 dcv4p460uqa46.cloudfront.net
 0.0.0.0 dcvaxrdmdovrsgh.com
 0.0.0.0 dcviawest.qualtrics.com
@@ -189265,7 +189366,6 @@
 0.0.0.0 deasonburrow.duckdns.org
 0.0.0.0 deathaddict.com
 0.0.0.0 deathautosailing.com
-0.0.0.0 deathboundcraft.com
 0.0.0.0 deathdetectives.com
 0.0.0.0 deathereclother.info
 0.0.0.0 deathfriend.com
@@ -189767,6 +189867,7 @@
 0.0.0.0 deepcloudfield.com
 0.0.0.0 deepcom.com
 0.0.0.0 deepcrawl.actonservice.com
+0.0.0.0 deepcutcollections.com
 0.0.0.0 deepdiscount.evergage.com
 0.0.0.0 deepdive.exponential.com
 0.0.0.0 deepdive.zum.com
@@ -191492,6 +191593,7 @@
 0.0.0.0 deploygate.com
 0.0.0.0 deployinput.com
 0.0.0.0 deployments.maxmind.com
+0.0.0.0 deployskind.com
 0.0.0.0 deployteq-test.net
 0.0.0.0 deployteq.net
 0.0.0.0 deploytransportswap.com
@@ -191869,6 +191971,7 @@
 0.0.0.0 desipearl.com
 0.0.0.0 desire-xx.net
 0.0.0.0 desire.ae
+0.0.0.0 desireblueuniforms.com
 0.0.0.0 desirebucket.com
 0.0.0.0 desiredhighest.com
 0.0.0.0 desiredirt.com
@@ -193499,6 +193602,7 @@
 0.0.0.0 dgunkfewyy.duckdns.org
 0.0.0.0 dguqe.outdoornativitysets.com
 0.0.0.0 dgutbbs.com
+0.0.0.0 dguveltqwkzyg.online
 0.0.0.0 dguvjpegbqawv.online
 0.0.0.0 dgv9dq.thepitch-lab.com
 0.0.0.0 dgvbcr.martinellipesca.com.br
@@ -193841,6 +193945,7 @@
 0.0.0.0 dhzao.moderncitizen.com
 0.0.0.0 dhzmxkoq.bid
 0.0.0.0 dhzppdhjiz.duckdns.org
+0.0.0.0 dhzpxeelmcuae.website
 0.0.0.0 di-ana.jp
 0.0.0.0 di-banner-se.c.richmetrics.com
 0.0.0.0 di-capt.com
@@ -193919,6 +194024,7 @@
 0.0.0.0 diagnosyswiki.duckdns.org
 0.0.0.0 diagob4.duckdns.org
 0.0.0.0 diagram-shape.com
+0.0.0.0 diagramgrog.cyou
 0.0.0.0 diagramjawlineunhappy.com
 0.0.0.0 diagramwrangleupdate.com
 0.0.0.0 diagvirus.vk.com
@@ -194151,6 +194257,7 @@
 0.0.0.0 dibbedschizosmarinal.cfd
 0.0.0.0 dibbidav.duckdns.org
 0.0.0.0 dibbledbest.com
+0.0.0.0 dibblesrabbishsergei.cyou
 0.0.0.0 dibjaahejdaeejhhaacd.ru
 0.0.0.0 dibjfvpsbo.duckdns.org
 0.0.0.0 dibmarketing.go2cloud.org
@@ -194860,6 +194967,7 @@
 0.0.0.0 digixml.com
 0.0.0.0 diglib.duckdns.org
 0.0.0.0 digndktleg.duckdns.org
+0.0.0.0 dignecashews.com
 0.0.0.0 dignidad.duckdns.org
 0.0.0.0 dignishub.digital
 0.0.0.0 dignispeak.digital
@@ -195367,6 +195475,7 @@
 0.0.0.0 dinxkqucszaza.space
 0.0.0.0 dinyamyanmar.com
 0.0.0.0 dinzfafad.in
+0.0.0.0 dinzzqoitqmeo.online
 0.0.0.0 dio.admicro.vn
 0.0.0.0 dio45rus.duckdns.org
 0.0.0.0 dioaueqgulrdm.site
@@ -197284,6 +197393,7 @@
 0.0.0.0 dkrhass.duckdns.org
 0.0.0.0 dkrhrl.hamstyle.co.kr
 0.0.0.0 dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
+0.0.0.0 dkrlnbfvypglb.site
 0.0.0.0 dkroiss.duckdns.org
 0.0.0.0 dkron.duckdns.org
 0.0.0.0 dkroonzvxvansw.com
@@ -197326,6 +197436,7 @@
 0.0.0.0 dkwxvzggbg.duckdns.org
 0.0.0.0 dkxeorhjmua.com
 0.0.0.0 dkxiaekbto.duckdns.org
+0.0.0.0 dkxqafejvrfai.website
 0.0.0.0 dkxtzubbtmzie.space
 0.0.0.0 dkxutggyyyajh.website
 0.0.0.0 dkxwceilgn.duckdns.org
@@ -197920,6 +198031,7 @@
 0.0.0.0 dmdb904.rmd.admob.com
 0.0.0.0 dmdcpvgu.com
 0.0.0.0 dmdcstsyv3.com
+0.0.0.0 dmddzmkytvw.com
 0.0.0.0 dmdgdu.atmosphera.com
 0.0.0.0 dmdi.pl
 0.0.0.0 dmdj655uxuj8f.cloudfront.net
@@ -198636,6 +198748,7 @@
 0.0.0.0 dnsoit.staging.dnsovh.duckdns.org
 0.0.0.0 dnsovh.duckdns.org
 0.0.0.0 dnsovh2.duckdns.org
+0.0.0.0 dnsperfect.net
 0.0.0.0 dnspref.com
 0.0.0.0 dnsprotector.net
 0.0.0.0 dnsqqdordvpv.com
@@ -198869,6 +198982,7 @@
 0.0.0.0 docileshockszulus.qpon
 0.0.0.0 docimg.immanens.com
 0.0.0.0 docj27ko03fnu.cloudfront.net
+0.0.0.0 dock-sync.com
 0.0.0.0 dock.inmobi.com
 0.0.0.0 dock.raidhome.duckdns.org
 0.0.0.0 dockdigestion.com
@@ -199506,6 +199620,7 @@
 0.0.0.0 dojerena.com
 0.0.0.0 dojiner.at
 0.0.0.0 dojmlztmbrvp.com
+0.0.0.0 dojmyftcqwcjx.space
 0.0.0.0 dojo.phluant.com
 0.0.0.0 dojoge.duckdns.org
 0.0.0.0 dojomojo.com
@@ -200462,7 +200577,7 @@
 0.0.0.0 donutclients.net
 0.0.0.0 donutclients.org
 0.0.0.0 donutclients.st
-0.0.0.0 donutclientsmods.xyz
+0.0.0.0 donutclients.top
 0.0.0.0 donutdupe.com
 0.0.0.0 donuthome.duckdns.org
 0.0.0.0 donutiot.duckdns.org
@@ -200806,6 +200921,7 @@
 0.0.0.0 dotcom-monitor.com
 0.0.0.0 dotcom10.info
 0.0.0.0 dotcommedia.de
+0.0.0.0 dotcompanyinfo.com
 0.0.0.0 dotcomsecrets.com
 0.0.0.0 dotcounter.douyucdn.cn
 0.0.0.0 dotcounter.douyutv.com
@@ -200885,6 +201001,7 @@
 0.0.0.0 double-take.tkdrob456.duckdns.org
 0.0.0.0 double.net
 0.0.0.0 double05.duckdns.org
+0.0.0.0 doubleacingawheel.cyou
 0.0.0.0 doubleadserve.com
 0.0.0.0 doubleappmedia.g2afse.com
 0.0.0.0 doubleb.duckdns.org
@@ -201074,6 +201191,7 @@
 0.0.0.0 dove.hoku.nz
 0.0.0.0 dove.prod.saymedia.com
 0.0.0.0 dove.saymedia.com
+0.0.0.0 dovecasino.net
 0.0.0.0 dovecyton.com
 0.0.0.0 doveletasmearbotts.cfd
 0.0.0.0 doveletdupped.com
@@ -201866,7 +201984,6 @@
 0.0.0.0 dqkeldpjzq.bid
 0.0.0.0 dqkmczuxtr.duckdns.org
 0.0.0.0 dqkzfutteq.duckdns.org
-0.0.0.0 dqlb.best
 0.0.0.0 dqlcgelw.com
 0.0.0.0 dqldmtpu.com
 0.0.0.0 dqllcudcas.duckdns.org
@@ -202847,6 +202964,7 @@
 0.0.0.0 dropboxfingerprintjs.com
 0.0.0.0 dropbucket.duckdns.org
 0.0.0.0 dropdeadgems.org
+0.0.0.0 dropdeckx.com
 0.0.0.0 dropfastpath.click
 0.0.0.0 dropjes.duckdns.org
 0.0.0.0 dropkick.oewabox.at
@@ -203489,6 +203607,7 @@
 0.0.0.0 dsidas.com
 0.0.0.0 dsie7h4lo9wxu.cloudfront.net
 0.0.0.0 dsifi.toms.com
+0.0.0.0 dsifphfbfeazr.space
 0.0.0.0 dsignpost.com
 0.0.0.0 dsiill.com
 0.0.0.0 dsikyf.com
@@ -204882,6 +205001,7 @@
 0.0.0.0 dueliqbhkp.duckdns.org
 0.0.0.0 duelle.duckdns.org
 0.0.0.0 duellosheliced.com
+0.0.0.0 duelz-casino.org
 0.0.0.0 duelz.com
 0.0.0.0 duelzcasino.net
 0.0.0.0 duemineral.uk
@@ -208020,6 +208140,7 @@
 0.0.0.0 eagerangle.com
 0.0.0.0 eagerbrass.com
 0.0.0.0 eagercandy.com
+0.0.0.0 eagerdish.org
 0.0.0.0 eagerfigure.com
 0.0.0.0 eagerflame.com
 0.0.0.0 eagerknight.com
@@ -208996,7 +209117,6 @@
 0.0.0.0 ebnfsjxs.bid
 0.0.0.0 ebnhmcjygr.duckdns.org
 0.0.0.0 ebnjzrklyp.duckdns.org
-0.0.0.0 ebnnw.help
 0.0.0.0 ebnoopgnesnmw.com
 0.0.0.0 ebnpqi.carrefourlocation.fr
 0.0.0.0 eboaopyeeuqnc.xyz
@@ -211320,6 +211440,7 @@
 0.0.0.0 efortiessdate.net
 0.0.0.0 eforu.com
 0.0.0.0 efotdwuui.bid
+0.0.0.0 efpaprrpjzzao.website
 0.0.0.0 efpark.ru
 0.0.0.0 efpdkrgrluqec.store
 0.0.0.0 efpe.duckdns.org
@@ -211530,6 +211651,7 @@
 0.0.0.0 egitqmdbccuih.space
 0.0.0.0 egitrvakirnttp.com
 0.0.0.0 egj0hh.malachistewartsimplestore.com
+0.0.0.0 egjnfdemvnbsr.online
 0.0.0.0 egjquejrzv.duckdns.org
 0.0.0.0 egjrhjuisa.duckdns.org
 0.0.0.0 egjyqfidcsfw.com
@@ -212671,6 +212793,7 @@
 0.0.0.0 ekipaforex.pl
 0.0.0.0 ekiserver.duckdns.org
 0.0.0.0 ekitecnmve.duckdns.org
+0.0.0.0 ekivqiqnzv.com
 0.0.0.0 ekiya.kirchberger-metall.de
 0.0.0.0 ekiytcllwboe.com
 0.0.0.0 ekjjomwsbg.duckdns.org
@@ -212769,6 +212892,7 @@
 0.0.0.0 ekubo-dex.com
 0.0.0.0 ekuhv.wearpepper.com
 0.0.0.0 ekulavabuf.com
+0.0.0.0 ekumzqgyixjqj.space
 0.0.0.0 ekuot.co1.qualtrics.com
 0.0.0.0 ekurgxhwtesjp.website
 0.0.0.0 ekuroekuro.duckdns.org
@@ -214011,8 +214135,8 @@
 0.0.0.0 elrhandouri.duckdns.org
 0.0.0.0 elrichard88.duckdns.org
 0.0.0.0 elrkcjuroiisy.space
-0.0.0.0 elrneba.com
 0.0.0.0 elrogue.duckdns.org
+0.0.0.0 elroyale-casino.com
 0.0.0.0 elroyalecasino.com
 0.0.0.0 elrpkbkblc.duckdns.org
 0.0.0.0 elrpklslps.duckdns.org
@@ -215089,6 +215213,7 @@
 0.0.0.0 emeritiillano.com
 0.0.0.0 emeritussurveys.iad1.qualtrics.com
 0.0.0.0 emerizeculler.com
+0.0.0.0 emerodfurmity.click
 0.0.0.0 emeroidcaufle.com
 0.0.0.0 emerse.com
 0.0.0.0 emersedlance.qpon
@@ -215955,6 +216080,7 @@
 0.0.0.0 energycasino.com
 0.0.0.0 energycasino71.com
 0.0.0.0 energycasino72.com
+0.0.0.0 energycasinos.io
 0.0.0.0 energycasinos.net
 0.0.0.0 energycasinos.org
 0.0.0.0 energyfixgroup.com
@@ -218052,6 +218178,7 @@
 0.0.0.0 equipbid.evergage.com
 0.0.0.0 equipepro1.duckdns.org
 0.0.0.0 equipmentrailway.com
+0.0.0.0 equipnet.com
 0.0.0.0 equipool.1ds.us
 0.0.0.0 equippo.actonservice.com
 0.0.0.0 equipsbaratte.cyou
@@ -218334,6 +218461,7 @@
 0.0.0.0 erieger.duckdns.org
 0.0.0.0 erieville-asw.duckdns.org
 0.0.0.0 erificyggw.com
+0.0.0.0 erify-blox.link
 0.0.0.0 erihj.com
 0.0.0.0 eriivuhtfs.duckdns.org
 0.0.0.0 erik84.duckdns.org
@@ -220994,6 +221122,7 @@
 0.0.0.0 evaporator558.site
 0.0.0.0 evar2.com
 0.0.0.0 evar7.d1.sc.omtrdc.net
+0.0.0.0 evasedebteefardage.cfd
 0.0.0.0 evasemayfowl.cfd
 0.0.0.0 evasiondemandedlearning.com
 0.0.0.0 evasiuywadnox.space
@@ -221446,6 +221575,7 @@
 0.0.0.0 event-higgs-domino.duckdns.org
 0.0.0.0 event-icon-pes-mobile.duckdns.org
 0.0.0.0 event-indo-free89.duckdns.org
+0.0.0.0 event-ingestion.yazio-analytics.com
 0.0.0.0 event-item-ff-gratis.duckdns.org
 0.0.0.0 event-jesnolimit-gratis.duckdns.org
 0.0.0.0 event-klaim-gratis-856.duckdns.org
@@ -222933,6 +223063,7 @@
 0.0.0.0 evolv.ai
 0.0.0.0 evolveadagency.com
 0.0.0.0 evolvecasinoworld.com
+0.0.0.0 evolvecontruction.com
 0.0.0.0 evolvedsleep.com
 0.0.0.0 evolveip.evergage.com
 0.0.0.0 evolvemedia-d.openx.net
@@ -223692,7 +223823,6 @@
 0.0.0.0 exean.duckdns.org
 0.0.0.0 exebasusion.org
 0.0.0.0 exebflkszf.duckdns.org
-0.0.0.0 exec-roblox.com
 0.0.0.0 exec-roblox.info
 0.0.0.0 execbeggar.com
 0.0.0.0 execgroup.convio.com
@@ -223939,7 +224069,6 @@
 0.0.0.0 exodus-wallet.pro
 0.0.0.0 exodus-wallets.io
 0.0.0.0 exodus.com.ag
-0.0.0.0 exoduscard.sbs
 0.0.0.0 exodusesnkkvycngt.download
 0.0.0.0 exodusjailhousetarantula.com
 0.0.0.0 exodustrading-ai.com
@@ -224527,6 +224656,7 @@
 0.0.0.0 extrasmallpin.pro
 0.0.0.0 extrasmallratio.pro
 0.0.0.0 extrausers.com
+0.0.0.0 extravegascasino.com
 0.0.0.0 extravpn.info
 0.0.0.0 extrawatch.com
 0.0.0.0 extreembilisim.com
@@ -226367,6 +226497,7 @@
 0.0.0.0 fairfield.iad1.qualtrics.com
 0.0.0.0 fairfunction.pro
 0.0.0.0 fairgo-casino-aus.co
+0.0.0.0 fairgo-casino.io
 0.0.0.0 fairgocasino.com
 0.0.0.0 fairhash.org
 0.0.0.0 fairhole.com
@@ -226769,7 +226900,6 @@
 0.0.0.0 family.dowden.duckdns.org
 0.0.0.0 family1st.ca
 0.0.0.0 familyabroad.net
-0.0.0.0 familyaddons.org
 0.0.0.0 familybairet.duckdns.org
 0.0.0.0 familyborn.com
 0.0.0.0 familybox.xyz
@@ -226937,6 +227067,7 @@
 0.0.0.0 fanfootflue.shop
 0.0.0.0 fanforus.com
 0.0.0.0 fanfuelus.info
+0.0.0.0 fangassneesttrothed.cfd
 0.0.0.0 fangcffsne.download
 0.0.0.0 fangedrouts.click
 0.0.0.0 fangfeeling.com
@@ -227124,6 +227255,7 @@
 0.0.0.0 farcifypaascranes.qpon
 0.0.0.0 farcindrawer.cyou
 0.0.0.0 farcryplay.ru
+0.0.0.0 fardageproverb.rest
 0.0.0.0 fardan.pw
 0.0.0.0 fardasub.xyz
 0.0.0.0 fardingsoiling.com
@@ -228267,6 +228399,7 @@
 0.0.0.0 fayejay.duckdns.org
 0.0.0.0 fayezvip.duckdns.org
 0.0.0.0 fayhbg.sifjakobs.se
+0.0.0.0 fayingperine.rest
 0.0.0.0 faykdrhpo.com
 0.0.0.0 faylesshapen.qpon
 0.0.0.0 faymobi.com
@@ -228539,6 +228672,7 @@
 0.0.0.0 fbpixel.jadubazar.com
 0.0.0.0 fbpixel.network.exchange
 0.0.0.0 fbpodgladacz.wordpress.com
+0.0.0.0 fbpqqxhfnryaf.website
 0.0.0.0 fbpqvs.com
 0.0.0.0 fbprod.flipboard.com
 0.0.0.0 fbpsmarthome.duckdns.org
@@ -229676,6 +229810,7 @@
 0.0.0.0 feiqtjghvl.duckdns.org
 0.0.0.0 feira-agoraveja1.online
 0.0.0.0 feisca.duckdns.org
+0.0.0.0 feisoutsulk.cfd
 0.0.0.0 feisty-affair.com
 0.0.0.0 feisty-strength.pro
 0.0.0.0 feistymeet.pro
@@ -231378,6 +231513,7 @@
 0.0.0.0 figglegrillpruned.cfd
 0.0.0.0 figgynudest.com
 0.0.0.0 fighissimo.net
+0.0.0.0 fight-club-casino.org
 0.0.0.0 fight.offtherecord.com
 0.0.0.0 fightducklet.cfd
 0.0.0.0 fighter-pitbull.shop
@@ -231647,7 +231783,6 @@
 0.0.0.0 fileguru.com
 0.0.0.0 fileh.xyz
 0.0.0.0 filehippo.com
-0.0.0.0 filehost.lol
 0.0.0.0 filehostpro.xyz
 0.0.0.0 filehungry.com
 0.0.0.0 filei.top
@@ -234314,6 +234449,7 @@
 0.0.0.0 fitwithalpine.com
 0.0.0.0 fitwoman.justclick.ru
 0.0.0.0 fitzcarraldo.duckdns.org
+0.0.0.0 fitzdarescasino.com
 0.0.0.0 fitzdarescasino.org
 0.0.0.0 fitzgvqpuizzk.space
 0.0.0.0 fitzmatic.duckdns.org
@@ -234527,6 +234663,7 @@
 0.0.0.0 fjklsavuit.duckdns.org
 0.0.0.0 fjkmfgfzdgf.lovable.app
 0.0.0.0 fjkrxt.com
+0.0.0.0 fjlcversoivxy.site
 0.0.0.0 fjlhf.voluumtrk.com
 0.0.0.0 fjlmmdpbbb.duckdns.org
 0.0.0.0 fjlvozwlv.bid
@@ -235588,7 +235725,6 @@
 0.0.0.0 flophous.cf
 0.0.0.0 flopinclose.com
 0.0.0.0 floppaclient.com
-0.0.0.0 floppaclient.org
 0.0.0.0 flopperpupidae.cyou
 0.0.0.0 floppybank.com
 0.0.0.0 floppydisque.duckdns.org
@@ -236327,6 +236463,7 @@
 0.0.0.0 fmptest.mobvista.com
 0.0.0.0 fmpub.net
 0.0.0.0 fmpvj.wholesalejewelrywebsite.com
+0.0.0.0 fmpyblulujqff.online
 0.0.0.0 fmqhr.shayandblue.com
 0.0.0.0 fmqidg.letras.com
 0.0.0.0 fmqidg.letras.mus.br
@@ -236772,6 +236909,7 @@
 0.0.0.0 fohtgquncv.duckdns.org
 0.0.0.0 fohztovjigukz.space
 0.0.0.0 foi8q.voluumtrk.com
+0.0.0.0 foiadhsltuock.site
 0.0.0.0 foiagraz.duckdns.org
 0.0.0.0 foiblesretried.com
 0.0.0.0 foicuoxmzjthm.site
@@ -237066,6 +237204,7 @@
 0.0.0.0 foojrvqictgwx.website
 0.0.0.0 fook-ha-vm.duckdns.org
 0.0.0.0 fooleing.space
+0.0.0.0 foolerystrop.com
 0.0.0.0 foolhardy-audience.com
 0.0.0.0 foolhardy-style.pro
 0.0.0.0 foolhardy-wall.com
@@ -237794,6 +237933,7 @@
 0.0.0.0 forthcomingpropelwho.com
 0.0.0.0 forthcomingshruggeddrift.com
 0.0.0.0 forthdigestive.com
+0.0.0.0 fortherbiker.xyz
 0.0.0.0 forthplanet.duckdns.org
 0.0.0.0 forthright-car.pro
 0.0.0.0 forthright-concern.pro
@@ -242951,6 +243091,7 @@
 0.0.0.0 funcallback.com
 0.0.0.0 funcasino.com
 0.0.0.0 funcasinohire.com
+0.0.0.0 funcasinos.org
 0.0.0.0 funcel.mobi
 0.0.0.0 funchats.ru
 0.0.0.0 funchill.com
@@ -243981,7 +244122,6 @@
 0.0.0.0 fxj.realsecuredredirect.com
 0.0.0.0 fxjbosijndirva.xyz
 0.0.0.0 fxjgprpozntk.com
-0.0.0.0 fxjhh.cc
 0.0.0.0 fxjllndtgqsaf.site
 0.0.0.0 fxjmayxrazoyq.online
 0.0.0.0 fxjqswmipvok.com
@@ -246278,6 +246418,7 @@
 0.0.0.0 gapcanada.ca.ssl.d1.sc.omtrdc.net
 0.0.0.0 gapconnectionbridge.co.in
 0.0.0.0 gapcontroversialprodigal.com
+0.0.0.0 gapgwfmsaibho.online
 0.0.0.0 gapi.adsymptotic.com
 0.0.0.0 gapic.luvea.fr
 0.0.0.0 gapidriver.com
@@ -246539,6 +246680,7 @@
 0.0.0.0 garglesoon.com
 0.0.0.0 gargleunethicalthorough.com
 0.0.0.0 garglingably.com
+0.0.0.0 gargona.cash
 0.0.0.0 gargy.duckdns.org
 0.0.0.0 garialerosely.website
 0.0.0.0 garibamarmose.com
@@ -247151,6 +247293,7 @@
 0.0.0.0 gbdlspnqgj.duckdns.org
 0.0.0.0 gbdqimygbobtih.bid
 0.0.0.0 gbdrn.mr-fothergills.com
+0.0.0.0 gbdsifghwetkz.site
 0.0.0.0 gbdveg.duckdns.org
 0.0.0.0 gbdvmfnoynlxh.com
 0.0.0.0 gbdxxsjzrechci.bid
@@ -247247,6 +247390,7 @@
 0.0.0.0 gbnxhz.ekstralys.no
 0.0.0.0 gbnzaveoacflu.site
 0.0.0.0 gboesl.duckdns.org
+0.0.0.0 gboogl.com
 0.0.0.0 gboscaro.duckdns.org
 0.0.0.0 gbosp.pro
 0.0.0.0 gbotkins-dns.duckdns.org
@@ -247911,6 +248055,7 @@
 0.0.0.0 gdwekoha.com
 0.0.0.0 gdwviet.com
 0.0.0.0 gdwwpvwq.com
+0.0.0.0 gdxledmzqcpyz.online
 0.0.0.0 gdxsappdown.getui.com
 0.0.0.0 gdxt10.cn
 0.0.0.0 gdxxfncujmrjm.site
@@ -250655,6 +250800,7 @@
 0.0.0.0 gh.khetglynn.com
 0.0.0.0 gh.studiesbangladesh.net.anwalt.de
 0.0.0.0 gh.vsee.me
+0.0.0.0 gh02391212-gf340.help
 0.0.0.0 gh1frz6nux2ov8.rest
 0.0.0.0 gh2.duckdns.org
 0.0.0.0 gh8fiugo.xyz
@@ -250824,7 +250970,6 @@
 0.0.0.0 ghoost-home-assistant.duckdns.org
 0.0.0.0 ghoqnanthfges.site
 0.0.0.0 ghorserver.ghoreponno.com
-0.0.0.0 ghost-new-live.ink
 0.0.0.0 ghost.apxor.com
 0.0.0.0 ghost.baxatinha.duckdns.org
 0.0.0.0 ghost.ciccioportainer.duckdns.org
@@ -251145,6 +251290,7 @@
 0.0.0.0 giftbangbangtank.weebly.com
 0.0.0.0 giftbox.asus.com
 0.0.0.0 giftboxesss881.ink
+0.0.0.0 giftcalyon.com
 0.0.0.0 giftcard.cx
 0.0.0.0 giftcardchallenge.com
 0.0.0.0 giftcardgranny.7eer.net
@@ -255346,6 +255492,7 @@
 0.0.0.0 gkxeea.ssamitbeauty.com
 0.0.0.0 gkxixncsphfli.online
 0.0.0.0 gkxkvp.tumi.co.jp
+0.0.0.0 gkxrdprnfzcxz.website
 0.0.0.0 gkxuifkljnmet.online
 0.0.0.0 gkyaggtewwucj.online
 0.0.0.0 gkyblmfggpyq.bid
@@ -259347,6 +259494,7 @@
 0.0.0.0 goodlooknews.net
 0.0.0.0 goodluckblockingthis.com
 0.0.0.0 goodluckjayjay.duckdns.org
+0.0.0.0 goodmancasino.io
 0.0.0.0 goodmancasinos.com
 0.0.0.0 goodmancastle.duckdns.org
 0.0.0.0 goodmanpp.duckdns.org
@@ -259566,6 +259714,7 @@
 0.0.0.0 goon.ru
 0.0.0.0 goonchicken.duckdns.org
 0.0.0.0 goongateheaviness.com
+0.0.0.0 goonieanvilmanic.cfd
 0.0.0.0 goonnet.duckdns.org
 0.0.0.0 goonrepublican.com
 0.0.0.0 goonsruscloud.duckdns.org
@@ -260668,6 +260817,7 @@
 0.0.0.0 gqthfroeirol.com
 0.0.0.0 gqtvkxhycjthdx.com
 0.0.0.0 gqtyh.freshscents.com
+0.0.0.0 gqu1wtkyuhcq9p9r.cfd
 0.0.0.0 gquhotyqbv.duckdns.org
 0.0.0.0 gquinn.duckdns.org
 0.0.0.0 gqukkctktohil.com
@@ -265234,6 +265384,7 @@
 0.0.0.0 gsohvplvtvyaq.site
 0.0.0.0 gsol.edm.globalsources.com
 0.0.0.0 gsols.edm.globalsources.com
+0.0.0.0 gsool.space
 0.0.0.0 gsool.xyz
 0.0.0.0 gsoolg.com
 0.0.0.0 gsoosl.xyz
@@ -271566,6 +271717,7 @@
 0.0.0.0 gtxqkkxlvqmiysl.com
 0.0.0.0 gtxqpbsbnci.net
 0.0.0.0 gty.singermali.com
+0.0.0.0 gtydpdpmhrhhu.site
 0.0.0.0 gtyenqlhhinew.online
 0.0.0.0 gtykufwu.com
 0.0.0.0 gtynuuwmkt.duckdns.org
@@ -272466,6 +272618,7 @@
 0.0.0.0 gv.uvellastygian.shop
 0.0.0.0 gv.varietyfunerals.com
 0.0.0.0 gv04esnkb5xk.top
+0.0.0.0 gv0a0qcb0e.com
 0.0.0.0 gv0oi9ecji.com
 0.0.0.0 gv1.duckdns.org
 0.0.0.0 gv1.xdrig.com
@@ -273063,6 +273216,7 @@
 0.0.0.0 gxyrml.drdifferent.com
 0.0.0.0 gxyrnjtgtwll.com
 0.0.0.0 gxyvfniyctnrd.site
+0.0.0.0 gxyzkmsksthas.website
 0.0.0.0 gxzfpusmd.com
 0.0.0.0 gxzkljfo.com
 0.0.0.0 gxzpx.collegefootballplayoff.com
@@ -273090,7 +273244,6 @@
 0.0.0.0 gybmppuezjtqe.space
 0.0.0.0 gybngr.joblink.co.jp
 0.0.0.0 gyboo.cruisingsmallship.com
-0.0.0.0 gybpy.xyz
 0.0.0.0 gybyxsy1588.com
 0.0.0.0 gyccdnydir.com
 0.0.0.0 gyco50.duckdns.org
@@ -273339,6 +273492,7 @@
 0.0.0.0 gzgejhwjeoufd.store
 0.0.0.0 gzghpg.com
 0.0.0.0 gzglmoczfzf.com
+0.0.0.0 gzgyjduudyvmh.website
 0.0.0.0 gzhassio.duckdns.org
 0.0.0.0 gzhazcfkr.bid
 0.0.0.0 gzhcrireklbaw.online
@@ -275819,6 +275973,7 @@
 0.0.0.0 hamilovice.duckdns.org
 0.0.0.0 hamilton.langer.duckdns.org
 0.0.0.0 hamilton.qualtrics.com
+0.0.0.0 hamiltonhealthcenter.com
 0.0.0.0 hamiltonhousehold.duckdns.org
 0.0.0.0 hamiltonpainters.ca
 0.0.0.0 hamiltonuae.com
@@ -276460,6 +276615,7 @@
 0.0.0.0 hardfinbanana.com
 0.0.0.0 hardforum.us.intellitxt.com
 0.0.0.0 hardhouse2.duckdns.org
+0.0.0.0 hardiesguardedascus.cfd
 0.0.0.0 hardiesstormy.cfd
 0.0.0.0 hardikagarwal.com
 0.0.0.0 hardimacolous.com
@@ -278687,7 +278843,6 @@
 0.0.0.0 hbvprpnisn.duckdns.org
 0.0.0.0 hbvrrsvvkhxrh.online
 0.0.0.0 hbvsbsqdnmvlj.site
-0.0.0.0 hbweb.icu
 0.0.0.0 hbwgqhtfsu.duckdns.org
 0.0.0.0 hbwhlmqfip.duckdns.org
 0.0.0.0 hbwlrpdrujdihe.com
@@ -278792,6 +278947,7 @@
 0.0.0.0 hcgfbwgzvl.duckdns.org
 0.0.0.0 hcggkyhzxzsv.com
 0.0.0.0 hcgjlsjwtr.duckdns.org
+0.0.0.0 hcgkcebafqgqm.site
 0.0.0.0 hcgnycpupu.duckdns.org
 0.0.0.0 hcgtkmes.com
 0.0.0.0 hcgzmbfewulwh.website
@@ -279303,6 +279459,7 @@
 0.0.0.0 headyguin.com
 0.0.0.0 headyhook.com
 0.0.0.0 headymuffler.com
+0.0.0.0 heafquinze.click
 0.0.0.0 healcheck.adpia.vn
 0.0.0.0 healeydave.duckdns.org
 0.0.0.0 healfast.healfast.com
@@ -279722,6 +279879,7 @@
 0.0.0.0 hedwigflooredventure.com
 0.0.0.0 hedwigmonday.com
 0.0.0.0 hedwigstreet.duckdns.org
+0.0.0.0 hedyirthpalar.cfd
 0.0.0.0 heedenglish.com
 0.0.0.0 heederkashankiaat.qpon
 0.0.0.0 heedetiquettedope.com
@@ -280000,6 +280158,7 @@
 0.0.0.0 heiw99ovji.com
 0.0.0.0 heixbai.com
 0.0.0.0 heixidor.com
+0.0.0.0 heiyaffle.click
 0.0.0.0 heizung.mycloud-icloud.duckdns.org
 0.0.0.0 heizung.wuelbern.duckdns.org
 0.0.0.0 heizungsnotdienst-sofort.de
@@ -280612,6 +280771,7 @@
 0.0.0.0 heqgr.com
 0.0.0.0 heqipjkwjhnnn.online
 0.0.0.0 heqomw.reporteryoung.pl
+0.0.0.0 heqwjmewurngy.space
 0.0.0.0 her-ber.top
 0.0.0.0 hera.ciarkodesign.com
 0.0.0.0 hera.rottne.com
@@ -281606,6 +281766,7 @@
 0.0.0.0 hhiprhclh.com
 0.0.0.0 hhirhz.nagaba.pl
 0.0.0.0 hhit.xyz
+0.0.0.0 hhjcpa.com
 0.0.0.0 hhjcuoyaaekut.site
 0.0.0.0 hhjgccfj.duckdns.org
 0.0.0.0 hhjhtggfr.duckdns.org
@@ -282083,6 +282244,7 @@
 0.0.0.0 highwaycpmrevenue.social-previews.top
 0.0.0.0 highwayearningsexpand.com
 0.0.0.0 highwayfk.com
+0.0.0.0 highwayonboarding.net
 0.0.0.0 highwinds.cdneval.adnxs.com
 0.0.0.0 highwood.duckdns.org
 0.0.0.0 higidreams.duckdns.org
@@ -282429,6 +282591,7 @@
 0.0.0.0 hirdchyngnn.bid
 0.0.0.0 hirek-online.com
 0.0.0.0 hirek.top
+0.0.0.0 hiremedicals.com
 0.0.0.0 hireology.com
 0.0.0.0 hireproplus.com
 0.0.0.0 hirerabaculi.cfd
@@ -283373,6 +283536,7 @@
 0.0.0.0 hlg-tech.com
 0.0.0.0 hlgabtppceeu.com
 0.0.0.0 hlgdxdfwnqqug.online
+0.0.0.0 hlggpgruglizv.website
 0.0.0.0 hlgkfxphuu.duckdns.org
 0.0.0.0 hlgmrrzoeayw.com
 0.0.0.0 hlgodnojfffhpc.bid
@@ -284376,6 +284540,7 @@
 0.0.0.0 holjmynbrubve.online
 0.0.0.0 holkerclose.duckdns.org
 0.0.0.0 holl0log.duckdns.org
+0.0.0.0 holland-casino.io
 0.0.0.0 hollandadhaus.com
 0.0.0.0 hollandadvertising.com
 0.0.0.0 hollandandbarrett.btttag.com
@@ -286290,6 +286455,7 @@
 0.0.0.0 hongtv.duckdns.org
 0.0.0.0 hongyongkluang.duckdns.org
 0.0.0.0 honhjsfzpy.duckdns.org
+0.0.0.0 honkeybatavi.cfd
 0.0.0.0 honkiesfecials.top
 0.0.0.0 honkitonki-hassio.duckdns.org
 0.0.0.0 honksbiform.com
@@ -287338,6 +287504,7 @@
 0.0.0.0 housetrade.net
 0.0.0.0 housetripde.widget.criteo.com
 0.0.0.0 houseview-rackham.duckdns.org
+0.0.0.0 housewheels.com
 0.0.0.0 housewifebridalfinest.com
 0.0.0.0 housewifehaunted.com
 0.0.0.0 housewifepatience.com
@@ -287459,7 +287626,6 @@
 0.0.0.0 howtocasino.com
 0.0.0.0 howtocleanacomputervirus.com
 0.0.0.0 howtodoblog.com
-0.0.0.0 howtofixsocialsecurity.com
 0.0.0.0 howtotroll.org
 0.0.0.0 howtubray.com
 0.0.0.0 howupdateworks.beststubcontentsfrees.xyz
@@ -288424,6 +288590,7 @@
 0.0.0.0 hstreet137.duckdns.org
 0.0.0.0 hstrr.eet-kessler.de
 0.0.0.0 hstus.tradedoubler.com
+0.0.0.0 hstvlfnnrjgll.space
 0.0.0.0 hstxodhtqfyko.site
 0.0.0.0 hsu6328.duckdns.org
 0.0.0.0 hsualumni.co1.qualtrics.com
@@ -290369,6 +290536,7 @@
 0.0.0.0 hwtdqlnkjr.duckdns.org
 0.0.0.0 hwtiqzgrsc.duckdns.org
 0.0.0.0 hwtnl.voluumtrk.com
+0.0.0.0 hwtrd.top
 0.0.0.0 hwtwp.aplos.world
 0.0.0.0 hwubmdahfxzku.website
 0.0.0.0 hwugaspawa.com
@@ -291796,6 +291964,7 @@
 0.0.0.0 i8m9bkpk-android.mobile-sdk-api.intercom.io
 0.0.0.0 i8r7r67u-ios.mobile-sdk-api.intercom.io
 0.0.0.0 i8reactorsee.xyz
+0.0.0.0 i8vk5ccf1ucblwr.rest
 0.0.0.0 i8vnk.voluumtrk.com
 0.0.0.0 i8xkjci7nd.com
 0.0.0.0 i9.mayoblast.com
@@ -292815,7 +292984,6 @@
 0.0.0.0 icloudhelp.com
 0.0.0.0 icloudoficial.live
 0.0.0.0 icloudvi.com
-0.0.0.0 icloudvsmapalocaliza.click
 0.0.0.0 icloudx.duckdns.org
 0.0.0.0 iclsas.com
 0.0.0.0 icltessfskwle.bid
@@ -293095,6 +293263,7 @@
 0.0.0.0 id-ward.com
 0.0.0.0 id-wctrib.tinypass.com
 0.0.0.0 id-westfargopioneer.tinypass.com
+0.0.0.0 id-wzyk21fx.cfd
 0.0.0.0 id-ykf9jhgh6z.rest
 0.0.0.0 id.5.p2l.info
 0.0.0.0 id.a-mx.com
@@ -293373,6 +293542,7 @@
 0.0.0.0 id6.me
 0.0.0.0 id6391.shop
 0.0.0.0 id648211.shop
+0.0.0.0 id653655.shop
 0.0.0.0 id6589.com
 0.0.0.0 id74628235281653.rest
 0.0.0.0 id75425.shop
@@ -293380,6 +293550,7 @@
 0.0.0.0 id875422.shop
 0.0.0.0 id89565.cfd
 0.0.0.0 id89652.cfd
+0.0.0.0 id8zba92r.com
 0.0.0.0 id927862992cit.duckdns.org
 0.0.0.0 id93782346383253.rest
 0.0.0.0 idaaypeljhbyrwu.net
@@ -294289,6 +294460,7 @@
 0.0.0.0 iflow-in.napi.ucweb.com
 0.0.0.0 iflow.ucnews.in
 0.0.0.0 iflowlrafu.duckdns.org
+0.0.0.0 iflqxkawkuanc.online
 0.0.0.0 iflscience-d.openx.net
 0.0.0.0 iflvcrmcun.duckdns.org
 0.0.0.0 ifma.co1.qualtrics.com
@@ -294325,6 +294497,7 @@
 0.0.0.0 ifqgd.hashstash.co
 0.0.0.0 ifqieoxkkghff.space
 0.0.0.0 ifqtfo.rugsusa.com
+0.0.0.0 ifquayfkshevq.online
 0.0.0.0 ifqurqkzqnupr.site
 0.0.0.0 ifqyfx.e-myholiday.com
 0.0.0.0 ifqzzgwrra.com
@@ -294974,6 +295147,7 @@
 0.0.0.0 iidyleyfuwpat.website
 0.0.0.0 iieixflrhfkeo.website
 0.0.0.0 iiem.duckdns.org
+0.0.0.0 iiepzyvhtdqoi.space
 0.0.0.0 iietupksjf.duckdns.org
 0.0.0.0 iieuv.thertastore.com
 0.0.0.0 iiewlkbpvi.duckdns.org
@@ -295257,6 +295431,7 @@
 0.0.0.0 ijxptjzn.w8solucoes.host
 0.0.0.0 ijydhggovb.duckdns.org
 0.0.0.0 ijyrq.voluumtrk.com
+0.0.0.0 ijysugjcq.com
 0.0.0.0 ijyxuyxqjfdj.com
 0.0.0.0 ijyyunqcjscfa.website
 0.0.0.0 ijyzeilduk.duckdns.org
@@ -295434,6 +295609,7 @@
 0.0.0.0 ikrush.pxf.io
 0.0.0.0 ikrvzjdds.bid
 0.0.0.0 ikrydi.clubeo.com
+0.0.0.0 iksbgcsgufkdt.website
 0.0.0.0 ikscwzjgxpeqy.site
 0.0.0.0 ikspzv.fincaraiz.com.co
 0.0.0.0 ikt93j.ws-stoore.com
@@ -299055,6 +299231,7 @@
 0.0.0.0 imtokenvt.com
 0.0.0.0 imtokenwallet.cc
 0.0.0.0 imtokex.im
+0.0.0.0 imtokkenn.com
 0.0.0.0 imtolenplex.com
 0.0.0.0 imtouken.com
 0.0.0.0 imtowoz.ru
@@ -299394,6 +299571,7 @@
 0.0.0.0 inc2.igexin.com
 0.0.0.0 incadmd42ytgp4hwkejirji4m6pcbacazoeic7fc5sd27nr7it5ajyqd.onion
 0.0.0.0 incagspexmi.store
+0.0.0.0 incampconchiedining.cyou
 0.0.0.0 incanwurmal.cfd
 0.0.0.0 incapabledespair.com
 0.0.0.0 incapablepasswordease.com
@@ -299889,6 +300067,7 @@
 0.0.0.0 indrive.global
 0.0.0.0 indrive.group
 0.0.0.0 indrive.team
+0.0.0.0 inds.me
 0.0.0.0 indscout.com
 0.0.0.0 indsightsresearch.qualtrics.com
 0.0.0.0 indstate.qualtrics.com
@@ -300076,6 +300255,7 @@
 0.0.0.0 inff0prtummatilampufgans294sd.duckdns.org
 0.0.0.0 inffdwelling.info
 0.0.0.0 infiarisig.store
+0.0.0.0 infideloutwaitidion.cfd
 0.0.0.0 infightyere.cyou
 0.0.0.0 infigreen.com
 0.0.0.0 infimal.duckdns.org
@@ -301489,6 +301669,7 @@
 0.0.0.0 infoaccount03activity.duckdns.org
 0.0.0.0 infoaccount789.duckdns.org
 0.0.0.0 infoaction.mimakiusa.com
+0.0.0.0 infoalert365.it
 0.0.0.0 infoanalytics.live
 0.0.0.0 infoautonomoscadiz.es
 0.0.0.0 infobahnworld.com
@@ -302061,6 +302242,7 @@
 0.0.0.0 injuredripplegentleman.com
 0.0.0.0 injuredworkersadvocates.com
 0.0.0.0 injuryimprovenorth.com
+0.0.0.0 injurylawsocal.com
 0.0.0.0 injusthurlock.cfd
 0.0.0.0 injusticeamend.com
 0.0.0.0 injusticebakery.com
@@ -304569,6 +304751,7 @@
 0.0.0.0 inw5s.voluumtrk.com
 0.0.0.0 inwallherdess.cfd
 0.0.0.0 inwardabruptly.com
+0.0.0.0 inwardsscamped.click
 0.0.0.0 inwardthricechemical.com
 0.0.0.0 inwardupsettingcudgel.com
 0.0.0.0 inwardxenos.com
@@ -305981,6 +306164,7 @@
 0.0.0.0 irish105.duckdns.org
 0.0.0.0 irishandlesit.store
 0.0.0.0 irishlottery.com
+0.0.0.0 irishluckcasino.net
 0.0.0.0 irishriverhouse.com
 0.0.0.0 irishtlr.duckdns.org
 0.0.0.0 irishwhiskeyinvestments.co.uk
@@ -306690,6 +306874,7 @@
 0.0.0.0 ispot.duckdns.org
 0.0.0.0 ispot.tv
 0.0.0.0 isprq.lovesweatfitness.com
+0.0.0.0 ispuxelmvitav.space
 0.0.0.0 ispyagentdvr.posadadelpelaire.duckdns.org
 0.0.0.0 ispyveemlvygba.com
 0.0.0.0 isqbthtlvazequ.com
@@ -306795,6 +306980,7 @@
 0.0.0.0 istinyecasino375.com
 0.0.0.0 istio.api.drift.com
 0.0.0.0 istipaumophy.com
+0.0.0.0 istjmvigsaaij.online
 0.0.0.0 istkqoomkqtny.com
 0.0.0.0 istlandoll.com
 0.0.0.0 istlnkbn.com
@@ -307873,6 +308059,7 @@
 0.0.0.0 ivlfnkcdnr.duckdns.org
 0.0.0.0 ivlnszjtorszh.website
 0.0.0.0 ivlune.shop
+0.0.0.0 ivlxufaxxdlll.site
 0.0.0.0 ivmelo.shop
 0.0.0.0 ivmevd.vespa.com
 0.0.0.0 ivmhkcvjrdehfr.com
@@ -307929,6 +308116,7 @@
 0.0.0.0 ivrwchpvfr.duckdns.org
 0.0.0.0 ivryschxto.duckdns.org
 0.0.0.0 ivs458.vk.com
+0.0.0.0 ivslbsnaxongp.space
 0.0.0.0 ivsora.shop
 0.0.0.0 ivsqnmridfxn.com
 0.0.0.0 ivssffifzo.duckdns.org
@@ -308229,6 +308417,7 @@
 0.0.0.0 ixereewa.com
 0.0.0.0 ixexylpm.com
 0.0.0.0 ixfbdmdduqypv.online
+0.0.0.0 ixfbyzmamkeol.space
 0.0.0.0 ixffxruloykhf.site
 0.0.0.0 ixfilqyhmk.duckdns.org
 0.0.0.0 ixfzykfnvpwro.online
@@ -309036,6 +309225,7 @@
 0.0.0.0 jaabivmwds.duckdns.org
 0.0.0.0 jaaf.duckdns.org
 0.0.0.0 jaahqjqnkzlpb.site
+0.0.0.0 jaakcasino.net
 0.0.0.0 jaakkolas.duckdns.org
 0.0.0.0 jaako.duckdns.org
 0.0.0.0 jaaneoha.duckdns.org
@@ -309997,6 +310187,7 @@
 0.0.0.0 jardinez.duckdns.org
 0.0.0.0 jardinonssolsvivant.fr
 0.0.0.0 jardins-do-mar.com
+0.0.0.0 jardinsdubandiat-onmicrosoft.click
 0.0.0.0 jardns.duckdns.org
 0.0.0.0 jaredjitsi.duckdns.org
 0.0.0.0 jarednextcloud2.duckdns.org
@@ -310575,6 +310766,7 @@
 0.0.0.0 jbsckzvzaxdop.online
 0.0.0.0 jbscprime.duckdns.org
 0.0.0.0 jbsmarthome.duckdns.org
+0.0.0.0 jbsotkpqajdfm.website
 0.0.0.0 jbsvgmoshntii.website
 0.0.0.0 jbsy20riz9.com
 0.0.0.0 jbtcmempool.duckdns.org
@@ -310829,6 +311021,7 @@
 0.0.0.0 jcsisvtb.com
 0.0.0.0 jcsmm.rubios.com
 0.0.0.0 jcspfhtfkb.duckdns.org
+0.0.0.0 jcsqmedeywtly.site
 0.0.0.0 jcsrmgtdfygaz.space
 0.0.0.0 jcsubfkhazsil.website
 0.0.0.0 jcsyknyvserff.online
@@ -313443,6 +313636,7 @@
 0.0.0.0 jisandev.com
 0.0.0.0 jisao12.cyou
 0.0.0.0 jisegeqjbijfg.site
+0.0.0.0 jisfrynuwf.in
 0.0.0.0 jisgwdtbqciof.site
 0.0.0.0 jishan.apanbazar.com
 0.0.0.0 jishi.360.cn
@@ -314146,6 +314340,7 @@
 0.0.0.0 jltczmewqabda.online
 0.0.0.0 jltlserver.duckdns.org
 0.0.0.0 jltodawkmg.duckdns.org
+0.0.0.0 jltonxzvezifs.website
 0.0.0.0 jltpxzdwnnwuj.space
 0.0.0.0 jltqllaqge.duckdns.org
 0.0.0.0 jlujxipdixrw.com
@@ -314736,7 +314931,6 @@
 0.0.0.0 jobs.tokyomansion.online
 0.0.0.0 jobs.zedo.com
 0.0.0.0 jobsamazonsp.com
-0.0.0.0 jobsamzss.com
 0.0.0.0 jobscentral-com-sg.b.appier.net
 0.0.0.0 jobsch.widget.criteo.com
 0.0.0.0 jobsconnecthub.com
@@ -314992,7 +315186,6 @@
 0.0.0.0 johnsonej23.duckdns.org
 0.0.0.0 johnsonrsa.qualtrics.com
 0.0.0.0 johnsonsmith.evergage.com
-0.0.0.0 johnsonsvalves.cam
 0.0.0.0 johnsonville.client.janrain.com
 0.0.0.0 johnsortita.cfd
 0.0.0.0 johnstef.duckdns.org
@@ -315491,7 +315684,6 @@
 0.0.0.0 joina.rune.ai
 0.0.0.0 joinads.me
 0.0.0.0 joinallpartvideofree.duckdns.org
-0.0.0.0 joinamazonsp.com
 0.0.0.0 joinamzn.com
 0.0.0.0 joinantneillia.qpon
 0.0.0.0 joinb.rune.ai
@@ -315978,7 +316170,6 @@
 0.0.0.0 joint-swim.pro
 0.0.0.0 joint-task.pro
 0.0.0.0 jointag.com
-0.0.0.0 jointaxel.online
 0.0.0.0 jointcommission.qualtrics.com
 0.0.0.0 jointgroup18.duckdns.org
 0.0.0.0 jointhegrubxzynetxy.duckdns.org
@@ -316948,6 +317139,7 @@
 0.0.0.0 jpgqfl.thezaol.com
 0.0.0.0 jpgtrk.com
 0.0.0.0 jpgubykgtkioj.online
+0.0.0.0 jpgupp8mi.com
 0.0.0.0 jpgxftqgnucg.com
 0.0.0.0 jphaduck.duckdns.org
 0.0.0.0 jphas.duckdns.org
@@ -317196,6 +317388,7 @@
 0.0.0.0 jqhxsrqhvztee.site
 0.0.0.0 jqhyveholh.duckdns.org
 0.0.0.0 jqibqqxghcfk.com
+0.0.0.0 jqigbwwsqscnl.online
 0.0.0.0 jqilyjagezcqk.site
 0.0.0.0 jqinqsrmygeu.com
 0.0.0.0 jqioregvpxgte.website
@@ -317312,6 +317505,7 @@
 0.0.0.0 jqwhjuxv.xyz
 0.0.0.0 jqwidgets.com
 0.0.0.0 jqwiyxproa.duckdns.org
+0.0.0.0 jqwprcbgiohuf.site
 0.0.0.0 jqwqxdboznygi.online
 0.0.0.0 jqwsipnedxavqg.com
 0.0.0.0 jqwvqcogya.duckdns.org
@@ -317505,6 +317699,7 @@
 0.0.0.0 jrrekpskc.com
 0.0.0.0 jrrmojsntectt.site
 0.0.0.0 jrrmwjybfaztct.com
+0.0.0.0 jrrswcrteqcdu.website
 0.0.0.0 jrrvlclkhprsr.website
 0.0.0.0 jrrxfhtrvr.duckdns.org
 0.0.0.0 jrrygibhwcmwb.space
@@ -318353,6 +318548,7 @@
 0.0.0.0 jtjuuybgohcay.website
 0.0.0.0 jtjyyd.com
 0.0.0.0 jtkjixnmj.org
+0.0.0.0 jtkkccxrsnskg.space
 0.0.0.0 jtkmmvwpod.duckdns.org
 0.0.0.0 jtknl.ashanderie.com
 0.0.0.0 jtktdlkjrh.com
@@ -318577,6 +318773,7 @@
 0.0.0.0 judgedfancyhowl.com
 0.0.0.0 judgedserumbravely.com
 0.0.0.0 judgementinvincible.com
+0.0.0.0 judgestonner.click
 0.0.0.0 judgetom.duckdns.org
 0.0.0.0 judgmentseries.com
 0.0.0.0 judi-home.duckdns.org
@@ -318835,6 +319032,7 @@
 0.0.0.0 jumbopassenger.pro
 0.0.0.0 jumboprodigious.com
 0.0.0.0 jumbostubdifferent.com
+0.0.0.0 jumbu.de
 0.0.0.0 jumcna.cjt1.net
 0.0.0.0 jumenttallithborders.cyou
 0.0.0.0 jumentundrew.cyou
@@ -319198,6 +319396,7 @@
 0.0.0.0 justbit16.io
 0.0.0.0 justbit21.io
 0.0.0.0 justbit4.io
+0.0.0.0 justbitcasino.io
 0.0.0.0 justbz.duckdns.org
 0.0.0.0 justcapital.qualtrics.com
 0.0.0.0 justcasino.com
@@ -319668,6 +319867,7 @@
 0.0.0.0 jwegptdhydbhd.space
 0.0.0.0 jwekibrblka.com
 0.0.0.0 jweqai.amen.fr
+0.0.0.0 jwestzlioaqo.com
 0.0.0.0 jwf8lxo7b.com
 0.0.0.0 jwfaregtarvql.space
 0.0.0.0 jwfdyujffrzt.com
@@ -320072,6 +320272,7 @@
 0.0.0.0 jyozavobzrekb.top
 0.0.0.0 jyozavojlraeb.top
 0.0.0.0 jypcqvpgewajj.site
+0.0.0.0 jypgjzagcphbd.website
 0.0.0.0 jypgohbklc.duckdns.org
 0.0.0.0 jyphhfkvrutek.site
 0.0.0.0 jypitfhsdc.duckdns.org
@@ -320977,6 +321178,7 @@
 0.0.0.0 kaktakkk.ru
 0.0.0.0 kaktokualscgea.com
 0.0.0.0 kaktus2.mirtesen.ru
+0.0.0.0 kaktuzcasino.net
 0.0.0.0 kakuyomu.life
 0.0.0.0 kakvk.poponveneers.com
 0.0.0.0 kakxperfdcfmoak.com
@@ -321843,7 +322045,6 @@
 0.0.0.0 kayak.it
 0.0.0.0 kayakerreebok.shop
 0.0.0.0 kayanwashery.cyou
-0.0.0.0 kayct.xyz
 0.0.0.0 kaydayeuti.axfree.com
 0.0.0.0 kaydbnnepk.duckdns.org
 0.0.0.0 kayes-30detik-virall202.duckdns.org
@@ -322838,6 +323039,7 @@
 0.0.0.0 kelemet.shop
 0.0.0.0 keles75.duckdns.org
 0.0.0.0 kelesra2.duckdns.org
+0.0.0.0 kelewverfsrbr.online
 0.0.0.0 kelfnfabbwugq.online
 0.0.0.0 keljgfisfo.duckdns.org
 0.0.0.0 kelkoo-fra.t.domdex.com
@@ -323106,6 +323308,7 @@
 0.0.0.0 kerkorur.com
 0.0.0.0 kerkus.duckdns.org
 0.0.0.0 kerling-1838.duckdns.org
+0.0.0.0 kerls-schrauberseite.de
 0.0.0.0 kermadren.duckdns.org
 0.0.0.0 kermesssuing.cfd
 0.0.0.0 kermit.macnn.com
@@ -323766,6 +323969,7 @@
 0.0.0.0 kgjyzojjmu.duckdns.org
 0.0.0.0 kgkhnytzhq.duckdns.org
 0.0.0.0 kgkjlivo.com
+0.0.0.0 kgkjwsubtad.com
 0.0.0.0 kgkkfrvujnqf.com
 0.0.0.0 kgkmt.ticketrivals.com
 0.0.0.0 kgknyxxabkmk.com
@@ -324173,6 +324377,7 @@
 0.0.0.0 kiasiraton.duckdns.org
 0.0.0.0 kiassure.fr
 0.0.0.0 kiavik.duckdns.org
+0.0.0.0 kiaxf.xyz
 0.0.0.0 kiazygtr.duckdns.org
 0.0.0.0 kib.adx1.com
 0.0.0.0 kib.hu
@@ -324551,6 +324756,7 @@
 0.0.0.0 kimgaram.duckdns.org
 0.0.0.0 kimhomeassistant.duckdnsmagento.dedaza.duckdns.org
 0.0.0.0 kimht2000.duckdns.org
+0.0.0.0 kimi.page
 0.0.0.0 kimia.com
 0.0.0.0 kimia.es
 0.0.0.0 kimia.mobi
@@ -326752,6 +326958,7 @@
 0.0.0.0 kntdzsua.bid
 0.0.0.0 kntksales.tk
 0.0.0.0 kntl8888.duckdns.org
+0.0.0.0 kntlfthwgqsbqv.com
 0.0.0.0 kntokk.duckdns.org
 0.0.0.0 kntswafuos.com
 0.0.0.0 kntu-chase-reprotif.duckdns.org
@@ -328940,6 +329147,7 @@
 0.0.0.0 ksxqznsgtwfiz.space
 0.0.0.0 ksxteldtlbtss.website
 0.0.0.0 ksxugxvdsn.duckdns.org
+0.0.0.0 ksyibwnigfijv.space
 0.0.0.0 ksyrium0014.com
 0.0.0.0 ksytdkhbua.duckdns.org
 0.0.0.0 kszmp.voluumtrk.com
@@ -330234,6 +330442,7 @@
 0.0.0.0 kxgteafuhnpoz.online
 0.0.0.0 kxgupcudo.com
 0.0.0.0 kxhdmormnz.duckdns.org
+0.0.0.0 kxhewlmedyzqe.online
 0.0.0.0 kxhhim.com
 0.0.0.0 kxhnlmrnqw.bid
 0.0.0.0 kxhome.duckdns.org
@@ -331124,6 +331333,7 @@
 0.0.0.0 l7xk21bftn2imgt.rest
 0.0.0.0 l7z.dorivo.lat
 0.0.0.0 l8.zedo.com
+0.0.0.0 l83.me
 0.0.0.0 l86365.com
 0.0.0.0 l8gqrqbh2ih72m2y.cfd
 0.0.0.0 l8ns.duckdns.org
@@ -332198,6 +332408,7 @@
 0.0.0.0 landlordspy.com
 0.0.0.0 landlystvej13b.duckdns.org
 0.0.0.0 landmantinaja.com
+0.0.0.0 landmilbonzery.com
 0.0.0.0 landnewseasy.com
 0.0.0.0 landnob.com
 0.0.0.0 landnol.com
@@ -333666,6 +333877,7 @@
 0.0.0.0 lbpndcvhuqlm.com
 0.0.0.0 lbpodurp.cam
 0.0.0.0 lbpslb.icu
+0.0.0.0 lbpusudllcoes.site
 0.0.0.0 lbpwyytowh.duckdns.org
 0.0.0.0 lbpxotmjtdbom.site
 0.0.0.0 lbpzcputdy.duckdns.org
@@ -333676,6 +333888,7 @@
 0.0.0.0 lbqoewlxbeydk.site
 0.0.0.0 lbqvidgdgo.duckdns.org
 0.0.0.0 lbr-home.duckdns.org
+0.0.0.0 lbr3rnhge.com
 0.0.0.0 lbr58.duckdns.org
 0.0.0.0 lbrceeuashhas.net
 0.0.0.0 lbrigiewtk.duckdns.org
@@ -333822,6 +334035,7 @@
 0.0.0.0 lcdnw.com
 0.0.0.0 lcdphhooqa.duckdns.org
 0.0.0.0 lcdqwmfwbkbby.site
+0.0.0.0 lcdsdwehypscu.space
 0.0.0.0 lcdsyj.daily.co.jp
 0.0.0.0 lcdvqdiiovsxj.site
 0.0.0.0 lcdwjuzdkpxnss.com
@@ -335165,6 +335379,7 @@
 0.0.0.0 leguide.d3.sc.omtrdc.net
 0.0.0.0 leguidegroup-leguidecom-fra.t.domdex.com
 0.0.0.0 leguinge.info
+0.0.0.0 legzo-casino.io
 0.0.0.0 legzo-casino.net
 0.0.0.0 legzo-casino1.com
 0.0.0.0 legzo.casino
@@ -335854,7 +336069,9 @@
 0.0.0.0 letmessagenow.com
 0.0.0.0 letmetralala.com
 0.0.0.0 letminimalvacancy.com
+0.0.0.0 letnie-okazje1321392.shop
 0.0.0.0 letnie-okazje22448156.sbs
+0.0.0.0 letnie-okazje2371392.shop
 0.0.0.0 letorrent.org
 0.0.0.0 letourneau360.qualtrics.com
 0.0.0.0 letourng.duckdns.org
@@ -335899,6 +336116,7 @@
 0.0.0.0 letsgo.bobiotics.nl
 0.0.0.0 letsgo.purebob.com
 0.0.0.0 letsgobok.com
+0.0.0.0 letsgocasino.io
 0.0.0.0 letsgodigital.de.intellitxt.com
 0.0.0.0 letsgodigital.uk.intellitxt.com
 0.0.0.0 letsgomobile.de.intellitxt.com
@@ -336815,7 +337033,6 @@
 0.0.0.0 liadm.com
 0.0.0.0 liaison.duckdns.org
 0.0.0.0 liaisoncobweb.com
-0.0.0.0 liaisondeparfum.com
 0.0.0.0 liaisonedu.ada.support
 0.0.0.0 liaisonmonumentbreeding.com
 0.0.0.0 liaisonwayneflout.cyou
@@ -337825,6 +338042,7 @@
 0.0.0.0 limesbooks.duckdns.org
 0.0.0.0 limesjelly.duckdns.org
 0.0.0.0 limesmusic.duckdns.org
+0.0.0.0 limestoneberth.live
 0.0.0.0 limestoneco.duckdns.org
 0.0.0.0 limestonecu.com.102.112.2o7.net
 0.0.0.0 limesurvey.nasdan01.duckdns.org
@@ -339449,6 +339667,7 @@
 0.0.0.0 linktrap.co
 0.0.0.0 linkunder.ru
 0.0.0.0 linkup.duckdns.org
+0.0.0.0 linkuptoday.net
 0.0.0.0 linkurlove.com
 0.0.0.0 linkury-services-stats.trafficmanager.net
 0.0.0.0 linkury.com
@@ -339974,6 +340193,7 @@
 0.0.0.0 liuliang.360.cn
 0.0.0.0 liulwxrybupyzu.com
 0.0.0.0 liunjchoah.duckdns.org
+0.0.0.0 liuspylrbeqgi.website
 0.0.0.0 liutas4x4.duckdns.org
 0.0.0.0 liuxoi.green-petfood.de
 0.0.0.0 liuxuesen.com
@@ -340596,6 +340816,7 @@
 0.0.0.0 ljtcjahzugefb.website
 0.0.0.0 ljteas.com
 0.0.0.0 ljudlig.duckdns.org
+0.0.0.0 ljueytdnmpfsn.online
 0.0.0.0 ljujm.voluumtrk.com
 0.0.0.0 ljuknwtnaqlgq.site
 0.0.0.0 ljuqz.skinskulpt.com
@@ -341047,6 +341268,7 @@
 0.0.0.0 lloenerginqu.info
 0.0.0.0 llog.pl
 0.0.0.0 lloju.moventashop.com
+0.0.0.0 llolioxmsrfsj.site
 0.0.0.0 lloniguolquer.duckdns.org
 0.0.0.0 lloniygrap.duckdns.org
 0.0.0.0 lloogg.com
@@ -341409,6 +341631,7 @@
 0.0.0.0 lmprlsqvmh.duckdns.org
 0.0.0.0 lmpush.com
 0.0.0.0 lmpygevzkenzr.online
+0.0.0.0 lmqduqzuqzjbs.space
 0.0.0.0 lmqgr.lloveonline.com
 0.0.0.0 lmqh.ecoencomputer.com
 0.0.0.0 lmqscokesn.duckdns.org
@@ -350638,6 +350861,7 @@
 0.0.0.0 logagent-wf.centurygame.com
 0.0.0.0 logaholic.com
 0.0.0.0 logajk-netdata.duckdns.org
+0.0.0.0 loganalytics.io
 0.0.0.0 loganjelly.duckdns.org
 0.0.0.0 loganlooneyresume.com
 0.0.0.0 loganmedia.mobi
@@ -352515,6 +352739,7 @@
 0.0.0.0 lotus-ads.com
 0.0.0.0 lotus.fabpad.in
 0.0.0.0 lotus99.duckdns.org
+0.0.0.0 lotusasiacasino.org
 0.0.0.0 lotusbet365.com
 0.0.0.0 lotuseed.com
 0.0.0.0 lotusorbit.com
@@ -352844,6 +353069,7 @@
 0.0.0.0 lowexeggcutea.com
 0.0.0.0 lowfat32.duckdns.org
 0.0.0.0 lowfive.duckdns.org
+0.0.0.0 lowfly.pro
 0.0.0.0 lowfooncctv.duckdns.org
 0.0.0.0 lowgliscorr.com
 0.0.0.0 lowgraveleron.com
@@ -352907,6 +353133,7 @@
 0.0.0.0 loxxxa.duckdns.org
 0.0.0.0 loxyornfjjmpc.online
 0.0.0.0 loy356.site
+0.0.0.0 loyal-product.com
 0.0.0.0 loyal-sing.pro
 0.0.0.0 loyalbodieshans.com
 0.0.0.0 loyaldiddlesgrego.qpon
@@ -354084,6 +354311,7 @@
 0.0.0.0 ltbvd.xsuit.com
 0.0.0.0 ltbzdstsmjiop.space
 0.0.0.0 ltbzneozzl.duckdns.org
+0.0.0.0 ltccasino.co
 0.0.0.0 ltccasino.io
 0.0.0.0 ltcmak.alodokter.com
 0.0.0.0 ltcnetwork.mhainc.com
@@ -354441,6 +354669,7 @@
 0.0.0.0 lucky-app.space
 0.0.0.0 lucky-bet.mx
 0.0.0.0 lucky-bet.site
+0.0.0.0 lucky-block-casino.net
 0.0.0.0 lucky-c3po.duckdns.org
 0.0.0.0 lucky-creates-ffxvenomm2021.duckdns.org
 0.0.0.0 lucky-day-uk.com
@@ -354689,6 +354918,7 @@
 0.0.0.0 lufthanza.com
 0.0.0.0 luftschlosspudding.duckdns.org
 0.0.0.0 lufudmcfxchay.space
+0.0.0.0 lufurfkbeplol.site
 0.0.0.0 luga.by
 0.0.0.0 lugansk-info.ru
 0.0.0.0 lugclcpldy.duckdns.org
@@ -355257,6 +355487,7 @@
 0.0.0.0 luvndate.com
 0.0.0.0 luvnrybocrcgl.com
 0.0.0.0 luvstnqpw.com
+0.0.0.0 luvttuhc.in
 0.0.0.0 luvver.pl
 0.0.0.0 luwiakgcxhclz.com
 0.0.0.0 luwiandihely.cyou
@@ -355330,6 +355561,7 @@
 0.0.0.0 luxuriousmind.pro
 0.0.0.0 luxuriouspenalty.pro
 0.0.0.0 luxuriouspickpocketsmuggle.com
+0.0.0.0 luxury-casino-uk.com
 0.0.0.0 luxury-furnishings.shop
 0.0.0.0 luxury-lane.7eer.net
 0.0.0.0 luxury-life.live
@@ -357993,6 +358225,7 @@
 0.0.0.0 madnmud.duckdns.org
 0.0.0.0 madnna.jp
 0.0.0.0 madnna.net
+0.0.0.0 madnqdujgqcwj.website
 0.0.0.0 madoffers.com
 0.0.0.0 madomo-ynh.duckdns.org
 0.0.0.0 madomo.duckdns.org
@@ -364521,6 +364754,7 @@
 0.0.0.0 mantlechacona.com
 0.0.0.0 mantledonager.com
 0.0.0.0 mantlefluent.com
+0.0.0.0 mantletpirojki.com
 0.0.0.0 mantobree.duckdns.org
 0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 mantofightgear-onlineshop.com
@@ -364770,7 +365004,6 @@
 0.0.0.0 mapscu.fmservice.com
 0.0.0.0 mapsdiker.cfd
 0.0.0.0 mapslob.com
-0.0.0.0 mapslocatlphone.help
 0.0.0.0 mapsokavy.pro
 0.0.0.0 mapspublications.us
 0.0.0.0 mapstats.blogflux.com
@@ -368207,6 +368440,7 @@
 0.0.0.0 mason.7eer.net
 0.0.0.0 mason.duckdns.org
 0.0.0.0 masonautohome.duckdns.org
+0.0.0.0 masondown.com
 0.0.0.0 masonercorking.com
 0.0.0.0 masonerthoria.shop
 0.0.0.0 masonhouse.duckdns.org
@@ -370685,6 +370919,7 @@
 0.0.0.0 mbmlink.site
 0.0.0.0 mbmmhome.duckdns.org
 0.0.0.0 mbmonica.duckdns.org
+0.0.0.0 mbmperdtymzae.website
 0.0.0.0 mbmrttiprx.com
 0.0.0.0 mbmrwxdwq.com
 0.0.0.0 mbmwfufkaxll.com
@@ -370744,6 +370979,7 @@
 0.0.0.0 mbpqvffspd.com
 0.0.0.0 mbqderrevw.duckdns.org
 0.0.0.0 mbqemaopoy.duckdns.org
+0.0.0.0 mbqobdfnlplgs.online
 0.0.0.0 mbqtqclrkk.duckdns.org
 0.0.0.0 mbqyntjbdv.duckdns.org
 0.0.0.0 mbr-advacqdsp00000026.duckdns.org
@@ -371123,6 +371359,7 @@
 0.0.0.0 mcdp-sadc1.outbrain.com
 0.0.0.0 mcdp.outbrain.com
 0.0.0.0 mcdr28kg165z-z1m78-qyvbr4dhq.login.exacttarget.com
+0.0.0.0 mcdrhiplbfxfk.website
 0.0.0.0 mcdrldgw.xyz
 0.0.0.0 mcds.dalyfeds.com
 0.0.0.0 mcdstorage.com
@@ -374027,6 +374264,7 @@
 0.0.0.0 megadedek.duckdns.org
 0.0.0.0 megadeliveryn.com
 0.0.0.0 megadencer.top
+0.0.0.0 megadice-casino.io
 0.0.0.0 megadown.us
 0.0.0.0 megaex.qualtrics.com
 0.0.0.0 megaffiliates.com
@@ -374099,6 +374337,7 @@
 0.0.0.0 megaspielhalle.de
 0.0.0.0 megassesumpter.cyou
 0.0.0.0 megast.at
+0.0.0.0 megastarfinancial.com
 0.0.0.0 megastat.net
 0.0.0.0 megastats.com
 0.0.0.0 megastore.bnex.com
@@ -379672,6 +379911,7 @@
 0.0.0.0 mfxipiyore.duckdns.org
 0.0.0.0 mfxjgymma.com
 0.0.0.0 mfxtlm.mobiup.ro
+0.0.0.0 mfxvjgzyyefdp.space
 0.0.0.0 mfxxpyhzofbsg.com
 0.0.0.0 mfxzxrveb.com
 0.0.0.0 mfyavsmiha.com
@@ -380195,6 +380435,7 @@
 0.0.0.0 mhtgouywqxrxa.online
 0.0.0.0 mhthemes.7eer.net
 0.0.0.0 mhtulkoysljdg.site
+0.0.0.0 mhuavwvdvdkbg.website
 0.0.0.0 mhub.work
 0.0.0.0 mhubhlushghex.site
 0.0.0.0 mhuhrlugag.duckdns.org
@@ -380784,6 +381025,7 @@
 0.0.0.0 midgetincidentally.com
 0.0.0.0 midgetreckon.com
 0.0.0.0 midgetsrassles.life
+0.0.0.0 midhvgopdqsia.online
 0.0.0.0 midiakit.com.br
 0.0.0.0 midiaplus.duckdns.org
 0.0.0.0 midiasemmascara.qualtrics.com
@@ -381296,6 +381538,7 @@
 0.0.0.0 milkyway87.duckdns.org
 0.0.0.0 milkywaycasino-cz.com
 0.0.0.0 milkywaynewspaper.com
+0.0.0.0 milkywinscasino.com
 0.0.0.0 milkywonder.pro
 0.0.0.0 mill-all.actonservice.com
 0.0.0.0 milladvocacyunderstandable.com
@@ -382264,6 +382507,7 @@
 0.0.0.0 miserlycabinet.com
 0.0.0.0 miserveunddns.duckdns.org
 0.0.0.0 miserybisksbishari.cyou
+0.0.0.0 misesbenton.rest
 0.0.0.0 miseventos.orem.com.mx
 0.0.0.0 misfiledumdumpelages.qpon
 0.0.0.0 misfits.duckdns.org
@@ -383762,6 +384006,7 @@
 0.0.0.0 mmfiles.amp.mcafee.com
 0.0.0.0 mmfl.duckdns.org
 0.0.0.0 mmfmes.rukodelov.ru
+0.0.0.0 mmfmfputtadfl.space
 0.0.0.0 mmfrn.stellarsleep.com
 0.0.0.0 mmftbznbhguvw.space
 0.0.0.0 mmftpf.com
@@ -383927,6 +384172,7 @@
 0.0.0.0 mmshbwtpx.com
 0.0.0.0 mmshome.duckdns.org
 0.0.0.0 mmsngaa.demdex.net
+0.0.0.0 mmsocdgdbsowd.online
 0.0.0.0 mmsotk.com
 0.0.0.0 mmss2015.malaysianmedics.org
 0.0.0.0 mmsshopcom.112.2o7.net
@@ -384273,6 +384519,7 @@
 0.0.0.0 moana-casino.fi
 0.0.0.0 moana1.duckdns.org
 0.0.0.0 moanacasino.no
+0.0.0.0 moanfultirls.click
 0.0.0.0 moangertk.duckdns.org
 0.0.0.0 moaningchannelassertive.com
 0.0.0.0 moaningfoe.com
@@ -385243,6 +385490,7 @@
 0.0.0.0 mofebueaztzad.website
 0.0.0.0 mofeegavub.net
 0.0.0.0 moffaths.duckdns.org
+0.0.0.0 moffpubsweary.cyou
 0.0.0.0 moffreelance.biz
 0.0.0.0 moffsets.com
 0.0.0.0 mofixxpaiy.duckdns.org
@@ -387263,6 +387511,7 @@
 0.0.0.0 motionspots.com
 0.0.0.0 motionthings.duckdns.org
 0.0.0.0 motista.actonservice.com
+0.0.0.0 motitex.com
 0.0.0.0 motiv8.duckdns.org
 0.0.0.0 motiva.ai
 0.0.0.0 motivaction.ie
@@ -387511,6 +387760,7 @@
 0.0.0.0 movi11.com
 0.0.0.0 moviads.pl
 0.0.0.0 movibliss-ss.checkoutera.com
+0.0.0.0 movie-date.net
 0.0.0.0 movie-list.us.intellitxt.com
 0.0.0.0 movie-pass.club
 0.0.0.0 movie-pass.live
@@ -388361,6 +388611,7 @@
 0.0.0.0 mrbalogh.duckdns.org
 0.0.0.0 mrbasic.com
 0.0.0.0 mrbatu.duckdns.org
+0.0.0.0 mrbetcasino.com
 0.0.0.0 mrbetcasino.org
 0.0.0.0 mrbhomeva.duckdns.org
 0.0.0.0 mrbik.duckdns.org
@@ -388550,6 +388801,7 @@
 0.0.0.0 mrminimies.duckdns.org
 0.0.0.0 mrmjrzczxu.duckdns.org
 0.0.0.0 mrmnd.com
+0.0.0.0 mrmobicasino.net
 0.0.0.0 mrmobicasino.org
 0.0.0.0 mrmoneybagsvpn.duckdns.org
 0.0.0.0 mrmonkeyfriend.duckdns.org
@@ -390065,6 +390317,7 @@
 0.0.0.0 mtagmonetizationa.com
 0.0.0.0 mtagmonetizationb.com
 0.0.0.0 mtagmonetizationc.com
+0.0.0.0 mtagnpuxbkhon.site
 0.0.0.0 mtaitdupf.com
 0.0.0.0 mtajnczzpz.duckdns.org
 0.0.0.0 mtajxdpvza.duckdns.org
@@ -391677,6 +391930,7 @@
 0.0.0.0 mvbcsloqebjfv.site
 0.0.0.0 mvbemeggnodty.com
 0.0.0.0 mvbjhcfeky.duckdns.org
+0.0.0.0 mvbrtfcn.com
 0.0.0.0 mvbwl.nakedharvestsupplements.com
 0.0.0.0 mvbwpkhsc.com
 0.0.0.0 mvc.shopjapan.co.jp
@@ -391762,6 +392016,7 @@
 0.0.0.0 mvjkbj.2-carat.net
 0.0.0.0 mvjkbj.inazumanews2.com
 0.0.0.0 mvjlg.jetsetcandy.com
+0.0.0.0 mvjllp.com
 0.0.0.0 mvjuhdjuwqtk.com
 0.0.0.0 mvjwnypunx.duckdns.org
 0.0.0.0 mvkddnhybd.duckdns.org
@@ -392021,6 +392276,7 @@
 0.0.0.0 mwsbk.desmondanddempsey.com
 0.0.0.0 mwseohimnnfcx.store
 0.0.0.0 mwsgv.rodeoh.com
+0.0.0.0 mwsgvnkhfrlah.space
 0.0.0.0 mwss.maxworx.com
 0.0.0.0 mwstats.net
 0.0.0.0 mwstudio.duckdns.org
@@ -393782,6 +394038,7 @@
 0.0.0.0 myroitracking.com
 0.0.0.0 myroledance.com
 0.0.0.0 myron.btttag.com
+0.0.0.0 myronl.com
 0.0.0.0 myrooierheide.duckdns.org
 0.0.0.0 myrpi4.duckdns.org
 0.0.0.0 myrpoluowphmic.com
@@ -394087,6 +394344,7 @@
 0.0.0.0 myv314920.pro
 0.0.0.0 myvacationguide.com
 0.0.0.0 myvads.com
+0.0.0.0 myvaultz.com
 0.0.0.0 myvegas.duckdns.org
 0.0.0.0 myvehicle.eaton.com
 0.0.0.0 myvg.duckdns.org
@@ -394146,6 +394404,7 @@
 0.0.0.0 myxavpn.space
 0.0.0.0 myxavpn.tech
 0.0.0.0 myxeed.duckdns.org
+0.0.0.0 myxineonsetstride.cfd
 0.0.0.0 myxoidlackey.qpon
 0.0.0.0 myxp.duckdns.org
 0.0.0.0 myxpe.duckdns.org
@@ -394285,6 +394544,7 @@
 0.0.0.0 mzprtajs.com
 0.0.0.0 mzpsfiywbkijp.online
 0.0.0.0 mzpxdokymq.duckdns.org
+0.0.0.0 mzqdp.xyz
 0.0.0.0 mzqnq.ouraring.com
 0.0.0.0 mzqobnkglx.duckdns.org
 0.0.0.0 mzqtm.voluumtrk.com
@@ -394347,6 +394607,7 @@
 0.0.0.0 mzyvyjsq.com
 0.0.0.0 mzywgqtehu.duckdns.org
 0.0.0.0 mzyxg.com
+0.0.0.0 mzzfchkcyiclj.website
 0.0.0.0 mzzgjopuym.duckdns.org
 0.0.0.0 mzzjl.bono.nl
 0.0.0.0 mzzouiciajems.com
@@ -394481,6 +394742,7 @@
 0.0.0.0 n0zwlat83.com
 0.0.0.0 n1-aux-log.unoadsrv.com
 0.0.0.0 n1-aux-log.vertamedia.com
+0.0.0.0 n1-casino.co
 0.0.0.0 n1-r2d2.amgload.net
 0.0.0.0 n1.eu.cdn.mktossl.com
 0.0.0.0 n1.nedstatbasic.net
@@ -394547,6 +394809,7 @@
 0.0.0.0 n222cloud.duckdns.org
 0.0.0.0 n24mobse.nuggad.net
 0.0.0.0 n24se.nuggad.net
+0.0.0.0 n252q.com
 0.0.0.0 n25oieie5rxghc.cfd
 0.0.0.0 n26-trusted.n26.com
 0.0.0.0 n26.qualtrics.com
@@ -394679,6 +394942,7 @@
 0.0.0.0 n6al211kbp.com
 0.0.0.0 n6bvzmqhvhtyj0090tr6kqau7ynia1514984477.nuid.imrworldwide.com
 0.0.0.0 n6k3z9w.cyou
+0.0.0.0 n6oouzftf9vpbwq7y2k9vex.rest
 0.0.0.0 n6pepvekwa.com
 0.0.0.0 n6pwo7whs2.com
 0.0.0.0 n6r3t8y.cyou
@@ -396269,6 +396533,7 @@
 0.0.0.0 nationalitypovertyconverted.com
 0.0.0.0 nationalledger.us.intellitxt.com
 0.0.0.0 nationallottery.ru
+0.0.0.0 nationallotterycasino.net
 0.0.0.0 nationalmediaspots.com
 0.0.0.0 nationalmssociety.client.janrain.com
 0.0.0.0 nationaloutdooradvertising.com
@@ -396462,6 +396727,7 @@
 0.0.0.0 nauervqyecwbx.space
 0.0.0.0 nauf.fr
 0.0.0.0 naufoojoocaih.com
+0.0.0.0 naugerbaffing.rest
 0.0.0.0 naughty-battle.com
 0.0.0.0 naughty-black.com
 0.0.0.0 naughty-breast.pro
@@ -397375,6 +397641,7 @@
 0.0.0.0 ncu.co1.qualtrics.com
 0.0.0.0 ncu.ficanex.ada.support
 0.0.0.0 ncubilviye.duckdns.org
+0.0.0.0 ncucctadziasa.website
 0.0.0.0 ncuejhuies.duckdns.org
 0.0.0.0 ncuhyesafk.duckdns.org
 0.0.0.0 ncunfitt.duckdns.org
@@ -397498,6 +397765,7 @@
 0.0.0.0 ndd3wvq0cw.com
 0.0.0.0 ndddttxkqyh.com
 0.0.0.0 nddhuugxkg.duckdns.org
+0.0.0.0 nddlfmvbww.com
 0.0.0.0 nddmcconmqsy.ru
 0.0.0.0 nddqijavkbdvyn.com
 0.0.0.0 nddxsbcgay.duckdns.org
@@ -397776,7 +398044,6 @@
 0.0.0.0 nebuha.duckdns.org
 0.0.0.0 nebuhome.duckdns.org
 0.0.0.0 nebula-cdn.kampyle.com
-0.0.0.0 nebula-client.org
 0.0.0.0 nebula.adtilt.com
 0.0.0.0 nebula.donnezvotrevoiture.org
 0.0.0.0 nebula.org
@@ -402862,6 +403129,7 @@
 0.0.0.0 nhvrarmjsp.duckdns.org
 0.0.0.0 nhvw3-ee61f.ads.tremorhub.com
 0.0.0.0 nhvw3-uz8ne.ads.tremorhub.com
+0.0.0.0 nhvwznuygysno.site
 0.0.0.0 nhvyclgonl.duckdns.org
 0.0.0.0 nhwfqtzcftqxi.site
 0.0.0.0 nhwkaupzae.duckdns.org
@@ -403279,7 +403547,6 @@
 0.0.0.0 nigeriagovernment.pro
 0.0.0.0 nigerianembassycaracas.org
 0.0.0.0 niggerman69.duckdns.org
-0.0.0.0 niggersmp.net
 0.0.0.0 niggipi.duckdns.org
 0.0.0.0 niggotchesil.cyou
 0.0.0.0 nightagain.duckdns.org
@@ -403835,6 +404102,7 @@
 0.0.0.0 nitrofuel.net
 0.0.0.0 nitrogenpleahierarchy.com
 0.0.0.0 nitrogenselfcontrolsticking.com
+0.0.0.0 nitrojiveband.com
 0.0.0.0 nitropay.com
 0.0.0.0 nitropayouts.directtrack.com
 0.0.0.0 nitroscripts.com
@@ -405949,7 +406217,6 @@
 0.0.0.0 nordearlogger.duckdns.org
 0.0.0.0 nordeela.com
 0.0.0.0 nordelorae.com
-0.0.0.0 nordertextil.de
 0.0.0.0 nordette.1.p2l.info
 0.0.0.0 nordette.3.p2l.info
 0.0.0.0 nordette.4.p2l.info
@@ -406241,7 +406508,6 @@
 0.0.0.0 not-only.info
 0.0.0.0 not-useast.connectad.io
 0.0.0.0 not.joingrubwabkp.duckdns.org
-0.0.0.0 nota-fical-online.lat
 0.0.0.0 notabilitysedative.com
 0.0.0.0 notabl8.com
 0.0.0.0 notable-equal.com
@@ -406695,6 +406961,7 @@
 0.0.0.0 novafga.casino
 0.0.0.0 novafinanza.com
 0.0.0.0 novagames.cc
+0.0.0.0 novagroupgbc.com
 0.0.0.0 novahassio.duckdns.org
 0.0.0.0 novahomeha.duckdns.org
 0.0.0.0 novak.warwoodtool.com
@@ -407527,6 +407794,7 @@
 0.0.0.0 nqzmtrwend.com
 0.0.0.0 nqzmumesrbiy.com
 0.0.0.0 nqzvxx.naturekind.co.kr
+0.0.0.0 nr-0560654.sbs
 0.0.0.0 nr-1831837132.sbs
 0.0.0.0 nr-238284sn.rest
 0.0.0.0 nr-239820890u9832.cfd
@@ -407538,6 +407806,7 @@
 0.0.0.0 nr-32788321.sbs
 0.0.0.0 nr-736293746.sbs
 0.0.0.0 nr-7365335562.sbs
+0.0.0.0 nr-893-28m-293sm.sbs
 0.0.0.0 nr-8j2-sm3-d8b.sbs
 0.0.0.0 nr-beacon.movingimage.com
 0.0.0.0 nr-data.com
@@ -409661,6 +409930,7 @@
 0.0.0.0 nvr.tkdrob456.duckdns.org
 0.0.0.0 nvrblck.com
 0.0.0.0 nvrblk.xyz
+0.0.0.0 nvremngibpsll.space
 0.0.0.0 nvrentao8.com
 0.0.0.0 nvrmd.novaramedia.com
 0.0.0.0 nvruan.com
@@ -409692,6 +409962,7 @@
 0.0.0.0 nvxcpppxwv.duckdns.org
 0.0.0.0 nvxdzjmcnh.duckdns.org
 0.0.0.0 nvxfxgrqqf.duckdns.org
+0.0.0.0 nvxgxuthh.com
 0.0.0.0 nvxlag.liligo.fr
 0.0.0.0 nvxntvdttjbrg.site
 0.0.0.0 nvxxspkywoqig.space
@@ -410675,6 +410946,7 @@
 0.0.0.0 nzihjybdeq.com
 0.0.0.0 nziphypoc.store
 0.0.0.0 nziwsczyscroj.online
+0.0.0.0 nzjhxvelasrcy.site
 0.0.0.0 nzjziwubjx.duckdns.org
 0.0.0.0 nzkjbazl.com
 0.0.0.0 nzkjjqrcte.com
@@ -410910,8 +411182,10 @@
 0.0.0.0 o1.qualtrics.com
 0.0.0.0 o1.sendgrid.tynt.com
 0.0.0.0 o10.ptr9351.email.flipboard.com
+0.0.0.0 o10202030.sbs
 0.0.0.0 o10202038.shop
 0.0.0.0 o102040.shop
+0.0.0.0 o10303010.sbs
 0.0.0.0 o10304571.shop
 0.0.0.0 o107894802.shop
 0.0.0.0 o1080483.shop
@@ -412183,6 +412457,7 @@
 0.0.0.0 obyxqjgwg.com
 0.0.0.0 obyxuq.gazzy.com.br
 0.0.0.0 obyz.de
+0.0.0.0 obyzyxkayqcij.online
 0.0.0.0 obzatop.info
 0.0.0.0 obzbglqppn.duckdns.org
 0.0.0.0 obzdiqozp.in
@@ -412502,6 +412777,7 @@
 0.0.0.0 ocqueroques.com
 0.0.0.0 ocqywlcwfwypz.online
 0.0.0.0 ocr.minsa.duckdns.org
+0.0.0.0 ocracyaftmost.cfd
 0.0.0.0 ocreashrug.shop
 0.0.0.0 ocreativedesign.com
 0.0.0.0 ocrgduldhsxkc.site
@@ -412782,6 +413058,7 @@
 0.0.0.0 odbqqqsimt.duckdns.org
 0.0.0.0 odbsmbtdcjuzp.site
 0.0.0.0 odbxiloo.charterschooljobs.com
+0.0.0.0 odbyrzbelsqwl.online
 0.0.0.0 odc.1und1.de
 0.0.0.0 odc.starwave.com
 0.0.0.0 odc.weather.com
@@ -412890,7 +413167,6 @@
 0.0.0.0 odinitedetraytopmaul.cyou
 0.0.0.0 odinkod.ru
 0.0.0.0 odinlot.duckdns.org
-0.0.0.0 odinmod.org
 0.0.0.0 odinsrv.duckdns.org
 0.0.0.0 odinstreamy.com
 0.0.0.0 odiousbunny.com
@@ -413375,6 +413651,7 @@
 0.0.0.0 oferta-2415754.cfd
 0.0.0.0 oferta-2457681.cfd
 0.0.0.0 oferta-2784651.cfd
+0.0.0.0 oferta-326123.cfd
 0.0.0.0 oferta-33742115.cfd
 0.0.0.0 oferta-3645.sbs
 0.0.0.0 oferta-3736.sbs
@@ -413430,6 +413707,7 @@
 0.0.0.0 oferta-7845211.cfd
 0.0.0.0 oferta-7951351.cfd
 0.0.0.0 oferta-79582411.cfd
+0.0.0.0 oferta-8263.sbs
 0.0.0.0 oferta-841524211.cfd
 0.0.0.0 oferta-8475961.cfd
 0.0.0.0 oferta-8495321.cfd
@@ -414048,6 +414326,7 @@
 0.0.0.0 oftifkqjkw.duckdns.org
 0.0.0.0 oftluipqfy.duckdns.org
 0.0.0.0 oftmnsrnhkmtu.site
+0.0.0.0 oftoggsfu.in
 0.0.0.0 oftrajhaqnis.com
 0.0.0.0 oftwxfnfhfjdy.site
 0.0.0.0 oftwzltiek.duckdns.org
@@ -416344,6 +416623,7 @@
 0.0.0.0 olympusmc.net
 0.0.0.0 olympusvx.qualtrics.com
 0.0.0.0 olympuswire.duckdns.org
+0.0.0.0 olyortho.com
 0.0.0.0 olypyaeupxoyg.site
 0.0.0.0 olyriandx.net
 0.0.0.0 olyrien.net
@@ -419093,6 +419373,7 @@
 0.0.0.0 oowideagwd.duckdns.org
 0.0.0.0 oowivxijrgbrzc.bid
 0.0.0.0 oowqcmolqtwai.online
+0.0.0.0 oowuqiqdmlfkh.website
 0.0.0.0 oowvaygribfhj.space
 0.0.0.0 oowxeugbvqfnr.site
 0.0.0.0 oowzhbpmxs.duckdns.org
@@ -420519,6 +420800,7 @@
 0.0.0.0 oqmqw.loveinboxx.com
 0.0.0.0 oqmwutbug.com
 0.0.0.0 oqmzuxgipc.in
+0.0.0.0 oqncedhjskaak.website
 0.0.0.0 oqnmh.cheesebros.com
 0.0.0.0 oqnmjmeqey.duckdns.org
 0.0.0.0 oqnzz.lyfd2xzauti9d8p.bapb.gdn
@@ -420924,6 +421206,7 @@
 0.0.0.0 ordie.adbureau.net
 0.0.0.0 ordigital-shop.pages.dev
 0.0.0.0 ordilogic.duckdns.org
+0.0.0.0 ordinalzero.com
 0.0.0.0 ordinarilyinstead.com
 0.0.0.0 ordinarilyrehearsenewsletter.com
 0.0.0.0 ordinary-check.com
@@ -421123,6 +421406,7 @@
 0.0.0.0 organsjobsshrugged.com
 0.0.0.0 organsthud.com
 0.0.0.0 organsunleashfled.com
+0.0.0.0 organygrabbed.com
 0.0.0.0 organzaspeltz.shop
 0.0.0.0 orgaran.duckdns.org
 0.0.0.0 orgasm.qualtrics.com
@@ -421785,6 +422069,7 @@
 0.0.0.0 oscar-client.sharethrough.com
 0.0.0.0 oscar-ha.duckdns.org
 0.0.0.0 oscar-server.sharethrough.com
+0.0.0.0 oscar-spin-casino.org
 0.0.0.0 oscar.alphonso.tv
 0.0.0.0 oscar0.rtb.appier.net
 0.0.0.0 oscar1.rtb.appier.net
@@ -421966,6 +422251,7 @@
 0.0.0.0 oshkqeecss.duckdns.org
 0.0.0.0 oshlzg.takealot.com
 0.0.0.0 oshoofaipa.com
+0.0.0.0 oshovwjpi.in
 0.0.0.0 oshowm.allureville.com
 0.0.0.0 oshp.io
 0.0.0.0 oshrizak.duckdns.org
@@ -422711,6 +422997,7 @@
 0.0.0.0 ouigrowth.com
 0.0.0.0 ouiiadyzaieqx.space
 0.0.0.0 ouiinryhlvbgq.com
+0.0.0.0 ouijarapper.com
 0.0.0.0 ouiokaq.top
 0.0.0.0 ouiwfrtqcwjeu.online
 0.0.0.0 oujeghaursee.com
@@ -423244,6 +423531,7 @@
 0.0.0.0 ouvimymvxqhkp.site
 0.0.0.0 ouviqwzxkkejz.website
 0.0.0.0 ouvjnb.westernbikeworks.com
+0.0.0.0 ouvrierchases.click
 0.0.0.0 ouvrsggyhr.duckdns.org
 0.0.0.0 ouvtjehb.bid
 0.0.0.0 ouvvc.footforward.co.nz
@@ -424340,6 +424628,7 @@
 0.0.0.0 oxlnzwogna.duckdns.org
 0.0.0.0 oxload.icu
 0.0.0.0 oxlqojvewyjni.site
+0.0.0.0 oxlrblhsjtafa.space
 0.0.0.0 oxlueigiwmyxh.com
 0.0.0.0 oxluuitfxv.duckdns.org
 0.0.0.0 oxlynyoga.com
@@ -424537,6 +424826,7 @@
 0.0.0.0 oynveturupdut.site
 0.0.0.0 oyo4d.com
 0.0.0.0 oyojeelxp1n0p2w4fhugtusfwu00u1511205910.nuid.imrworldwide.com
+0.0.0.0 oyotfncssiyfn.online
 0.0.0.0 oyotii.sportokay.com
 0.0.0.0 oyoxyc.josefsteiner.at
 0.0.0.0 oypineyedestan.cfd
@@ -424630,6 +424920,7 @@
 0.0.0.0 ozandeneme.duckdns.org
 0.0.0.0 ozanemre1.duckdns.org
 0.0.0.0 ozanemre1x.duckdns.org
+0.0.0.0 ozanguner.com
 0.0.0.0 ozantufan10.duckdns.org
 0.0.0.0 ozapool.com
 0.0.0.0 ozarkuprears.click
@@ -424665,6 +424956,7 @@
 0.0.0.0 ozelmedikal.com
 0.0.0.0 ozendekorasyon.com
 0.0.0.0 ozertesa.com
+0.0.0.0 ozf4iek3.xyz
 0.0.0.0 ozfccnggpw.duckdns.org
 0.0.0.0 ozfejflhimwls.online
 0.0.0.0 ozfisiodlybdi.site
@@ -426351,6 +426643,7 @@
 0.0.0.0 paeuyoidoanlo.site
 0.0.0.0 paeyefniea.duckdns.org
 0.0.0.0 paf-casinos.fi
+0.0.0.0 pafcasino.net
 0.0.0.0 pafcasinos-fi.com
 0.0.0.0 pafefey.com
 0.0.0.0 pafienim.org
@@ -426458,7 +426751,6 @@
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
 0.0.0.0 pagefly.io
-0.0.0.0 pageforge.fr
 0.0.0.0 pagehelp2.duckdns.org
 0.0.0.0 pageid.info
 0.0.0.0 pageisloading.net
@@ -426732,6 +427024,7 @@
 0.0.0.0 pahgohcsbv.duckdns.org
 0.0.0.0 pahi.duckdns.org
 0.0.0.0 pahkjm.subtypestore.com
+0.0.0.0 pahlevimouses.com
 0.0.0.0 paholita.com
 0.0.0.0 pahomeassistant.duckdns.org
 0.0.0.0 pahomeip.duckdns.org
@@ -427527,7 +427820,6 @@
 0.0.0.0 paopao.iqiyi.com
 0.0.0.0 paopaotang.duckdns.org
 0.0.0.0 paopq2we.duckdns.org
-0.0.0.0 paopv.xyz
 0.0.0.0 paotmlonx.com
 0.0.0.0 paoun.com
 0.0.0.0 paoxktfgm.com
@@ -427907,6 +428199,7 @@
 0.0.0.0 parkdumbest.com
 0.0.0.0 parked-content.godaddy.com
 0.0.0.0 parkedbumperfrustration.com
+0.0.0.0 parkell.com
 0.0.0.0 parkepanow.store
 0.0.0.0 parkerhannifin.co1.qualtrics.com
 0.0.0.0 parkerjr.duckdns.org
@@ -429320,6 +429613,7 @@
 0.0.0.0 patelhome.duckdns.org
 0.0.0.0 patellabayed.top
 0.0.0.0 patelmagnets.moengage.com
+0.0.0.0 patencyviddhal.com
 0.0.0.0 patent.duckdns.org
 0.0.0.0 patentfriend.com
 0.0.0.0 patermac.duckdns.org
@@ -429779,7 +430073,6 @@
 0.0.0.0 paycoinalt.com
 0.0.0.0 paycor.evergage.com
 0.0.0.0 paycor.iad1.qualtrics.com
-0.0.0.0 paycore-my3.shop
 0.0.0.0 paycount.com
 0.0.0.0 paycounter.com
 0.0.0.0 paydashboard.actonservice.com
@@ -430387,6 +430680,7 @@
 0.0.0.0 pcapp.store
 0.0.0.0 pcapps.my
 0.0.0.0 pcapredict.com
+0.0.0.0 pcaqedtlygwlt.website
 0.0.0.0 pcaro.duckdns.org
 0.0.0.0 pcartwright81.duckdns.org
 0.0.0.0 pcash.globalmailer5.com
@@ -430640,6 +430934,7 @@
 0.0.0.0 pctweu.vancouverco.com
 0.0.0.0 pctzdv.icu
 0.0.0.0 pcu1x1o8cli5tyn7pz5y135.cfd
+0.0.0.0 pcuhsvrytqd.com
 0.0.0.0 pculb.upheal.io
 0.0.0.0 pcummujxtpyve.website
 0.0.0.0 pcus.ucweb.com
@@ -431366,7 +431661,6 @@
 0.0.0.0 pehvwzyx.com
 0.0.0.0 pei-ads.playboy.com
 0.0.0.0 pei-ads.thesmokingjacket.com
-0.0.0.0 peiab.xyz
 0.0.0.0 peibd.bullybeds.com
 0.0.0.0 peibol.duckdns.org
 0.0.0.0 peiceline.com
@@ -433510,6 +433804,7 @@
 0.0.0.0 phasmfranca.com
 0.0.0.0 phasmomax.duckdns.org
 0.0.0.0 phasotsu.com
+0.0.0.0 phasqwoicmiwv.site
 0.0.0.0 phass.duckdns.org
 0.0.0.0 phastigrevo.com
 0.0.0.0 phastoag.com
@@ -434537,6 +434832,7 @@
 0.0.0.0 phzndmqndk.duckdns.org
 0.0.0.0 phznxmvagv.duckdns.org
 0.0.0.0 phztnfimeghth.space
+0.0.0.0 pi-8592185.lat
 0.0.0.0 pi-ads.appia.com
 0.0.0.0 pi-bol.duckdns.org
 0.0.0.0 pi-callen-bitwarden.duckdns.org
@@ -435066,6 +435362,7 @@
 0.0.0.0 piggy.nl
 0.0.0.0 piggyborecorporation.com
 0.0.0.0 piggyquarterbackascension.com
+0.0.0.0 pigherdkuttar.com
 0.0.0.0 piglances.pinusd.duckdns.org
 0.0.0.0 piglingtophous.cfd
 0.0.0.0 piglumsout.com
@@ -435801,6 +436098,7 @@
 0.0.0.0 pinnategourd.cyou
 0.0.0.0 pinnerboyz-hudson.duckdns.org
 0.0.0.0 pinnersslab.qpon
+0.0.0.0 pinnetdor.cfd
 0.0.0.0 pinningimbrier.shop
 0.0.0.0 pinniped.quarantinecup.live
 0.0.0.0 pinniped.resist.bot
@@ -435895,6 +436193,7 @@
 0.0.0.0 pinupscasino.com
 0.0.0.0 pinupuzcasino.com
 0.0.0.0 pinusd.duckdns.org
+0.0.0.0 pinusproviso.click
 0.0.0.0 pinusrimbase.cfd
 0.0.0.0 pinvf.australianopaldirect.com
 0.0.0.0 pinwalerompers.com
@@ -437135,6 +437434,7 @@
 0.0.0.0 pizca2014.duckdns.org
 0.0.0.0 piziadivor.store
 0.0.0.0 pizinegxgdrgx.store
+0.0.0.0 pizivuvawntzl.online
 0.0.0.0 pizsic.gafisa.com.br
 0.0.0.0 pizubetam.gbt-shop.it
 0.0.0.0 pizxqoqajauix.space
@@ -437612,7 +437912,6 @@
 0.0.0.0 pl-10967732.icu
 0.0.0.0 pl-12389467a12.sbs
 0.0.0.0 pl-1247089a2.sbs
-0.0.0.0 pl-124897a45.sbs
 0.0.0.0 pl-1349578456.lol
 0.0.0.0 pl-14982.click
 0.0.0.0 pl-1541lq8ler0a.pulsbiznesu.app
@@ -437998,7 +438297,6 @@
 0.0.0.0 pl-payme-paczka.shop
 0.0.0.0 pl-paymoney1.eu.cc
 0.0.0.0 pl-paymoney3.eu.cc
-0.0.0.0 pl-payu-confirmation.buzz
 0.0.0.0 pl-payu-paczka.biz.id
 0.0.0.0 pl-payu-paczka.bond
 0.0.0.0 pl-payu-paczka.buzz
@@ -438946,6 +439244,7 @@
 0.0.0.0 plainrequest.com
 0.0.0.0 plainridgeparkcasino.com
 0.0.0.0 plains.fr
+0.0.0.0 plainsphere.pro
 0.0.0.0 plainstats.com
 0.0.0.0 plainsuburbtoilet.com
 0.0.0.0 plaintfarrel.com
@@ -439612,6 +439911,7 @@
 0.0.0.0 playcam.s.xoxknct.com
 0.0.0.0 playcasino.com
 0.0.0.0 playcasino.vip
+0.0.0.0 playcasinoonline.ca
 0.0.0.0 playcasinos.ca
 0.0.0.0 playcog.co.ha-sha-nemart-in.duckdns.org
 0.0.0.0 playcontestofchampions.com
@@ -439715,6 +440015,7 @@
 0.0.0.0 playfortuna-xlu.top
 0.0.0.0 playfortuna-yay.top
 0.0.0.0 playfortunacasino.net
+0.0.0.0 playfortunacasino.org
 0.0.0.0 playfrankcasino.com
 0.0.0.0 playful-unit.pro
 0.0.0.0 playfulharbor.info
@@ -439755,6 +440056,7 @@
 0.0.0.0 playmake.duckdns.org
 0.0.0.0 playmatic.video
 0.0.0.0 playmax.co
+0.0.0.0 playmillion-casino.com
 0.0.0.0 playmillion.de
 0.0.0.0 playminecraft.duckdns.org
 0.0.0.0 playminigolf.com
@@ -439783,6 +440085,7 @@
 0.0.0.0 playpenchurmlacrym.cyou
 0.0.0.0 playrainbet.com
 0.0.0.0 playrcart.com
+0.0.0.0 playregalcasino.org
 0.0.0.0 playsataion.com
 0.0.0.0 playsnourishbag.com
 0.0.0.0 playson.com
@@ -439889,6 +440192,7 @@
 0.0.0.0 pleasantpositive.pro
 0.0.0.0 pleasantpump.com
 0.0.0.0 pleasantquote.pro
+0.0.0.0 pleasanttulip.com
 0.0.0.0 pleasantvalue.pro
 0.0.0.0 pleasantw.top
 0.0.0.0 please-casino.fr
@@ -440730,6 +441034,7 @@
 0.0.0.0 plqbxvnjxq92.com
 0.0.0.0 plqeavcvdadnr.site
 0.0.0.0 plqfevftpkfsq.site
+0.0.0.0 plqrvnpy.com
 0.0.0.0 plquutxxewil.com
 0.0.0.0 plqzrnpqiu.duckdns.org
 0.0.0.0 plr2u.com
@@ -440783,6 +441088,7 @@
 0.0.0.0 plt67r3b12lqc43r7jt77bl3y7qm443ri.cfd
 0.0.0.0 pltamaxr.com
 0.0.0.0 pltapad.com
+0.0.0.0 plteiytxbgeyx.online
 0.0.0.0 pltmsckbnlloy.website
 0.0.0.0 pltnmvenus.duckdns.org
 0.0.0.0 pltraffic8.com
@@ -441313,6 +441619,7 @@
 0.0.0.0 pmseimhw.lifevac.net
 0.0.0.0 pmsls-hass.duckdns.org
 0.0.0.0 pmslwykerlpfusd.com
+0.0.0.0 pmsml.cc
 0.0.0.0 pmsmrgxdyr.duckdns.org
 0.0.0.0 pmspiricry.duckdns.org
 0.0.0.0 pmsplayer.duckdns.org
@@ -441385,6 +441692,7 @@
 0.0.0.0 pnb.duckdns.org
 0.0.0.0 pnbdbvgfk.com
 0.0.0.0 pnbglewqjxmab.space
+0.0.0.0 pnbmoezxtewgv.site
 0.0.0.0 pnbnosowlq.duckdns.org
 0.0.0.0 pnbopaatdmcgu.online
 0.0.0.0 pnc.co1.qualtrics.com
@@ -441682,6 +441990,7 @@
 0.0.0.0 pocketpc.digidip.net
 0.0.0.0 pocketshighlyinquired.com
 0.0.0.0 pocketsonic.com
+0.0.0.0 pockett3.com
 0.0.0.0 pockingmolla.com
 0.0.0.0 pocklez.duckdns.org
 0.0.0.0 pockmselet.store
@@ -442424,7 +442733,6 @@
 0.0.0.0 polyresin-ai.com
 0.0.0.0 polyrnarket.vip
 0.0.0.0 polyspace.cc
-0.0.0.0 polysupport.team
 0.0.0.0 polytunnel.duckdns.org
 0.0.0.0 polyumm.asia.qualtrics.com
 0.0.0.0 polyvalent.co.in
@@ -443084,6 +443392,7 @@
 0.0.0.0 popxyz.com
 0.0.0.0 popzila.com
 0.0.0.0 popzkvfimbox.com
+0.0.0.0 popzu-srv.live
 0.0.0.0 poqhvarqgo.duckdns.org
 0.0.0.0 poqicbzcuw.duckdns.org
 0.0.0.0 poqnfkyhgb.duckdns.org
@@ -443098,6 +443407,7 @@
 0.0.0.0 por.mhom.duckdns.org
 0.0.0.0 por.soa1.duckdns.org
 0.0.0.0 poradnik-diet.pl
+0.0.0.0 poralscarpehilts.cyou
 0.0.0.0 porase.com
 0.0.0.0 poratainer.highlandcoo.duckdns.org
 0.0.0.0 poratav.com
@@ -443172,6 +443482,7 @@
 0.0.0.0 pornhb.me
 0.0.0.0 pornhub.tardangro.com
 0.0.0.0 pornhub.yoshatia.com
+0.0.0.0 pornhubcasino.io
 0.0.0.0 pornhyip.com
 0.0.0.0 pornin.ru
 0.0.0.0 pornjustx.com
@@ -444817,6 +445128,7 @@
 0.0.0.0 ppasisst01-service14.duckdns.org
 0.0.0.0 ppasisst02-service3.duckdns.org
 0.0.0.0 ppato.duckdns.org
+0.0.0.0 ppautngfonjao.website
 0.0.0.0 ppauvlzcsdotc.website
 0.0.0.0 ppavone.duckdns.org
 0.0.0.0 ppaz1.qualtrics.com
@@ -445422,6 +445734,7 @@
 0.0.0.0 prairiedog.health-improvement.uk
 0.0.0.0 prairiedog.xview.us
 0.0.0.0 prairielink.cfd
+0.0.0.0 prairieridge.net
 0.0.0.0 praiseads.go2cloud.org
 0.0.0.0 praisebrains.com
 0.0.0.0 praisedlod.duckdns.org
@@ -447817,7 +448130,6 @@
 0.0.0.0 producttofirefly.net
 0.0.0.0 productupdates.moengage.com
 0.0.0.0 produits.ricoh.fr
-0.0.0.0 produkt-2439023-2026.sbs
 0.0.0.0 produkte.ricoh.at
 0.0.0.0 produkte.ricoh.de
 0.0.0.0 produktionsdruck.ricoh.de
@@ -448794,6 +449106,7 @@
 0.0.0.0 prosody.docker-jitsi-meet.zeus727.duckdns.org
 0.0.0.0 prosody.jitsi-meet.zeus727.duckdns.org
 0.0.0.0 prosolutionplusdiscount.com
+0.0.0.0 prosomnus.com
 0.0.0.0 prosospraxis.cyou
 0.0.0.0 prospecteye.com
 0.0.0.0 prospectfrigilityfrigility.com
@@ -450190,6 +450503,7 @@
 0.0.0.0 pstgaac.com
 0.0.0.0 pstjdcfhqxwjops.com
 0.0.0.0 pstmrk.it
+0.0.0.0 pstopening.rest
 0.0.0.0 pstpgbbgnv.duckdns.org
 0.0.0.0 pstream.atdmt.com
 0.0.0.0 pstreetma.com
@@ -450234,6 +450548,7 @@
 0.0.0.0 pswzggx.icu
 0.0.0.0 psx.ign.us.intellitxt.com
 0.0.0.0 psxc6fapn.com
+0.0.0.0 psxlkwmzitocq.site
 0.0.0.0 psxnwzksttygfs.com
 0.0.0.0 psxoymzutd.duckdns.org
 0.0.0.0 psxsjo.carrano.com.br
@@ -452031,6 +452346,7 @@
 0.0.0.0 punishmutterherself.com
 0.0.0.0 punishutrubi.com
 0.0.0.0 punk.strangereaction.com
+0.0.0.0 punkaactuary.com
 0.0.0.0 punkahsfinfoot.cfd
 0.0.0.0 punkierdetruck.com
 0.0.0.0 punksawolvirions.cyou
@@ -452108,6 +452424,7 @@
 0.0.0.0 puppetcorp.com
 0.0.0.0 puppetgrow.com
 0.0.0.0 puppiesart.com
+0.0.0.0 puppilyendhand.rest
 0.0.0.0 puppyderisiverear.com
 0.0.0.0 puppygames.fr
 0.0.0.0 puppylover.fr
@@ -453235,6 +453552,7 @@
 0.0.0.0 pvzesryoifiit.online
 0.0.0.0 pvzjbcjusn.duckdns.org
 0.0.0.0 pvzvwpkfrq.duckdns.org
+0.0.0.0 pvzwcgmwulngj.site
 0.0.0.0 pw.81bronte.duckdns.org
 0.0.0.0 pw.analytics.console.aws.a2z.com
 0.0.0.0 pw.aytec.duckdns.org
@@ -453689,6 +454007,7 @@
 0.0.0.0 pxlvvktn.horizon-liberal.fr
 0.0.0.0 pxlvvktn.milo-kine.fr
 0.0.0.0 pxlwidgets.com
+0.0.0.0 pxlxgtktpfpap.online
 0.0.0.0 pxmhwn.wellstore.it
 0.0.0.0 pxmrtlweni.duckdns.org
 0.0.0.0 pxmuemoyjb.com
@@ -454199,6 +454518,7 @@
 0.0.0.0 pzz.events
 0.0.0.0 pzz.io
 0.0.0.0 pzzdhj.rockyboots.com
+0.0.0.0 pzzkyiyiwhfkm.space
 0.0.0.0 pzzlfhegno.duckdns.org
 0.0.0.0 pzzmqjrp.com
 0.0.0.0 pzzototppj.duckdns.org
@@ -455640,7 +455960,6 @@
 0.0.0.0 qfiulozlbg.duckdns.org
 0.0.0.0 qfj1mcik-android.mobile-sdk-api.intercom.io
 0.0.0.0 qfj1mcik-ios.mobile-sdk-api.intercom.io
-0.0.0.0 qfjao.help
 0.0.0.0 qfjgcntbdvthn.online
 0.0.0.0 qfjggtpggwnjh.site
 0.0.0.0 qfjherc.com
@@ -457260,6 +457579,7 @@
 0.0.0.0 qpaju.equimea.de
 0.0.0.0 qpartnerdev.qualtrics.com
 0.0.0.0 qpastswynfzcb.space
+0.0.0.0 qpaypmpajlzdkm.com
 0.0.0.0 qpaz1.az1.qualtrics.com
 0.0.0.0 qpaz1.qualtrics.com
 0.0.0.0 qpbaammdcwu.com
@@ -458613,6 +458933,7 @@
 0.0.0.0 queenjam.com
 0.0.0.0 queenm.site
 0.0.0.0 queenmult.link
+0.0.0.0 queenplaycasino.net
 0.0.0.0 queenrangalways.com
 0.0.0.0 queenrap.com
 0.0.0.0 queensatlanta.org
@@ -459094,6 +459415,7 @@
 0.0.0.0 quiron-luxora.pro
 0.0.0.0 quirre.duckdns.org
 0.0.0.0 quirtmenhir.cyou
+0.0.0.0 quisbyquassia.click
 0.0.0.0 quiscdvothbdc.com
 0.0.0.0 quisma.com
 0.0.0.0 quistify.com
@@ -459554,7 +459876,6 @@
 0.0.0.0 qwfnjpeckv.duckdns.org
 0.0.0.0 qwfunfqvdz.duckdns.org
 0.0.0.0 qwfuug.phoneclick.it
-0.0.0.0 qwfwhg4.lol
 0.0.0.0 qwfwimquecfw.bid
 0.0.0.0 qwgafzaujn.bid
 0.0.0.0 qwgayltthcval.space
@@ -460016,6 +460337,7 @@
 0.0.0.0 qzhaqsxb.com
 0.0.0.0 qzhhbfifot.duckdns.org
 0.0.0.0 qzhhdsbuec.duckdns.org
+0.0.0.0 qzhjpkgifhcfh.space
 0.0.0.0 qzholswdlr.duckdns.org
 0.0.0.0 qzhqjhwhgm.duckdns.org
 0.0.0.0 qzhrowwfhj.duckdns.org
@@ -460446,6 +460768,7 @@
 0.0.0.0 r2db.duckdns.org
 0.0.0.0 r2e6ftfg8.duckdns.org
 0.0.0.0 r2fjs.voluumtrk.com
+0.0.0.0 r2fww1gz3681hu.cfd
 0.0.0.0 r2gdigital.com
 0.0.0.0 r2jhf1byptnoyhudpkdh3x7cq3qo31509915000.nuid.imrworldwide.com
 0.0.0.0 r2jmarketing.go2cloud.org
@@ -460525,6 +460848,7 @@
 0.0.0.0 r5bzv4kvpzjlrb9g5p4o.cfd
 0.0.0.0 r5g13d8py3.com
 0.0.0.0 r5gcp9.com
+0.0.0.0 r5hk5ebznt9t8f6tmjqqy6nk81no5.rest
 0.0.0.0 r5jpkacq.ru
 0.0.0.0 r5n8ic3on.com
 0.0.0.0 r5w8k1j.pics
@@ -462129,6 +462453,7 @@
 0.0.0.0 rapidredirecting.com
 0.0.0.0 rapidresponse.directtrack.com
 0.0.0.0 rapidscansecure.com
+0.0.0.0 rapidscraper.com
 0.0.0.0 rapidstats.net
 0.0.0.0 rapidtokit.net
 0.0.0.0 rapidtrk.net
@@ -463738,6 +464063,7 @@
 0.0.0.0 reacherinst.com
 0.0.0.0 reachforce.com
 0.0.0.0 reachforce.marketo.com
+0.0.0.0 reachgeneric.co.uk
 0.0.0.0 reachhighermontana.com
 0.0.0.0 reachhumans.com
 0.0.0.0 reachjunction.com
@@ -464657,6 +464983,7 @@
 0.0.0.0 recruit.gradleaders.com
 0.0.0.0 recruit.mbafocus.com
 0.0.0.0 recruitbox.media.iid.jp
+0.0.0.0 recruitersglobal.net
 0.0.0.0 recruitics.com
 0.0.0.0 recruiting-ads.de
 0.0.0.0 recruiting.dukekunshan.edu.cn
@@ -467776,6 +468103,7 @@
 0.0.0.0 reshin.de
 0.0.0.0 reshipscopolar.qpon
 0.0.0.0 reshoestimo.cyou
+0.0.0.0 reshootsoget.rest
 0.0.0.0 reshutchoakselena.qpon
 0.0.0.0 reshutgobio.com
 0.0.0.0 resib.ru
@@ -467789,6 +468117,7 @@
 0.0.0.0 residentie.duckdns.org
 0.0.0.0 residentprocuratorreal.com
 0.0.0.0 residenz-homeassistant.duckdns.org
+0.0.0.0 residenzaroma-tropea.it
 0.0.0.0 resideour.com
 0.0.0.0 resideplanned.com
 0.0.0.0 resideral.com
@@ -468383,6 +468712,7 @@
 0.0.0.0 reterafu.torplanet.ru
 0.0.0.0 reteste.duckdns.org
 0.0.0.0 retestscortin.rest
+0.0.0.0 retestskiranti.click
 0.0.0.0 reteu.duckdns.org
 0.0.0.0 retg.adnetwork.vn
 0.0.0.0 retg.ambient-platform.com
@@ -469322,6 +469652,7 @@
 0.0.0.0 rfsfpomom.com
 0.0.0.0 rfsnschweizgruppe.com
 0.0.0.0 rfsquk.medicaresavingslab.com
+0.0.0.0 rfsryzpywmtig.website
 0.0.0.0 rfss.russellfinex.com
 0.0.0.0 rfssm.iliabeauty.com
 0.0.0.0 rfsyttkioq.duckdns.org
@@ -469601,6 +469932,7 @@
 0.0.0.0 rgzrys.hangikredi.com
 0.0.0.0 rgzsqguekw.duckdns.org
 0.0.0.0 rgztepyoefvm.com
+0.0.0.0 rgzxscibgg.com
 0.0.0.0 rgzz3rs.icu
 0.0.0.0 rh-pi.duckdns.org
 0.0.0.0 rh.adp.ca
@@ -471115,6 +471447,7 @@
 0.0.0.0 rjfkoci1.duckdns.org
 0.0.0.0 rjfskgjstkfts.website
 0.0.0.0 rjfun.com
+0.0.0.0 rjfxxciv.com
 0.0.0.0 rjg2.destinia.ly
 0.0.0.0 rjgglf.ncchomelearning.co.uk
 0.0.0.0 rjgsjm.gigameubel.nl
@@ -471409,6 +471742,7 @@
 0.0.0.0 rkvahastku.duckdns.org
 0.0.0.0 rkvhqhkztzlxk.website
 0.0.0.0 rkvivbixpk.duckdns.org
+0.0.0.0 rkvlgtxzkxwdu.site
 0.0.0.0 rkvmdajrdmfec.online
 0.0.0.0 rkvpcjiuumbk.com
 0.0.0.0 rkvywibqtrekz.website
@@ -472326,6 +472660,7 @@
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 roblox.com.ss
+0.0.0.0 roblox.com.sy
 0.0.0.0 roblox.et
 0.0.0.0 roblox.fo
 0.0.0.0 roblox.gf
@@ -472335,6 +472670,7 @@
 0.0.0.0 roblox.rw
 0.0.0.0 roblox.ss
 0.0.0.0 roblox.vk.com
+0.0.0.0 robloxapps.com
 0.0.0.0 robloxcommunity.com
 0.0.0.0 robloxcorporation.com
 0.0.0.0 robloxfree.com
@@ -472720,6 +473056,7 @@
 0.0.0.0 roguessimooms.cyou
 0.0.0.0 rogueyarns.duckdns.org
 0.0.0.0 rogwmjvlqdfngw.bid
+0.0.0.0 rogzovrknnqul.website
 0.0.0.0 rohanhome.duckdns.org
 0.0.0.0 rohanpinonic.com
 0.0.0.0 rohanstuff.duckdns.org
@@ -473549,6 +473886,7 @@
 0.0.0.0 rotunddpgyiagb.download
 0.0.0.0 rotundoselago.com
 0.0.0.0 rotundotorma.cyou
+0.0.0.0 rotxggpqnbeqp.online
 0.0.0.0 rotxlmxocf.duckdns.org
 0.0.0.0 rotyubnybt.duckdns.org
 0.0.0.0 rotyznhbrh.duckdns.org
@@ -474165,6 +474503,7 @@
 0.0.0.0 rpc.trafficfactory.biz
 0.0.0.0 rpcloud.duckdns.org
 0.0.0.0 rpcncuzsmpni.com
+0.0.0.0 rpcnimwhqaduc.online
 0.0.0.0 rpcpscsa.bid
 0.0.0.0 rpcs4.com
 0.0.0.0 rpcs5.com
@@ -477020,6 +477359,7 @@
 0.0.0.0 rubgv.duckdns.org
 0.0.0.0 rubgyrama.fr
 0.0.0.0 rubhuay24.bet
+0.0.0.0 rubianmyopes.com
 0.0.0.0 rubiateclachs.cyou
 0.0.0.0 rubibid.rubiconproject.com
 0.0.0.0 rubic.duckdns.org
@@ -481687,6 +482027,7 @@
 0.0.0.0 sabaistsubmit.com
 0.0.0.0 sabakhalassoes.com
 0.0.0.0 sabaking.duckdns.org
+0.0.0.0 sabalosaukletswanhap.cyou
 0.0.0.0 sabancimanagement.qualtrics.com
 0.0.0.0 sabanciplatformu.com
 0.0.0.0 sabanciyatirim.net
@@ -483476,6 +483817,7 @@
 0.0.0.0 sandboxbid.com
 0.0.0.0 sandboxie.ru
 0.0.0.0 sandboxsectrk.veracity.com
+0.0.0.0 sandburceride.com
 0.0.0.0 sandcastlegroup.duckdns.org
 0.0.0.0 sandcastlegroupproxy.duckdns.org
 0.0.0.0 sandcex.qualtrics.com
@@ -483503,7 +483845,6 @@
 0.0.0.0 sandhowl.com
 0.0.0.0 sandi74.duckdns.org
 0.0.0.0 sandiacasino.com
-0.0.0.0 sandiegomobiletire.com
 0.0.0.0 sandiegoparatodos.duckdns.org
 0.0.0.0 sandierswots.cyou
 0.0.0.0 sandinsect.com
@@ -483727,6 +484068,7 @@
 0.0.0.0 santabarbarabeachfestival.com
 0.0.0.0 santacecilia.duckdns.org
 0.0.0.0 santaclaes.duckdns.org
+0.0.0.0 santaclaracountyproperties.com
 0.0.0.0 santacolomaha.duckdns.org
 0.0.0.0 santacruz17.duckdns.org
 0.0.0.0 santacruzsentinel.112.2o7.net
@@ -484262,6 +484604,7 @@
 0.0.0.0 saucewonderdaytime.com
 0.0.0.0 sauchaihoo.net
 0.0.0.0 sauchooroajoal.com
+0.0.0.0 saucinginne.com
 0.0.0.0 saucon-sponsors.streetinteractive.com
 0.0.0.0 saucony-polska.com
 0.0.0.0 sauconypoland.pl
@@ -484530,7 +484873,6 @@
 0.0.0.0 saymedia.t.domdex.com
 0.0.0.0 saymigren.net
 0.0.0.0 saynaystraths.shop
-0.0.0.0 sayosay.cc
 0.0.0.0 saypan.in
 0.0.0.0 saypatata.duckdns.org
 0.0.0.0 sayprickbaseball.com
@@ -485226,6 +485568,7 @@
 0.0.0.0 scarefowl.com
 0.0.0.0 scareinches.com
 0.0.0.0 scareshortnovel.com
+0.0.0.0 scarevapidly.com
 0.0.0.0 scarf.ensighten.com
 0.0.0.0 scarfsmash.com
 0.0.0.0 scarfstartpickle.com
@@ -486220,7 +486563,6 @@
 0.0.0.0 screenvision.com
 0.0.0.0 screenvisionmedia.com
 0.0.0.0 screenwatch.yournewtab.com
-0.0.0.0 screlaytrap.ec
 0.0.0.0 screpy.com
 0.0.0.0 screwdriverblizzard.com
 0.0.0.0 screwsgrazecapon.cyou
@@ -486401,6 +486743,7 @@
 0.0.0.0 scrollerads.com
 0.0.0.0 scrollgardencreek.xyz
 0.0.0.0 scrollingads.hustlermegapass.com
+0.0.0.0 scrollnovela.click
 0.0.0.0 scrollpop.online
 0.0.0.0 scrollservice.com
 0.0.0.0 scrollsgarlics.cyou
@@ -486679,6 +487022,7 @@
 0.0.0.0 sd7.casino
 0.0.0.0 sd7.salledesilets.com
 0.0.0.0 sd72.duckdns.org
+0.0.0.0 sd78.qpon
 0.0.0.0 sd8015.xyz
 0.0.0.0 sda.gogoair.com
 0.0.0.0 sda.gogoinflight.com
@@ -489724,6 +490068,7 @@
 0.0.0.0 securefileinterneationaltransferthroughm.duckdns.org
 0.0.0.0 securefilers.duckdns.org
 0.0.0.0 securefileshared.info
+0.0.0.0 securefilestorage.net
 0.0.0.0 securefindomestic.com
 0.0.0.0 securefinds2.com
 0.0.0.0 secureflag.adsrvr.org
@@ -490319,6 +490664,7 @@
 0.0.0.0 seghg.hottopic.com
 0.0.0.0 segin.iad-03.braze.com
 0.0.0.0 seginus.iad-03.braze.com
+0.0.0.0 seginusnervier.click
 0.0.0.0 seglarvagen.duckdns.org
 0.0.0.0 segler.duckdns.org
 0.0.0.0 segment-analytics.com
@@ -496343,6 +496689,7 @@
 0.0.0.0 services510.net
 0.0.0.0 services679citizensupport.duckdns.org
 0.0.0.0 servicesbooster.com
+0.0.0.0 servicescolis-jp.com
 0.0.0.0 servicesecure-verifyhost1.duckdns.org
 0.0.0.0 servicesecurity.org
 0.0.0.0 serviceshelpers.com
@@ -502185,6 +502532,8 @@
 0.0.0.0 shiny-squirrel.duckdns.org
 0.0.0.0 shiny-toe.com
 0.0.0.0 shiny.fitanalytics.com
+0.0.0.0 shinyalto.me
+0.0.0.0 shinyalto.mobi
 0.0.0.0 shinyarcadiaproximity.com
 0.0.0.0 shinybirdwhispered.com
 0.0.0.0 shinybuilding.pro
@@ -504314,7 +504663,6 @@
 0.0.0.0 sigma97.rtb.appier.net
 0.0.0.0 sigma99.rtb.appier.net
 0.0.0.0 sigmaad.com
-0.0.0.0 sigmaclient.org
 0.0.0.0 sigmagalcha.top
 0.0.0.0 sigmago.net
 0.0.0.0 sigmasx.net
@@ -506340,6 +506688,7 @@
 0.0.0.0 sjrca10.marketo.com
 0.0.0.0 sjrca11.marketo.com
 0.0.0.0 sjrcademo1.marketo.com
+0.0.0.0 sjrdlqpvpzcay.online
 0.0.0.0 sjremetrics.java.com
 0.0.0.0 sjrkdufazy.duckdns.org
 0.0.0.0 sjrog.cyberbackpack.com
@@ -507239,6 +507588,7 @@
 0.0.0.0 skybeam59.duckdns.org
 0.0.0.0 skybet.com
 0.0.0.0 skybingo.com
+0.0.0.0 skybingo.io
 0.0.0.0 skyblock-addons.com
 0.0.0.0 skyblueboutique.com
 0.0.0.0 skybluetimes.co.uk
@@ -507652,6 +508002,7 @@
 0.0.0.0 sleal.duckdns.org
 0.0.0.0 sleazyparliamentarybikini.com
 0.0.0.0 sleazytaste.com
+0.0.0.0 sleckeeyuchredout.cyou
 0.0.0.0 slecna-ruby.duckdns.org
 0.0.0.0 sled.arvex-rental-cars.com
 0.0.0.0 sledconveniencestuff.com
@@ -507834,6 +508185,7 @@
 0.0.0.0 slient.ucdl.pp.uc.cn
 0.0.0.0 slierpitmark.cfd
 0.0.0.0 slietap.com
+0.0.0.0 slifpzvyfomsp.website
 0.0.0.0 slight-deposit.pro
 0.0.0.0 slight-difficulty.pro
 0.0.0.0 slight88999.duckdns.org
@@ -508152,6 +508504,7 @@
 0.0.0.0 slotoro.bet
 0.0.0.0 slotozilla.info
 0.0.0.0 slotpark.optimove.net
+0.0.0.0 slotplanetcasino.net
 0.0.0.0 slotplaza.pl
 0.0.0.0 slotraspa.site
 0.0.0.0 slotrush1.com
@@ -508178,6 +508531,7 @@
 0.0.0.0 slottywaycasino.pl
 0.0.0.0 slotvcasinovip.online
 0.0.0.0 slotwireless.duckdns.org
+0.0.0.0 slotwolfcasino.net
 0.0.0.0 slotzocasino.com
 0.0.0.0 slouaidugu.duckdns.org
 0.0.0.0 sloughybucayo.com
@@ -514246,6 +514600,7 @@
 0.0.0.0 smokinggun.122.2o7.net
 0.0.0.0 smokingmask.vk.com
 0.0.0.0 smokinparts.com
+0.0.0.0 smokoscobb.cfd
 0.0.0.0 smolders.duckdns.org
 0.0.0.0 smolec.duckdns.org
 0.0.0.0 smoletki.duckdns.org
@@ -515184,6 +515539,7 @@
 0.0.0.0 snoads.com
 0.0.0.0 snoads.s3.amazonaws.com
 0.0.0.0 snobbergariba.cfd
+0.0.0.0 snobismlowman.click
 0.0.0.0 snobobugge.store
 0.0.0.0 snobsshingle.shop
 0.0.0.0 snocasino.com
@@ -516267,6 +516623,7 @@
 0.0.0.0 soldannuity.com
 0.0.0.0 solden.duckdns.org
 0.0.0.0 solderforgetlove.com
+0.0.0.0 soldersablatorhornish.cfd
 0.0.0.0 soldes-velos.com
 0.0.0.0 soldes.spyhuman.com
 0.0.0.0 soldi.duckdns.org
@@ -516637,6 +516994,7 @@
 0.0.0.0 somafernatiopro.com
 0.0.0.0 somainpdeirit.online
 0.0.0.0 somalosclentlucian.qpon
+0.0.0.0 somalounshiny.rest
 0.0.0.0 somatasoce.cyou
 0.0.0.0 somatendoo.com
 0.0.0.0 somber-head.com
@@ -517946,6 +518304,7 @@
 0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 soundcloud.adswizz.com
 0.0.0.0 soundcloud.deliveryengine.adswizz.com
+0.0.0.0 soundcorelife.com
 0.0.0.0 soundelktemper.com
 0.0.0.0 sounder.skywaybehavioralhealth.com
 0.0.0.0 soundestlink.com
@@ -518073,7 +518432,6 @@
 0.0.0.0 southwestairlines.sc.omtrdc.net
 0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 southwestern.qualtrics.com
-0.0.0.0 southwestmensclinic.com
 0.0.0.0 southwick.qualtrics.com
 0.0.0.0 souuubzvprxyj.online
 0.0.0.0 souvamoo.net
@@ -518791,6 +519149,7 @@
 0.0.0.0 spcdnsp.i-mobile.co.jp
 0.0.0.0 spcedrg.duckdns.org
 0.0.0.0 spcfl.belongdesigns.com
+0.0.0.0 spcfqmlodyqoh.website
 0.0.0.0 spcg.lunaticfridge.com
 0.0.0.0 spchome.duckdns.org
 0.0.0.0 spcjdiixhq.duckdns.org
@@ -518875,6 +519234,7 @@
 0.0.0.0 specialberth.com
 0.0.0.0 specialdate.net
 0.0.0.0 specialdeals.g5e.com
+0.0.0.0 specialeqt.com
 0.0.0.0 specialevent.informaengage.com
 0.0.0.0 specialgift.top
 0.0.0.0 specialistcartoonparable.com
@@ -519308,6 +519668,8 @@
 0.0.0.0 sphslaldm.com
 0.0.0.0 sphxxujcqp.duckdns.org
 0.0.0.0 spi.domainsponsor.com
+0.0.0.0 spi19.com
+0.0.0.0 spi45.com
 0.0.0.0 spi86.com
 0.0.0.0 spica.iad-03.braze.com
 0.0.0.0 spicaealbas.qpon
@@ -519433,6 +519795,7 @@
 0.0.0.0 spilleautomaten.dk
 0.0.0.0 spilleboden.dk
 0.0.0.0 spillehallen.dk
+0.0.0.0 spillmettle.click
 0.0.0.0 spillsackterrified.com
 0.0.0.0 spillsecale.qpon
 0.0.0.0 spillvacation.com
@@ -519569,6 +519932,7 @@
 0.0.0.0 spinexclusive.duckdns.org
 0.0.0.0 spinexpo.cn
 0.0.0.0 spinfestcasino-de.com
+0.0.0.0 spinfevercasino.io
 0.0.0.0 spinff-20222.duckdns.org
 0.0.0.0 spinff-garena2021real.duckdns.org
 0.0.0.0 spinffhoki.duckdns.org
@@ -519663,6 +520027,7 @@
 0.0.0.0 spinsfeefire202.duckdns.org
 0.0.0.0 spinspandacasino.nl
 0.0.0.0 spinsterbidding.com
+0.0.0.0 spinsycasino777.com
 0.0.0.0 spintech.rutem.com.pls.fr.sts.detmer.duckdns.org
 0.0.0.0 spinthewheel.app
 0.0.0.0 spinthewheel.io
@@ -519679,6 +520044,7 @@
 0.0.0.0 spiny.ai
 0.0.0.0 spinyla.ru
 0.0.0.0 spinz.de
+0.0.0.0 spinzwincasino.net
 0.0.0.0 spippangol.store
 0.0.0.0 spir.hit.gemius.pl
 0.0.0.0 spirab.com
@@ -519794,6 +520160,7 @@
 0.0.0.0 spklw.com
 0.0.0.0 spkn.duckdns.org
 0.0.0.0 spkoevngk.com
+0.0.0.0 spkqcrlngemrv.online
 0.0.0.0 spkrcloud.duckdns.org
 0.0.0.0 spktdsjraqfae.space
 0.0.0.0 spkvmszihgzei.space
@@ -519864,6 +520231,7 @@
 0.0.0.0 splinky.com
 0.0.0.0 splintoutsize.qpon
 0.0.0.0 split.io
+0.0.0.0 splitacescasino.io
 0.0.0.0 splitbee.io
 0.0.0.0 splitcursednagging.com
 0.0.0.0 splitecrocky.cfd
@@ -520126,6 +520494,7 @@
 0.0.0.0 spookystitch.com
 0.0.0.0 spooledbalticmeuni.qpon
 0.0.0.0 spoolermoy.com
+0.0.0.0 spoolspelage.com
 0.0.0.0 spoon80.duckdns.org
 0.0.0.0 spoonballoon.com
 0.0.0.0 spoonducks.cfd
@@ -521480,6 +521849,7 @@
 0.0.0.0 srm.mellizmox.duckdns.org
 0.0.0.0 srm4.destinia.co.no
 0.0.0.0 srmbifowhxaeqa.bid
+0.0.0.0 srmcychtzaeny.online
 0.0.0.0 srmdata-eur.com
 0.0.0.0 srmdata-us.com
 0.0.0.0 srmdata.com
@@ -521523,6 +521893,7 @@
 0.0.0.0 srpsnvtisuznr.site
 0.0.0.0 srpttbyoy.com
 0.0.0.0 srpx.net
+0.0.0.0 srqeavxrk.com
 0.0.0.0 srqjzaeqfs.duckdns.org
 0.0.0.0 srqnatadof.duckdns.org
 0.0.0.0 srqponmd.carte-gr.total.fr
@@ -521541,6 +521912,7 @@
 0.0.0.0 srsg.duckdns.org
 0.0.0.0 srsg.srglobal.com
 0.0.0.0 srsihavelearn.xyz
+0.0.0.0 srsnodgrass.com
 0.0.0.0 srssrknwad.duckdns.org
 0.0.0.0 srstrbxohc.duckdns.org
 0.0.0.0 srt-srv.xlisting.jp
@@ -534881,6 +535253,7 @@
 0.0.0.0 stanforduniversity.qualtrics.com
 0.0.0.0 stanfy.polldaddy.com
 0.0.0.0 stanis.duckdns.org
+0.0.0.0 stanives.cfd
 0.0.0.0 stankeviciusmgm.com
 0.0.0.0 stankhaulers.shop
 0.0.0.0 stanky.duckdns.org
@@ -543409,6 +543782,7 @@
 0.0.0.0 stedwards.qualtrics.com
 0.0.0.0 stedwards.us.qualtrics.com
 0.0.0.0 steedgodful.com
+0.0.0.0 steedlentor.com
 0.0.0.0 steeen.duckdns.org
 0.0.0.0 steeflssow.ml
 0.0.0.0 steeflssow.tk
@@ -543448,6 +543822,7 @@
 0.0.0.0 steenbosch.duckdns.org
 0.0.0.0 steenhof.duckdns.org
 0.0.0.0 steenstra.duckdns.org
+0.0.0.0 steenthbenumbs.cyou
 0.0.0.0 steep-second.pro
 0.0.0.0 steep-square.pro
 0.0.0.0 steepandcheap.com.102.112.2o7.net
@@ -543815,7 +544190,6 @@
 0.0.0.0 stevesandco.com
 0.0.0.0 steveshire.co.nz
 0.0.0.0 steveshomeassistant.duckdns.org
-0.0.0.0 stevesidewalk.com
 0.0.0.0 stevewillsonkujur.duckdns.org
 0.0.0.0 steviehannah.duckdns.org
 0.0.0.0 stevieshizzlesyard.duckdns.org
@@ -548080,6 +548454,7 @@
 0.0.0.0 support-citizens05sec.duckdns.org
 0.0.0.0 support-eddprocessing329.duckdns.org
 0.0.0.0 support-encontrar2yx.us
+0.0.0.0 support-es.com
 0.0.0.0 support-fraudsigon.duckdns.org
 0.0.0.0 support-help-all.duckdns.org
 0.0.0.0 support-ip.com
@@ -548282,6 +548657,7 @@
 0.0.0.0 supremecasinospace.com
 0.0.0.0 supremecasinostation.com
 0.0.0.0 supremecasinox.com
+0.0.0.0 supremenice316.sbs
 0.0.0.0 supremesavvyswan.com
 0.0.0.0 supremewincasino.com
 0.0.0.0 supremish.club
@@ -548491,6 +548867,7 @@
 0.0.0.0 survey-intraxinc-com.surveygizmo.com
 0.0.0.0 survey-naturallyslim-com.surveygizmo.com
 0.0.0.0 survey-poll.com
+0.0.0.0 survey-ppl-acces.com
 0.0.0.0 survey-ppl-log.com
 0.0.0.0 survey-qhms-com.surveygizmo.com
 0.0.0.0 survey-rnonkey.com
@@ -549599,7 +549976,6 @@
 0.0.0.0 swatskarvar.qpon
 0.0.0.0 swattedshalier.rest
 0.0.0.0 swatterreheap.qpon
-0.0.0.0 swatting.wiki
 0.0.0.0 swaven.com
 0.0.0.0 swavoo.top
 0.0.0.0 swaw.cn
@@ -549760,6 +550136,7 @@
 0.0.0.0 sweetnmhome.duckdns.org
 0.0.0.0 sweetpacks.go2cloud.org
 0.0.0.0 sweetpiassist.duckdns.org
+0.0.0.0 sweetradish.biz
 0.0.0.0 sweetsabbath.duckdns.org
 0.0.0.0 sweetsandswipes.com
 0.0.0.0 sweetsforfree.com
@@ -554994,6 +555371,7 @@
 0.0.0.0 talk99.cn
 0.0.0.0 talkahead.com
 0.0.0.0 talkandtypeapp.com
+0.0.0.0 talkative-version.pro
 0.0.0.0 talkativeaddition.pro
 0.0.0.0 talkativeend.com
 0.0.0.0 talkaxis.com
@@ -555075,6 +555453,7 @@
 0.0.0.0 talog-eu.rebxgame.com
 0.0.0.0 talomatta.duckdns.org
 0.0.0.0 talonfidgesumbers.cyou
+0.0.0.0 talonswhanged.com
 0.0.0.0 talonwaardex.com
 0.0.0.0 talos.adman.gr
 0.0.0.0 talosarchive.duckdns.org
@@ -556956,6 +557335,7 @@
 0.0.0.0 tbnmmjm.com
 0.0.0.0 tbnnsmwfjzttct.com
 0.0.0.0 tbnthunhotran.duckdns.org
+0.0.0.0 tbnuacnbzsvgc.site
 0.0.0.0 tbnyxepibups.com
 0.0.0.0 tbo555444.duckdns.org
 0.0.0.0 tbochagnhcwvf.site
@@ -558435,6 +558815,7 @@
 0.0.0.0 tedallthroughthe.org
 0.0.0.0 tedandkitty.duckdns.org
 0.0.0.0 tedcodd.duckdns.org
+0.0.0.0 tedderlicketyselt.cyou
 0.0.0.0 teddilord.duckdns.org
 0.0.0.0 teddit.echocode.duckdns.org
 0.0.0.0 teddy88.duckdns.org
@@ -559420,6 +559801,7 @@
 0.0.0.0 tengointernet.actonservice.com
 0.0.0.0 tengoldenrules.com
 0.0.0.0 tengying.duckdns.org
+0.0.0.0 tengyipiano.com
 0.0.0.0 tenhourweek.com
 0.0.0.0 teniacites.com
 0.0.0.0 tenilstats.turner.com
@@ -559603,6 +559985,7 @@
 0.0.0.0 tercept.com
 0.0.0.0 tercetegzotyczny.pl
 0.0.0.0 terchdwyro.duckdns.org
+0.0.0.0 tercidnjfanbd.online
 0.0.0.0 terciogouge.com
 0.0.0.0 terciohagrid.click
 0.0.0.0 terciohunting.cyou
@@ -559682,6 +560065,7 @@
 0.0.0.0 termoresta.store
 0.0.0.0 termpeek.com
 0.0.0.0 terms.reporo.net
+0.0.0.0 termsconditionsrelease.pro
 0.0.0.0 termsfeed.com
 0.0.0.0 termsiya.duckdns.org
 0.0.0.0 termskinch.com
@@ -562031,6 +562415,7 @@
 0.0.0.0 theestatehouse.co.uk
 0.0.0.0 theetheks.com
 0.0.0.0 theetsaumur.shop
+0.0.0.0 theeurodepot-jp.com
 0.0.0.0 theeverydayplay.com
 0.0.0.0 theexaminer-auto.t.domdex.com
 0.0.0.0 theexaminer-entertainment.t.domdex.com
@@ -562579,7 +562964,6 @@
 0.0.0.0 therapybowls.com
 0.0.0.0 therapybrandsvtm.qualtrics.com
 0.0.0.0 therapycolor.com
-0.0.0.0 therapygeorgia.com
 0.0.0.0 therapyglasses.com
 0.0.0.0 therazor.duckdns.org
 0.0.0.0 therba.com
@@ -563911,6 +564295,7 @@
 0.0.0.0 thzaiqqwsbpps.com
 0.0.0.0 thzdttylfphpn.site
 0.0.0.0 thzfpsulox.duckdns.org
+0.0.0.0 thzkhgy16zfo5fkom5g.cfd
 0.0.0.0 thzowqlddhevp.space
 0.0.0.0 thzqzvwmpxrdm.website
 0.0.0.0 thzshxisa.bid
@@ -565063,6 +565448,7 @@
 0.0.0.0 tipspasswords.com
 0.0.0.0 tipsport.cz
 0.0.0.0 tipsport.sk
+0.0.0.0 tipsripstop.com
 0.0.0.0 tipssex.com
 0.0.0.0 tipstats.onepagelove.com
 0.0.0.0 tipsu.duckdns.org
@@ -565193,6 +565579,7 @@
 0.0.0.0 titanads3.com
 0.0.0.0 titanads4.com
 0.0.0.0 titanads5.com
+0.0.0.0 titanbetcasino.org
 0.0.0.0 titancyberdesk.com
 0.0.0.0 titanembeds.com
 0.0.0.0 titangate-d.openx.net
@@ -565550,6 +565937,7 @@
 0.0.0.0 tjnffp.tilebar.com
 0.0.0.0 tjnhsjxi.bid
 0.0.0.0 tjnkxy.cn
+0.0.0.0 tjnporgfpkfqz.site
 0.0.0.0 tjnuztjtlqihq.site
 0.0.0.0 tjnwt.crocs.ca
 0.0.0.0 tjohsvlufg.duckdns.org
@@ -566518,6 +566906,7 @@
 0.0.0.0 tmedapgqtmqhs.store
 0.0.0.0 tmedk.idlespeedwatersports.co
 0.0.0.0 tmeirelesha.duckdns.org
+0.0.0.0 tmematamakah.com
 0.0.0.0 tmenttoget.com
 0.0.0.0 tmesh.360.cn
 0.0.0.0 tmesisnovene.cfd
@@ -568973,7 +569362,6 @@
 0.0.0.0 torstennextcloud.duckdns.org
 0.0.0.0 torstens.duckdns.org
 0.0.0.0 torstytons.pro
-0.0.0.0 tortade.net
 0.0.0.0 tortaysporose.shop
 0.0.0.0 tortihome.duckdns.org
 0.0.0.0 tortik.spb.ru
@@ -569510,6 +569898,7 @@
 0.0.0.0 tp1jcgl644jk.com
 0.0.0.0 tp2.beap.gemini.yahoo.com
 0.0.0.0 tp2p.kg.qq.com
+0.0.0.0 tp38iguht9eylfq4yk3iepkcu2pi6l.cfd
 0.0.0.0 tp4.clicktale.net
 0.0.0.0 tp4d21qek.com
 0.0.0.0 tp5.clicktale.net
@@ -576710,6 +577099,7 @@
 0.0.0.0 tracksmith.com
 0.0.0.0 tracksongs.dhingana.com
 0.0.0.0 trackspeeder.com
+0.0.0.0 tracksresteal.click
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 trackstarsengland.net
 0.0.0.0 trackstracker.com
@@ -577737,6 +578127,7 @@
 0.0.0.0 transakcja847990.sbs
 0.0.0.0 transakcja857321.sbs
 0.0.0.0 transakcja904993.sbs
+0.0.0.0 transakcja9191.sbs
 0.0.0.0 transakcja940491.sbs
 0.0.0.0 transakcja950491.sbs
 0.0.0.0 transakcja980391.sbs
@@ -577996,6 +578387,7 @@
 0.0.0.0 transunion.qualtrics.com
 0.0.0.0 transv.isilver.duckdns.org
 0.0.0.0 transweb.duckdns.org
+0.0.0.0 transweool24.shop
 0.0.0.0 transyellowexpbv.duckdns.org
 0.0.0.0 trantor.permutive.com
 0.0.0.0 trantri.net.mydays.de
@@ -578011,7 +578403,6 @@
 0.0.0.0 traothuongxe37.com
 0.0.0.0 traothuongxe7.com
 0.0.0.0 trap-home.duckdns.org
-0.0.0.0 trap-portal.app
 0.0.0.0 trap.skype.com
 0.0.0.0 trapasol.com
 0.0.0.0 trapchain.ai
@@ -578656,6 +579047,7 @@
 0.0.0.0 tregar.duckdns.org
 0.0.0.0 tregata25.duckdns.org
 0.0.0.0 tregcokuso.duckdns.org
+0.0.0.0 tregetcroquethutchet.cyou
 0.0.0.0 tregos.duckdns.org
 0.0.0.0 trehtnoas.com
 0.0.0.0 treicrottar.lovable.app
@@ -579031,6 +579423,7 @@
 0.0.0.0 tridiiscupper.cfd
 0.0.0.0 tridjango.duckdns.org
 0.0.0.0 trido.club
+0.0.0.0 triduotrooly.click
 0.0.0.0 triedecu.com
 0.0.0.0 triedfavourable.com
 0.0.0.0 triedlybatekes.cfd
@@ -579276,8 +579669,10 @@
 0.0.0.0 triton.cutterstick.com
 0.0.0.0 tritonal.duckdns.org
 0.0.0.0 tritonaneling.qpon
+0.0.0.0 tritonclaims.com
 0.0.0.0 tritondigital.com
 0.0.0.0 tritondigitalmedia.com
+0.0.0.0 tritonnidusbegoud.cyou
 0.0.0.0 tritylodorate.cfd
 0.0.0.0 tritylsealchchamite.qpon
 0.0.0.0 triumph.actonservice.com
@@ -581004,6 +581399,7 @@
 0.0.0.0 truongdomain.duckdns.org
 0.0.0.0 truonghy.duckdns.org
 0.0.0.0 truongloihome.duckdns.org
+0.0.0.0 truongpyrgom.cfd
 0.0.0.0 truongton.net
 0.0.0.0 truongtonducthang.edu.vn
 0.0.0.0 truoptik.com
@@ -581288,7 +581684,6 @@
 0.0.0.0 trybrick.com
 0.0.0.0 trybulgingcoefficient.com
 0.0.0.0 tryce.com
-0.0.0.0 tryclix.com
 0.0.0.0 trycoding.com
 0.0.0.0 trycourier.com
 0.0.0.0 trydigilant.com
@@ -583182,6 +583577,7 @@
 0.0.0.0 tutotrack.com
 0.0.0.0 tutpaste.com
 0.0.0.0 tutt.duckdns.org
+0.0.0.0 tuttedoolemma.com
 0.0.0.0 tuttiesoilier.com
 0.0.0.0 tuttiservizi.cloudapp.net
 0.0.0.0 tutto.pro
@@ -583511,6 +583907,7 @@
 0.0.0.0 tvn.adocean.pl
 0.0.0.0 tvn.hit.gemius.pl
 0.0.0.0 tvn2.adocean.pl
+0.0.0.0 tvnacqljeskcc.website
 0.0.0.0 tvnetfcgpjq.bid
 0.0.0.0 tvnewtop.pro
 0.0.0.0 tvnfoipaskoru.website
@@ -584604,6 +585001,7 @@
 0.0.0.0 tyrassistant.duckdns.org
 0.0.0.0 tyrbe.duckdns.org
 0.0.0.0 tyrehush.com
+0.0.0.0 tyrgzyhkwwsgb.space
 0.0.0.0 tyrian.duckdns.org
 0.0.0.0 tyrlqmhuldfid.space
 0.0.0.0 tyrmmz.gruppiac.hu
@@ -584772,6 +585170,7 @@
 0.0.0.0 tzkqveorxg.duckdns.org
 0.0.0.0 tzlaokwrwlmim.online
 0.0.0.0 tzlbzndiezpzro.com
+0.0.0.0 tzlfiaxwbmcfu.site
 0.0.0.0 tzlijsurxh.bid
 0.0.0.0 tzlsm.reservebar.com
 0.0.0.0 tzmaa.precisiontax.com
@@ -585562,6 +585961,7 @@
 0.0.0.0 uah.co1.qualtrics.com
 0.0.0.0 uahcgneskx.duckdns.org
 0.0.0.0 uahgfhnjufgre.space
+0.0.0.0 uahiuqocrhwey.site
 0.0.0.0 uahmkvugdm.duckdns.org
 0.0.0.0 uahvjbwddzoki.com
 0.0.0.0 uahxjnvxojuse.online
@@ -586158,6 +586558,7 @@
 0.0.0.0 uchai.beprepared.com
 0.0.0.0 uchastings.us.qualtrics.com
 0.0.0.0 uchbwsudh.com
+0.0.0.0 ucheaninhell.cyou
 0.0.0.0 ucheephu.com
 0.0.0.0 uchiangkhanhotel.com
 0.0.0.0 uchicago.co1.qualtrics.com
@@ -586611,6 +587012,7 @@
 0.0.0.0 udvgpkmn.vertextech-eg.com
 0.0.0.0 udvgqxiykaq.com
 0.0.0.0 udvicdgfnkibw.online
+0.0.0.0 udvjfomfikxim.site
 0.0.0.0 udvxgumnyg.duckdns.org
 0.0.0.0 udvxwimgqr.com
 0.0.0.0 udvysshkus.duckdns.org
@@ -587318,6 +587720,7 @@
 0.0.0.0 uhfdsplo.com
 0.0.0.0 uhfqcwgtwf.duckdns.org
 0.0.0.0 uhfqrxwlnszw.com
+0.0.0.0 uhfydnwcpafcs.space
 0.0.0.0 uhfzxfbkfzafv.online
 0.0.0.0 uhg1.co1.qualtrics.com
 0.0.0.0 uhgbr.qualtrics.com
@@ -587343,6 +587746,7 @@
 0.0.0.0 uhiecdaxioolb.online
 0.0.0.0 uhiemvxigendy.space
 0.0.0.0 uhige53ujw.lat
+0.0.0.0 uhijbypctseox.space
 0.0.0.0 uhinmknjemdtw.site
 0.0.0.0 uhiwh2tsu.com
 0.0.0.0 uhjcnbzhnnqqb.space
@@ -587729,6 +588133,7 @@
 0.0.0.0 ujkoff.revcook.com
 0.0.0.0 ujkorstzti.duckdns.org
 0.0.0.0 ujljbwnr.com
+0.0.0.0 ujlolbxhbczbh.online
 0.0.0.0 ujlpbcsx.com
 0.0.0.0 ujlqgbvetzjmf.space
 0.0.0.0 ujlvongqbjouubp.xyz
@@ -588704,6 +589109,7 @@
 0.0.0.0 umgzvlbrqzyeq.online
 0.0.0.0 umhb.co1.qualtrics.com
 0.0.0.0 umhfftghpj.com
+0.0.0.0 umhhodwadqeo.com
 0.0.0.0 umhjh9rwe.com
 0.0.0.0 umhkzidngrmor.website
 0.0.0.0 umhlimouop.duckdns.org
@@ -589507,6 +589913,7 @@
 0.0.0.0 ungu.in
 0.0.0.0 unguesdonsie.qpon
 0.0.0.0 unguispolearmgemels.cyou
+0.0.0.0 unguisregaltylorarii.cyou
 0.0.0.0 ungularwarlord.qpon
 0.0.0.0 ungvien.com.vn
 0.0.0.0 ungvncbnx.bid
@@ -589888,6 +590295,7 @@
 0.0.0.0 uniquebranch.com
 0.0.0.0 uniquecaptcha.com
 0.0.0.0 uniquecasino.com
+0.0.0.0 uniquecasinowin.net
 0.0.0.0 uniquefish.pro
 0.0.0.0 uniquehairyploy.com
 0.0.0.0 uniqueleads.com
@@ -591079,6 +591487,7 @@
 0.0.0.0 uparceuson.com
 0.0.0.0 upasesrehung.cyou
 0.0.0.0 upasiansex.com
+0.0.0.0 upaywxkviolqn.online
 0.0.0.0 upbayfusain.cfd
 0.0.0.0 upbbklofphpay.online
 0.0.0.0 upbeat-curie.parcial2seguridad.duckdns.org
@@ -591141,6 +591550,7 @@
 0.0.0.0 update-acrobatdc.shop
 0.0.0.0 update-chase.justmoveup.com
 0.0.0.0 update-crowdstrike.com
+0.0.0.0 update-dat.com
 0.0.0.0 update-event-62mt.duckdns.org
 0.0.0.0 update-expiry-notification-report.appwrite.network
 0.0.0.0 update-information.zzux.com
@@ -591340,6 +591750,7 @@
 0.0.0.0 upgiveunsteps.shop
 0.0.0.0 upgliscorom.com
 0.0.0.0 upgocauda.cfd
+0.0.0.0 upgov.net
 0.0.0.0 upgrade-debugassetsjira-start-clients.net.mydays.de
 0.0.0.0 upgrade-ms-home.com
 0.0.0.0 upgrade-script.dotmetrics.net
@@ -591543,7 +591954,6 @@
 0.0.0.0 uportland.qualtrics.com
 0.0.0.0 uportucalenseremit.qualtrics.com
 0.0.0.0 uposfulymbivg.space
-0.0.0.0 uposp.com
 0.0.0.0 uposz.procoffeegear.com
 0.0.0.0 uppardjets.com
 0.0.0.0 uppate-auotpagelink.duckdns.org
@@ -592892,6 +593302,7 @@
 0.0.0.0 usdsp-ali.mobvista.com
 0.0.0.0 usdsp.mobvista.com
 0.0.0.0 usdsp1.adzmedia.com
+0.0.0.0 usdt-getrich.vip
 0.0.0.0 usdt4you.com
 0.0.0.0 usdtbtc.duckdns.org
 0.0.0.0 usdtop.58.com
@@ -594871,6 +595282,7 @@
 0.0.0.0 uvrhiqdoziksh.site
 0.0.0.0 uvrifrd.cn
 0.0.0.0 uvrk0.voluumtrk.com
+0.0.0.0 uvrudfygblbsc.online
 0.0.0.0 uvryhcmwutf.com
 0.0.0.0 uvrymdbcocnvl.space
 0.0.0.0 uvsjhe.teechip.com
@@ -594886,6 +595298,7 @@
 0.0.0.0 uvu.qualtrics.com
 0.0.0.0 uvuap.stampington.com
 0.0.0.0 uvugzwvylj.edgingsatisfy.com
+0.0.0.0 uvularsbrogue.com
 0.0.0.0 uvuubqkkdr.duckdns.org
 0.0.0.0 uvuzujlbmg.duckdns.org
 0.0.0.0 uvveosxckqell.site
@@ -595059,6 +595472,7 @@
 0.0.0.0 uwttvbcw.everflowutilities.com
 0.0.0.0 uwtybptzsqcvo.online
 0.0.0.0 uwu.duckdns.org
+0.0.0.0 uwudtptngvt.com
 0.0.0.0 uwuw-video-baru.duckdns.org
 0.0.0.0 uwuw.online
 0.0.0.0 uwuxd.duckdns.org
@@ -596418,6 +596832,7 @@
 0.0.0.0 validusvault.com
 0.0.0.0 validworking.pro
 0.0.0.0 valiermanage.click
+0.0.0.0 valigmail.help
 0.0.0.0 valimorica-es.com
 0.0.0.0 valimorica-es.pro
 0.0.0.0 valirozunixo.net
@@ -596744,6 +597159,7 @@
 0.0.0.0 vanmoll.duckdns.org
 0.0.0.0 vanmostthiamin.com
 0.0.0.0 vannagardsgatan.duckdns.org
+0.0.0.0 vannedrigsenbrave.cfd
 0.0.0.0 vannian.duckdns.org
 0.0.0.0 vannicdoolees.cyou
 0.0.0.0 vanniplaas.duckdns.org
@@ -598011,6 +598427,7 @@
 0.0.0.0 vccjkcowbx.duckdns.org
 0.0.0.0 vccsgefnnbhbj.site
 0.0.0.0 vccskdlrblqqn.store
+0.0.0.0 vcctzvjrfzvrp.website
 0.0.0.0 vccwrzqlui.duckdns.org
 0.0.0.0 vcdc.com
 0.0.0.0 vcdcjebmyh.duckdns.org
@@ -598180,6 +598597,7 @@
 0.0.0.0 vcwbucjhws.duckdns.org
 0.0.0.0 vcwdjbbughuy.com
 0.0.0.0 vcwrigdrnh.com
+0.0.0.0 vcwvxvwpdliks.online
 0.0.0.0 vcwwgohyrj.duckdns.org
 0.0.0.0 vcxetmvjdgggi.store
 0.0.0.0 vcxoizuwy.com
@@ -599710,6 +600128,7 @@
 0.0.0.0 vestiumsfoundry.duckdns.org
 0.0.0.0 vestlitt.online
 0.0.0.0 vestodigitalplatform.net
+0.0.0.0 vestralfoamers.rest
 0.0.0.0 vestreach-partners.com
 0.0.0.0 vestthings.cfd
 0.0.0.0 vesuvinaqueity.top
@@ -608425,6 +608844,7 @@
 0.0.0.0 vlja91qm-android.mobile-sdk-api.intercom.io
 0.0.0.0 vljfo.lanimal.co
 0.0.0.0 vljhkfzqhmjqo.website
+0.0.0.0 vljiwkehciqts.space
 0.0.0.0 vljld.ionlyloves.net
 0.0.0.0 vljlgzguhp.duckdns.org
 0.0.0.0 vljyztqsnkhvra.com
@@ -608543,6 +608963,7 @@
 0.0.0.0 vlzcnhjdgmenp.space
 0.0.0.0 vlzcsh.dtrtmen.com
 0.0.0.0 vlzftzxvip.duckdns.org
+0.0.0.0 vlzjclixxwedy.website
 0.0.0.0 vlzscobbmp.duckdns.org
 0.0.0.0 vlzsixddzp.duckdns.org
 0.0.0.0 vlzsybroqi.duckdns.org
@@ -611754,6 +612175,7 @@
 0.0.0.0 vubamm.corso101.com
 0.0.0.0 vubcp.bondno9.com
 0.0.0.0 vubhmskprvebn.online
+0.0.0.0 vubhsoczpqfoa.space
 0.0.0.0 vubihowhe.com
 0.0.0.0 vubmrwluah.duckdns.org
 0.0.0.0 vubmzx.com
@@ -612998,6 +613420,7 @@
 0.0.0.0 w-cm.duckdns.org
 0.0.0.0 w-group.shop
 0.0.0.0 w-m-w.net
+0.0.0.0 w-o-l-n-o.pl
 0.0.0.0 w-profiling.simplii.com
 0.0.0.0 w-solarmovies.com
 0.0.0.0 w-tracker.marinsm.com
@@ -615536,6 +615959,7 @@
 0.0.0.0 wcbzntvelv.duckdns.org
 0.0.0.0 wcc.admicro.vn
 0.0.0.0 wcch.duckdns.org
+0.0.0.0 wcchcojjwxdww.site
 0.0.0.0 wccihoig.com
 0.0.0.0 wcctkcpmlz.duckdns.org
 0.0.0.0 wcdhtdumed.duckdns.org
@@ -616124,6 +616548,7 @@
 0.0.0.0 web-clients.mynativeads.com
 0.0.0.0 web-cobaan.duckdns.org
 0.0.0.0 web-cobstambroise.duckdns.org
+0.0.0.0 web-coinbese.com
 0.0.0.0 web-controlling.org
 0.0.0.0 web-counter.net
 0.0.0.0 web-data.yotpo.com
@@ -626279,6 +626704,7 @@
 0.0.0.0 westbriton.uk.intellitxt.com
 0.0.0.0 westbrookdrive.duckdns.org
 0.0.0.0 westcapitalbank.com
+0.0.0.0 westcasino.io
 0.0.0.0 westcoa.com
 0.0.0.0 westcoastvilla.duckdns.org
 0.0.0.0 westcodex.com
@@ -626478,6 +626904,7 @@
 0.0.0.0 wey6we3a.duckdns.org
 0.0.0.0 weybli.com
 0.0.0.0 weyburncu.ca.102.112.2o7.net
+0.0.0.0 weyfrlgbpcvxo.site
 0.0.0.0 weygdpqepldez.space
 0.0.0.0 weyge3.4cfdu.cyou
 0.0.0.0 weykhgghqk.duckdns.org
@@ -626550,6 +626977,7 @@
 0.0.0.0 wfhhsfxvnluft.website
 0.0.0.0 wfhrjmzhzzlmw.space
 0.0.0.0 wfiejyjdlbsrkklvxxwkferadhbcwtxrotehopgqppsqwluboc.com
+0.0.0.0 wfifasask.in
 0.0.0.0 wfinger.duckdns.org
 0.0.0.0 wfiphsftezywo.space
 0.0.0.0 wfiutburadoho.online
@@ -626661,6 +627089,7 @@
 0.0.0.0 wfzvjbdicihe.com
 0.0.0.0 wg-3xr.duckdns.org
 0.0.0.0 wg-aff.com
+0.0.0.0 wg-casino.net
 0.0.0.0 wg-domocasa.duckdns.org
 0.0.0.0 wg-gesucht.de.intellitxt.com
 0.0.0.0 wg-interface.minafiler.duckdns.org
@@ -626720,6 +627149,7 @@
 0.0.0.0 wgcjpruezksws.online
 0.0.0.0 wgckwgofac.duckdns.org
 0.0.0.0 wgclurzhgrjoq.bid
+0.0.0.0 wgcnxpayqnksw.website
 0.0.0.0 wgcsxqkyry.com
 0.0.0.0 wgcusbjrga.com
 0.0.0.0 wgczby.foroffice.ru
@@ -627114,6 +627544,7 @@
 0.0.0.0 whatsapp-github19sex.duckdns.org
 0.0.0.0 whatsapp-gorup-okep187.duckdns.org
 0.0.0.0 whatsapp-group-18hot.duckdns.org
+0.0.0.0 whatsapp-group-info-jobs-israel.ph
 0.0.0.0 whatsapp-group-virall-videos.duckdns.org
 0.0.0.0 whatsapp-group.duckdns.org
 0.0.0.0 whatsapp-group1.duckdns.org
@@ -627635,6 +628066,7 @@
 0.0.0.0 whirkenlinums.cyou
 0.0.0.0 whirlclick.com
 0.0.0.0 whirlerssrmbf.download
+0.0.0.0 whirlitmo.click
 0.0.0.0 whirlpoolci.qualtrics.com
 0.0.0.0 whirlwealth.com
 0.0.0.0 whirlwind-expression.com
@@ -627996,6 +628428,7 @@
 0.0.0.0 whoawhogly.com
 0.0.0.0 whobatha.duckdns.org
 0.0.0.0 whobiglauni.net
+0.0.0.0 whobjoknitvnb.online
 0.0.0.0 whoboring.com
 0.0.0.0 whoevercloakroom.com
 0.0.0.0 whoeverfestival.com
@@ -628960,6 +629393,7 @@
 0.0.0.0 wikijs.puesto8.duckdns.org
 0.0.0.0 wikimedia.qualtrics.com
 0.0.0.0 wikimedics.org
+0.0.0.0 wikimjcxvwrps.space
 0.0.0.0 wikiodeliv.com
 0.0.0.0 wikipedia.lunzhome.duckdns.org
 0.0.0.0 wikipediapush.com
@@ -629375,6 +629809,7 @@
 0.0.0.0 windcreekcasino.com
 0.0.0.0 windefender.net
 0.0.0.0 windermereha.duckdns.org
+0.0.0.0 windettacasino.io
 0.0.0.0 windfallicontelegraph.com
 0.0.0.0 windfallleavebrawl.com
 0.0.0.0 windfallstudio.com
@@ -630279,6 +630714,7 @@
 0.0.0.0 wjqskadodq.duckdns.org
 0.0.0.0 wjr5n8oa4cmb6bft.duckdns.org
 0.0.0.0 wjrbfvdtrzieb.com
+0.0.0.0 wjrgpoblcwefi.space
 0.0.0.0 wjrkwkjiih.duckdns.org
 0.0.0.0 wjrtsc.apt2b.com
 0.0.0.0 wjs.wurflcloud.com
@@ -630786,6 +631222,7 @@
 0.0.0.0 wmdhodtwgahbb.space
 0.0.0.0 wmdkiafibs.duckdns.org
 0.0.0.0 wmdqinakts.duckdns.org
+0.0.0.0 wmdrsrgtsjqjo.site
 0.0.0.0 wmdstat.dev-sanook.com
 0.0.0.0 wmdvampzbrzyg.online
 0.0.0.0 wmdyasdoow.duckdns.org
@@ -631370,6 +631807,7 @@
 0.0.0.0 wolverine.prsaccreditation.com
 0.0.0.0 wolverines.duckdns.org
 0.0.0.0 wolverineworldwide.fr
+0.0.0.0 wolversmistful.rest
 0.0.0.0 wolvescuckooship.com
 0.0.0.0 wolvesnojjnhomosexual.info
 0.0.0.0 wolvespermanent.com
@@ -632463,6 +632901,7 @@
 0.0.0.0 wpfalkopps.duckdns.org
 0.0.0.0 wpfc.ml
 0.0.0.0 wpfehhdmgnblxo.com
+0.0.0.0 wpffvxgorbdbu.website
 0.0.0.0 wpfkqqydoi.duckdns.org
 0.0.0.0 wpfqfuvqerds.com
 0.0.0.0 wpfrxywnkp.duckdns.org
@@ -632534,6 +632973,7 @@
 0.0.0.0 wpnrtnmrewunrtok.xyz
 0.0.0.0 wpnsrv.com
 0.0.0.0 wpnxiswpuyrfn.icu
+0.0.0.0 wpoikwoetyjrq.site
 0.0.0.0 wpoinh.duckdns.org
 0.0.0.0 wpold.automatad.com
 0.0.0.0 wposrp.lampegiganten.no
@@ -632658,6 +633098,7 @@
 0.0.0.0 wqfqcogkpy.duckdns.org
 0.0.0.0 wqfzqvxvvanlq.site
 0.0.0.0 wqgaevqpbwgx.com
+0.0.0.0 wqgasujugxgoz.space
 0.0.0.0 wqgdajjozr.com
 0.0.0.0 wqgkqkjxrhike.site
 0.0.0.0 wqgpoonndm.duckdns.org
@@ -632673,6 +633114,7 @@
 0.0.0.0 wqijnekmld.duckdns.org
 0.0.0.0 wqimg.adsame.com
 0.0.0.0 wqjregsni.net
+0.0.0.0 wqkbncbarqqzb.space
 0.0.0.0 wqkcsg.armandthiery.fr
 0.0.0.0 wqkjeoqjzmmyo.online
 0.0.0.0 wqkmgheahh.duckdns.org
@@ -632752,6 +633194,7 @@
 0.0.0.0 wqxksnxarz.duckdns.org
 0.0.0.0 wqxnlujltqwmu.site
 0.0.0.0 wqxvfzvqcqmcs.website
+0.0.0.0 wqyabrptshcsb.website
 0.0.0.0 wqydvgqzhm.duckdns.org
 0.0.0.0 wqyenrdmgkikd.site
 0.0.0.0 wqyhome.duckdns.org
@@ -633258,6 +633701,7 @@
 0.0.0.0 ws8.surf-town.net
 0.0.0.0 ws9.surf-town.net
 0.0.0.0 ws9jdpz802.com
+0.0.0.0 wsa1ov5uo.com
 0.0.0.0 wsaa.com
 0.0.0.0 wsagiauxmj.duckdns.org
 0.0.0.0 wsaijhlcnsqu.com
@@ -633652,6 +634096,7 @@
 0.0.0.0 wtm.monitoringservice.co
 0.0.0.0 wtmhome.duckdns.org
 0.0.0.0 wtmlnmabyyco.com
+0.0.0.0 wtmohwtnafrbo.site
 0.0.0.0 wtmr.adx1.com
 0.0.0.0 wtmtrack.com
 0.0.0.0 wtmufjwypjjdg.website
@@ -634081,6 +634526,7 @@
 0.0.0.0 wvhnmgwytrfsd.site
 0.0.0.0 wvhqfqaaajv7tmjc.everesttech.net
 0.0.0.0 wvhtzh.vk.com
+0.0.0.0 wvhyqzwryckie.site
 0.0.0.0 wvidpckoslaeem.com
 0.0.0.0 wvietcombank.com
 0.0.0.0 wvifvfcail.duckdns.org
@@ -675111,6 +675557,7 @@
 0.0.0.0 xaogi.com
 0.0.0.0 xaoglctewqvhi.com
 0.0.0.0 xaokiotravel.com
+0.0.0.0 xaopakrqjqnkk.space
 0.0.0.0 xaorabnrqn.duckdns.org
 0.0.0.0 xaovguiskhgtx.space
 0.0.0.0 xapads.adk2x.com
@@ -676134,6 +676581,7 @@
 0.0.0.0 xfqiwwdxryuvo.website
 0.0.0.0 xfqjlpyepv.duckdns.org
 0.0.0.0 xfqnzrkcun.duckdns.org
+0.0.0.0 xfqsdodesfacy.space
 0.0.0.0 xfqsojyuqx.duckdns.org
 0.0.0.0 xfqvsbylvgpvv.site
 0.0.0.0 xfr.mangotv.gt.igexin.com
@@ -676433,6 +676881,7 @@
 0.0.0.0 xhowzcoizz.duckdns.org
 0.0.0.0 xhoxataf.in
 0.0.0.0 xhpbxqhito.com
+0.0.0.0 xhpjileqbhzwy.website
 0.0.0.0 xhpsgcwpnl.duckdns.org
 0.0.0.0 xhpygriykcgib.site
 0.0.0.0 xhqdvrbaoybgw.site
@@ -676974,6 +677423,7 @@
 0.0.0.0 xjoinfast67.duckdns.org
 0.0.0.0 xjoipse.vivarawpets.com
 0.0.0.0 xjoiteee8.com
+0.0.0.0 xjokysmaaoipz.space
 0.0.0.0 xjomjaoryi.duckdns.org
 0.0.0.0 xjompsubsozc.com
 0.0.0.0 xjoptmbmfrcdr.site
@@ -677381,6 +677831,7 @@
 0.0.0.0 xluivt.dw-shop.de
 0.0.0.0 xlujbmaahnwxj.space
 0.0.0.0 xlukx.duckdns.org
+0.0.0.0 xlvaaarmxtewv.site
 0.0.0.0 xlvausdwsmyoww.bid
 0.0.0.0 xlvbxtkbhjnrx.online
 0.0.0.0 xlvhafsuujcmu.online
@@ -680189,6 +680640,7 @@
 0.0.0.0 xtroglobal.com
 0.0.0.0 xtroyfwcmn.xyz
 0.0.0.0 xtrpnqruns.duckdns.org
+0.0.0.0 xtryfpwnkzmxa.site
 0.0.0.0 xts-pay.ru
 0.0.0.0 xts7fgss.com
 0.0.0.0 xtsbyg.com
@@ -680607,6 +681059,7 @@
 0.0.0.0 xwbigncpqx.duckdns.org
 0.0.0.0 xwbrlvpk.my.omniwell.store
 0.0.0.0 xwcjyxludm.duckdns.org
+0.0.0.0 xwckberprevic.online
 0.0.0.0 xwcqgkybve.duckdns.org
 0.0.0.0 xwcqrzkle.com
 0.0.0.0 xwctiiqickiaylo.com
@@ -680876,6 +681329,7 @@
 0.0.0.0 xxrivvxgih.duckdns.org
 0.0.0.0 xxrmyp.carsdirect.com
 0.0.0.0 xxrniridsnzr.com
+0.0.0.0 xxrvhvgqksptg.online
 0.0.0.0 xxrwdgucdnibblingly.review
 0.0.0.0 xxscled.cn
 0.0.0.0 xxsdtb.edreams.com
@@ -681753,6 +682207,7 @@
 0.0.0.0 yafbxjrctv.duckdns.org
 0.0.0.0 yafctntxj.com
 0.0.0.0 yaffenbtrdlkx.website
+0.0.0.0 yafltxtjsjxdl.online
 0.0.0.0 yafoivqxiuaby.online
 0.0.0.0 yafowyeizb.duckdns.org
 0.0.0.0 yafsixmo.com
@@ -682595,6 +683050,7 @@
 0.0.0.0 ydgjaoes.bid
 0.0.0.0 ydgvkcnf.com
 0.0.0.0 ydhbeyt.8iey43y.lol
+0.0.0.0 ydheypen.com
 0.0.0.0 ydholdred.com
 0.0.0.0 ydiggeurkhusl.store
 0.0.0.0 ydiiowyprhnyz.online
@@ -682759,6 +683215,7 @@
 0.0.0.0 yebberdog.duckdns.org
 0.0.0.0 yebdjlaatm.duckdns.org
 0.0.0.0 yebjggrs.com
+0.0.0.0 yebocasino.io
 0.0.0.0 yeboexwt.bid
 0.0.0.0 yebojewh.com
 0.0.0.0 yebrptpwuf.duckdns.org
@@ -683508,6 +683965,7 @@
 0.0.0.0 yhvrxwyscf.duckdns.org
 0.0.0.0 yhvzwwnlmf.duckdns.org
 0.0.0.0 yhw7.duckdns.org
+0.0.0.0 yhwadexncyozg.website
 0.0.0.0 yhwijzjbil.duckdns.org
 0.0.0.0 yhwjuqfsal.duckdns.org
 0.0.0.0 yhwkbezjsa.duckdns.org
@@ -684690,6 +685148,7 @@
 0.0.0.0 yocbiylltzzaj.website
 0.0.0.0 yocezgkpwjrij.website
 0.0.0.0 yockingbelton.top
+0.0.0.0 yoclttsyrgisz.space
 0.0.0.0 yoclub.waphall.com
 0.0.0.0 yocnxozede.bid
 0.0.0.0 yocsprvjl.com
@@ -686411,6 +686870,7 @@
 0.0.0.0 yukjoingrupwa-kaka7.duckdns.org
 0.0.0.0 yukkelfizzing.rest
 0.0.0.0 yuko.duckdns.org
+0.0.0.0 yukongold-casino.io
 0.0.0.0 yukongold.casino
 0.0.0.0 yukongoldinfo.com
 0.0.0.0 yukongt300ex.duckdns.org
@@ -687202,6 +687662,7 @@
 0.0.0.0 yyglwgfibx.duckdns.org
 0.0.0.0 yygoshopping.com
 0.0.0.0 yygrgnpgr.com
+0.0.0.0 yygs999.com
 0.0.0.0 yyhaiaqratxlj.space
 0.0.0.0 yyhassio.duckdns.org
 0.0.0.0 yyhbt.cn
@@ -687933,6 +688394,7 @@
 0.0.0.0 zafl.duckdns.org
 0.0.0.0 zaflsugu.icu
 0.0.0.0 zafmbgwsshcce.website
+0.0.0.0 zafossbwimwu.in
 0.0.0.0 zafrc.5780.site
 0.0.0.0 zafsayaexptas.online
 0.0.0.0 zaful.pxf.io
@@ -688902,6 +689364,7 @@
 0.0.0.0 zd1.zeroredirect1.com
 0.0.0.0 zd1.zeroredirect6.com
 0.0.0.0 zd22casino.com
+0.0.0.0 zda.com
 0.0.0.0 zdads.e-media.com
 0.0.0.0 zdafkehcmdcphi.com
 0.0.0.0 zdajdudqfq.com
@@ -689720,6 +690183,7 @@
 0.0.0.0 zesxzldriqbe.com
 0.0.0.0 zet-casino-ca.com
 0.0.0.0 zet-casino.com
+0.0.0.0 zet-casino.io
 0.0.0.0 zetacasinohouse.com
 0.0.0.0 zetachung.duckdns.org
 0.0.0.0 zetadeo.com
@@ -689742,6 +690206,7 @@
 0.0.0.0 zettaasset.net
 0.0.0.0 zettaiau.com
 0.0.0.0 zettapetta.com
+0.0.0.0 zetunndncrbrf.online
 0.0.0.0 zeturf.nl
 0.0.0.0 zetusripwrecl.website
 0.0.0.0 zeubelge.duckdns.org
@@ -689786,6 +690251,7 @@
 0.0.0.0 zevcigasyau.com
 0.0.0.0 zevdh.plug.tech
 0.0.0.0 zevents.com
+0.0.0.0 zevljjvsjvwvl.space
 0.0.0.0 zevordalic.net
 0.0.0.0 zevrix.pro
 0.0.0.0 zevszinklxyf.com
@@ -689919,6 +690385,7 @@
 0.0.0.0 zfpsotrgboqp.com
 0.0.0.0 zfptshtslxuxw.online
 0.0.0.0 zfq7o819tlkclv.cfd
+0.0.0.0 zfqbutphtgciv.space
 0.0.0.0 zfqmslr.com
 0.0.0.0 zfqmtkhbyh.duckdns.org
 0.0.0.0 zfqpjxuycxdl.com
@@ -690245,6 +690712,7 @@
 0.0.0.0 zhfyizmaqt.log.magento.nasmann.duckdns.org
 0.0.0.0 zhgbimveow.duckdns.org
 0.0.0.0 zhgcahjbqiiuu.website
+0.0.0.0 zhgcmhqmojdnc.site
 0.0.0.0 zhgcwvwmlp.duckdns.org
 0.0.0.0 zhgd3e17.xyz
 0.0.0.0 zhggpqst.shop
@@ -690984,6 +691452,7 @@
 0.0.0.0 zjpvvpattrjxx.website
 0.0.0.0 zjqbxcdwwtvtt.site
 0.0.0.0 zjqgsqappm.duckdns.org
+0.0.0.0 zjqhikudyexpw.space
 0.0.0.0 zjqjs.com
 0.0.0.0 zjrbwb.markenschuhe.de
 0.0.0.0 zjrcrvhtly.duckdns.org
@@ -691096,6 +691565,7 @@
 0.0.0.0 zkfjgzonjvg.com
 0.0.0.0 zkftmtalqr.duckdns.org
 0.0.0.0 zkfwz.youngliving.com
+0.0.0.0 zkgbexqaimtdr.space
 0.0.0.0 zkgbkn.pinkwoman-fashion.com
 0.0.0.0 zkgbp.fidodyrebutikk.com
 0.0.0.0 zkgcfvpcqr.duckdns.org
@@ -692603,6 +693073,7 @@
 0.0.0.0 zo7eijbeo2k.2o7fn6gvj2c6l971mhx88okj8x5.cyou
 0.0.0.0 zo7gihmry2.com
 0.0.0.0 zo99.biz
+0.0.0.0 zoaavvumyukwq.site
 0.0.0.0 zoacaups.net
 0.0.0.0 zoachoar.net
 0.0.0.0 zoachops.com
@@ -693040,6 +693511,7 @@
 0.0.0.0 zospzfvxkshe.com
 0.0.0.0 zostofou.link
 0.0.0.0 zoszujvvlu.com
+0.0.0.0 zotabetcasino.org
 0.0.0.0 zotabox.com
 0.0.0.0 zotero.pilou97.duckdns.org
 0.0.0.0 zoteromedia.com
@@ -693297,6 +693769,7 @@
 0.0.0.0 zq7fe47jh.com
 0.0.0.0 zq88.casino
 0.0.0.0 zq9lh2mouyohjt54f588ci8.2ik13mvpmnnjtm6.cyou
+0.0.0.0 zqaeuutwesr.com
 0.0.0.0 zqaiihtryb.duckdns.org
 0.0.0.0 zqaqyfjywh.duckdns.org
 0.0.0.0 zqaxaqqqutrx.com
@@ -693548,6 +694021,7 @@
 0.0.0.0 zrsaff.petworld.no
 0.0.0.0 zrsetz.shutterstock.com
 0.0.0.0 zrsgmwoqeo.duckdns.org
+0.0.0.0 zrsgpdgtnhkez.space
 0.0.0.0 zrshcirokjuur.online
 0.0.0.0 zrt.casino
 0.0.0.0 zrtacsjfms.duckdns.org
@@ -694207,6 +694681,7 @@
 0.0.0.0 zurichmew.shop
 0.0.0.0 zurilito.online
 0.0.0.0 zurjxe.armine.com
+0.0.0.0 zurl.kr
 0.0.0.0 zurliene6.duckdns.org
 0.0.0.0 zurnwatersolutions.qualtrics.com
 0.0.0.0 zurramanga.duckdns.org
@@ -694346,6 +694821,7 @@
 0.0.0.0 zvhgxssgec.com
 0.0.0.0 zvhjk.petite-plume.com
 0.0.0.0 zvhkzb.ambiendo.de
+0.0.0.0 zvhruccgofmal.site
 0.0.0.0 zvhtzl.icu
 0.0.0.0 zvhwebvc.com
 0.0.0.0 zvhwmgeelgdrx.site
@@ -694851,6 +695327,7 @@
 0.0.0.0 zygitquoti.store
 0.0.0.0 zygoojpfbiqdi.online
 0.0.0.0 zygotebuffi.cyou
+0.0.0.0 zygrbnyipwvbe.site
 0.0.0.0 zygrlkimddjzd.com
 0.0.0.0 zygrophochi.com
 0.0.0.0 zyguhojdymzqx.site
